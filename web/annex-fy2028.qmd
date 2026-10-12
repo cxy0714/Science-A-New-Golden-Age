@@ -1,0 +1,361 @@
+---
+title: "附录：2028 财年研发优先事项备忘录"
+subtitle: "Annex: FY2028 R&D Priorities Memo"
+---
+
+```{=html}
+<div class="pair">
+<div class="en" id="p-annex-fy2028-1-en"><p>EXECUTIVE OFFICE OF THE PRESIDENT</p></div>
+<div class="zh" id="p-annex-fy2028-1-zh"><p>总统行政办公室</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-2-en"><p>WASHINGTON, D.C. 20502</p></div>
+<div class="zh" id="p-annex-fy2028-2-zh"><p>华盛顿哥伦比亚特区 20502</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-3-en"><p>NSTM-5 / M-26-16</p></div>
+<div class="zh" id="p-annex-fy2028-3-zh"><p>NSTM-5 / M-26-16</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-4-en"><p>July 21, 2026</p></div>
+<div class="zh" id="p-annex-fy2028-4-zh"><p>2026 年 7 月 21 日</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-5-en"><p>MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES</p></div>
+<div class="zh" id="p-annex-fy2028-5-zh"><p>致各行政部门与机构首长的备忘录</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-6-en"><p>FROM:</p></div>
+<div class="zh" id="p-annex-fy2028-6-zh"><p>发件人：</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-7-en"><p>MICHAEL J. KRATSIOS</p></div>
+<div class="zh" id="p-annex-fy2028-7-zh"><p>MICHAEL J. KRATSIOS</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-8-en"><p>ASSISTANT TO THE PRESIDENT FOR SCIENCE AND TECHNOLOGY</p></div>
+<div class="zh" id="p-annex-fy2028-8-zh"><p>总统科学技术助理</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-9-en"><p>DIRECTOR, OFFICE OF SCIENCE AND TECHNOLOGY POLICY</p></div>
+<div class="zh" id="p-annex-fy2028-9-zh"><p>科学技术政策办公室主任</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-10-en"><p>RUSSELL T. VOUGHT</p></div>
+<div class="zh" id="p-annex-fy2028-10-zh"><p>RUSSELL T. VOUGHT</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-11-en"><p>DIRECTOR, OFFICE OF MANAGEMENT AND BUDGET</p></div>
+<div class="zh" id="p-annex-fy2028-11-zh"><p>管理和预算办公室主任</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-12-en"><p>SUBJECT:</p></div>
+<div class="zh" id="p-annex-fy2028-12-zh"><p>主题：</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-13-en"><p>Ushering in a New Golden Age of American Innovation: Fiscal Year 2028 Administration Research and Development Budget Priorities</p></div>
+<div class="zh" id="p-annex-fy2028-13-zh"><p>开启美国创新的新黄金时代：2028 财年政府研发预算优先事项</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-14-en"><p>American leadership in science and technology (S&amp;T) underpins our economic prosperity, national security, and public health. As the United States celebrates the 250th anniversary of declaring its independence, we stand at the threshold of a new golden age of American innovation. The future of American leadership in the emerging technologies that will define this century, from frontier artificial intelligence (AI) to quantum technologies and advanced nuclear fission and fusion, depends in part on core Federal investments in foundational research, the basic and use-inspired inquiry upon which a broad range of sciences and engineering work depends. Rapid technological advances are transforming the way scientific research is conducted, the scientific questions that we can now ask, and the scientific instruments we can build. To usher in this new golden age, we must renew the research and development (R&amp;D) enterprise on which our scientific leadership depends.</p></div>
+<div class="zh" id="p-annex-fy2028-14-zh"><p>美国在科学技术（S&amp;T）领域的领导地位，支撑着我们的经济繁荣、国家安全与公共卫生。在美国庆祝宣布独立 250 周年之际，我们正站在美国创新新黄金时代的门槛上。美国能否在将定义本世纪的新兴技术上保持领导地位——从前沿人工智能（AI）到量子技术，再到先进核裂变与核聚变——部分取决于联邦对基础研究的核心投入，即对广泛的科学与工程工作所依赖的基础性的、受使用意图启发的探究的投入。技术的快速进步正在改变科学研究的开展方式、我们今天能够提出的科学问题，以及我们能够建造的科学仪器。要开启这个新的黄金时代，我们必须重振我们的科学领导地位所依赖的研究与开发（R&amp;D）事业。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-15-en"><p>Eighty years ago, Vannevar Bush’s Science: The Endless Frontier laid the foundation for the modern American scientific enterprise, giving rise to the National Science Foundation and a partnership between Federal Government, universities, and industry that won the American Century. Today, that enterprise is being reshaped by forces Bush could not have foreseen. Global competitors are racing to challenge U.S. scientific leadership, developing new methods to drive discovery and innovation. At the same time, our own enterprise has fallen out of balance. Industry now drives a growing share of innovation and even basic research,<a class="noteref" id="fnref-annex-fy2028-1-en" href="#fn-annex-fy2028-1" role="doc-noteref" title="脚注 1"><sup>1</sup></a> where its share of national R&amp;D funding has doubled over the past half century,<a class="noteref" id="fnref-annex-fy2028-2-en" href="#fn-annex-fy2028-2" role="doc-noteref" title="脚注 2"><sup>2</sup></a> and yet we have largely not updated how the Federal Government funds research or partners with the private sector. The government invests more in R&amp;D than ever before, yet much of the non-defense increase is concentrated in the life sciences<a class="noteref" id="fnref-annex-fy2028-3-en" href="#fn-annex-fy2028-3" role="doc-noteref" title="脚注 3"><sup>3</sup></a> and the pace of significant breakthroughs has slowed.<a class="noteref" id="fnref-annex-fy2028-4-en" href="#fn-annex-fy2028-4" role="doc-noteref" title="脚注 4"><sup>4</sup></a> And while transformative discoveries are still made in America, too often we fail to capitalize on them at home, ceding the manufacturing and supply chains that turn discovery into industry to competitors abroad. The opportunity before us is clear: by integrating industry more fully into the research enterprise, funding transformative science, especially in the physical sciences and engineering, and reconnecting scientific discovery with manufacturing and skilled crafts, America can once again fully translate scientific discovery into broad-based prosperity, creating new applications, high-paying jobs, and stronger regional economies.</p></div>
+<div class="zh" id="p-annex-fy2028-15-zh"><p>八十年前，Vannevar Bush 的《科学：无尽的前沿》（<em>Science: The Endless Frontier</em>）为现代美国科学事业奠定了基础，催生了国家科学基金会，以及一个由联邦政府、大学与产业界构成、为美国赢得「美国世纪」的伙伴关系。今天，这一事业正被 Bush 无法预见的力量所重塑。全球竞争者正竞相挑战美国的科学领导地位，开发推动发现与创新的新方法。与此同时，我们自己的事业已经失衡。产业界如今驱动着越来越大的创新份额，甚至包括基础研究，<a class="noteref" id="fnref-annex-fy2028-1-zh" href="#fn-annex-fy2028-1" role="doc-noteref" title="脚注 1"><sup>1</sup></a> 在过去半个世纪里产业界在全国研发经费中的份额翻了一倍，<a class="noteref" id="fnref-annex-fy2028-2-zh" href="#fn-annex-fy2028-2" role="doc-noteref" title="脚注 2"><sup>2</sup></a> 而我们却基本没有更新联邦政府资助研究、与私营部门合作的方式。政府在研发上的投入比以往任何时候都多，但非国防部分的增量大多集中在生命科学领域，<a class="noteref" id="fnref-annex-fy2028-3-zh" href="#fn-annex-fy2028-3" role="doc-noteref" title="脚注 3"><sup>3</sup></a> 重大突破的节奏却已经放缓。<a class="noteref" id="fnref-annex-fy2028-4-zh" href="#fn-annex-fy2028-4" role="doc-noteref" title="脚注 4"><sup>4</sup></a> 尽管变革性发现仍然诞生在美国，我们却常常未能在本土加以利用，把那些将发现转化为产业的制造能力与供应链拱手让给海外竞争者。我们面前的机会十分明确：通过让产业界更充分地融入研究事业、资助变革性科学（尤其是在物理科学与工程领域），并让科学发现与制造和技艺重新连接起来，美国就能再次把科学发现充分转化为广泛的繁荣，创造新的应用、高薪岗位和更强劲的区域经济。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-16-en"><p>This memorandum provides guidance to Federal departments and agencies (agencies) to recalibrate the Nation’s S&amp;T enterprise, implementing the recommendations in Science: A New Golden Age and advancing the President’s vision of a Golden Age of American Innovation. The guidance identifies Administration R&amp;D priorities for agencies to consider, as appropriate, in Fiscal Year (FY) 2028 Budget formulation and related planning. These priorities include: (i) rebalancing R&amp;D portfolios toward foundational research and the physical sciences and engineering, (ii) advancing national S&amp;T missions, (iii) applying AI and emerging technologies to accelerate American research and innovation, (iv) expanding R&amp;D infrastructure for broader ecosystem use, (v) translating scientific advances into stronger regional ecosystems and broad-based prosperity, (vi) considering new funding mechanisms and institutional models to support frontier science, (vii) exploring better ways to identify and develop scientific talent, (viii) rigorously studying, evaluating, and improving how Federal science is funded, and (ix) integrating Federal R&amp;D into the broader S&amp;T enterprise. Agencies should account for this guidance, as appropriate, in their FY 2028 Budget submission to the Office of Management and Budget (OMB).</p></div>
+<div class="zh" id="p-annex-fy2028-16-zh"><p>本备忘录为联邦各部与机构（以下称「各机构」）提供指导，以重新校准国家的 S&amp;T 事业，落实《科学：一个新的黄金时代》（<em>Science: A New Golden Age</em>）中的建议，并推进总统关于「美国创新黄金时代」的愿景。本指导确定了政府在研发方面的优先事项，供各机构在编制 2028 财年（FY）预算及相关规划时酌情考虑。这些优先事项包括：（i）把研发组合重新平衡至基础研究以及物理科学与工程；（ii）推进国家 S&amp;T 使命；（iii）应用 AI 与新兴技术加速美国的研究与创新；（iv）扩展研发基础设施以供更广泛的生态使用；（v）把科学进步转化为更强劲的区域生态与广泛繁荣；（vi）考虑支持前沿科学的新资助机制与机构模式；（vii）探索识别和培养科学人才的更好方式；（viii）严谨地研究、评估并改进联邦科学的资助方式；（ix）把联邦研发融入更广泛的 S&amp;T 事业。各机构在向管理和预算办公室（OMB）提交 2028 财年预算时，应酌情考虑本指导。</p></div>
+</div>
+```
+
+## 2028 财年研发优先领域
+
+```{=html}
+<div class="en h-en"><p>FY 2028 R&amp;D PRIORITY AREAS</p></div>
+```
+
+### 投入基础研究，驱动面向新兴技术的科学突破
+
+```{=html}
+<div class="en h-en"><p>Invest in Foundational Research to Drive Scientific Breakthroughs for Emerging Technologies</p></div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-19-en"><p>Foundational research, including basic and use-inspired inquiry across the sciences and engineering, remains the bedrock of American scientific and technological leadership. The United States derives outsized long-term security, economic, and societal returns from foundational research, which expands the frontier of knowledge and leads to the growth of new industries. The Federal Government’s comparative advantage relative to private industry lies here, in supporting work where payoffs are long-horizon, broadly distributed, and difficult to realize privately. In their FY 2028 budget submissions to OMB, agencies should seek to increase the share of foundational research relative to later-stage development.</p></div>
+<div class="zh" id="p-annex-fy2028-19-zh"><p>基础研究——包括横跨各科学与工程领域的基础性探究与受使用意图启发的探究——依然是美国科学与技术领导地位的基石。美国从基础研究中获得超乎寻常的长期安全、经济与社会回报，它拓展了知识的疆界，并催生新产业的成长。联邦政府相对于私营产业的比较优势正在于此：支持那些回报周期长、分布广泛、私人难以实现的工作。在向 OMB 提交 2028 财年预算时，各机构应设法提高基础研究相对于后期开发的比重。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-20-en"><p>Many of the Administration’s strategic technology priorities, including AI, quantum information science, semiconductors, advanced communications, robotics, advanced manufacturing, nuclear fission and fusion, and space systems, all rely on foundational research across the physical sciences, computer science, and engineering. However, the physical sciences and engineering have declined as a share of the Federal research portfolio over an extended period, even as the strategic importance of these fields has grown.<a class="noteref" id="fnref-annex-fy2028-5-en" href="#fn-annex-fy2028-5" role="doc-noteref" title="脚注 5"><sup>5</sup></a> Agencies are encouraged to prioritize both the absolute level and the relative share of funding directed within budget guidance levels to the physical sciences (physics, chemistry, materials science, space science, etc.), computer science, and supporting engineering and mathematical disciplines, especially within national security-relevant research portfolios. In addition, to support Administration priorities in biotechnology and biomanufacturing, agencies should prioritize foundational research in the biological sciences over the life sciences, a broader category not focused on foundational research.</p></div>
+<div class="zh" id="p-annex-fy2028-20-zh"><p>本届政府的许多战略技术优先事项——包括 AI、量子信息科学、半导体、先进通信、机器人、先进制造、核裂变与核聚变，以及太空系统——都依赖于横跨物理科学、计算机科学与工程的基础研究。然而，在较长时期内，物理科学与工程在联邦研究组合中的份额持续下降，尽管这些领域的战略重要性不断上升。<a class="noteref" id="fnref-annex-fy2028-5-zh" href="#fn-annex-fy2028-5" role="doc-noteref" title="脚注 5"><sup>5</sup></a> 鼓励各机构在预算指导额度内，优先提高投向物理科学（物理学、化学、材料科学、空间科学等）、计算机科学以及支撑性工程与数学学科的资金绝对水平和相对份额，尤其是在与国家安全相关的研究组合中。此外，为支持政府在生物技术与生物制造方面的优先事项，各机构应优先支持生物科学的基础研究，而非生命科学——后者是范围更广、并不以基础研究为焦点的类别。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-21-en"><p>In their FY 2028 Budget submissions to OMB, agencies should note the R&amp;D character classification of proposed activities as a percentage of their R&amp;D funding portfolio and identify the specific programs through which the agency proposes to shift its portfolio toward earlier-stage work. Where agencies propose to significantly expand later-stage development activities, they should justify why such activities would not occur absent Federal support. Agencies should prioritize funding for:</p></div>
+<div class="zh" id="p-annex-fy2028-21-zh"><p>在向 OMB 提交 2028 财年预算时，各机构应说明拟议活动的研发性质分类及其在研发资助组合中所占百分比，并指明本机构拟通过哪些具体项目把组合转向更早期阶段的工作。凡拟大幅扩展后期开发活动的机构，都应说明为何在没有联邦支持的情况下这类活动不会发生。各机构应优先资助以下方向：</p></div>
+</div>
+<div class="pair">
+<div class="en"><ul>
+<li id="p-annex-fy2028-22-en">Physical Sciences. Agencies should prioritize foundational research in the physical sciences, including condensed matter and quantum materials physics, including correlated, magnetic, and topological states; photonics, addressing the generation, control, and detection of light; atomic, molecular, and optical physics, addressing precision measurement and the quantum control of systems; the physics of superconductivity and other quantum phenomena; plasma and high energy density physics; nuclear physics and matter under extreme conditions; gravitational physics and geodesy; and space and planetary physics, including the radiation, plasma, and space-weather conditions in which space systems operate. These fields underpin quantum science, semiconductors, advanced communications networks, future computing technologies, advanced nuclear fission and fusion energy, and space exploration technologies including novel sensing modalities and precision position, navigation, and timing.</li>
+<li id="p-annex-fy2028-23-en">Chemistry and Materials Science. Agencies should prioritize foundational research in chemistry and materials science, including electronic, photonic, and quantum materials; the surface, interface, and defect chemistry that governs fabrication and device performance; materials for extreme environments (e.g., radiation-tolerant, plasma-facing, and high-temperature); the structure, properties, synthesis, and characterization of materials, including condensed matter and materials theory, ceramics, metals, polymers and biomaterials; electrochemistry and solid-state ionics; and catalysis, synthesis, and reaction mechanisms. These fields underpin quantum science and semiconductors and extend across advanced manufacturing, energy production and storage, the nuclear fuel cycle, photonics, and space and hypersonic systems.</li>
+<li id="p-annex-fy2028-24-en">Mathematics and Computer Science. Agencies should prioritize foundational research in the mathematical and computational sciences, including applied and computational mathematics, numerical analysis and uncertainty quantification; classical and quantum information theory; algorithms, computational complexity, and cryptography, including post-quantum cryptography; the mathematics of optimization and control; statistics, probability, and the foundations of data science; and the foundations of high-performance and future computing. These fields underpin advanced communications networks and secure information systems, quantum information science and future computing, and the modeling, simulation, and verification on which fusion energy, advanced manufacturing, and space systems depend.</li>
+<li id="p-annex-fy2028-25-en">Engineering Sciences. Agencies should prioritize foundational research in engineering sciences, including microelectronics, photonic, quantum, and microsystem device engineering and early-stage manufacturing; the electromagnetic, radiofrequency, and propulsion sciences; the thermal, fluid, and mechanical sciences, including solid mechanics and the mechanics of materials; the dynamics, estimation, and control of complex systems, including astrodynamics, guidance, and navigation; and magnet, superconducting, and power-system engineering. These fields underpin semiconductors and advanced communications networks, advanced manufacturing, space systems, robotics, and fission and fusion energy.</li>
+<li id="p-annex-fy2028-26-en">Biological Sciences. Agencies with general, broad-based life-sciences research missions should prioritize foundational research in the biological sciences including molecular, cellular and structural biology; biochemistry and chemical biology; genetics, genomics, and synthetic and engineering biology; neuroscience and the neural basis of cognition and behavior; and microbiology and quantitative biology. These fields underpin biotechnology and biomanufacturing, neurosciences and brain-machine interfaces, and human health and therapeutics.</li>
+</ul></div>
+<div class="zh"><ul>
+<li id="p-annex-fy2028-22-zh">物理科学。各机构应优先支持物理科学的基础研究，包括凝聚态与量子材料物理（含关联态、磁态与拓扑态）；光子学，涉及光的产生、控制与探测；原子、分子与光学物理，涉及精密测量与系统的量子控制；超导及其他量子现象的物理；等离子体与高能量密度物理；核物理与极端条件下的物质；引力物理与大地测量学；以及空间与行星物理，包括空间系统运行所处的辐射、等离子体与空间天气条件。这些领域支撑着量子科学、半导体、先进通信网络、未来计算技术、先进核裂变与核聚变能，以及包括新型传感方式与精确定位、导航和授时在内的太空探索技术。</li>
+<li id="p-annex-fy2028-23-zh">化学与材料科学。各机构应优先支持化学与材料科学的基础研究，包括电子、光子与量子材料；支配制造与器件性能的表面、界面与缺陷化学；面向极端环境的材料（例如耐辐射、面向等离子体以及高温材料）；材料的结构、性质、合成与表征，包括凝聚态与材料理论、陶瓷、金属、聚合物与生物材料；电化学与固态离子学；以及催化、合成与反应机理。这些领域支撑着量子科学与半导体，并横跨先进制造、能源生产与储存、核燃料循环、光子学，以及太空与高超声速系统。</li>
+<li id="p-annex-fy2028-24-zh">数学与计算机科学。各机构应优先支持数学与计算科学的基础研究，包括应用与计算数学、数值分析与不确定性量化；经典与量子信息论；算法、计算复杂性与密码学，包括后量子密码学；最优化与控制的数学；统计学、概率论与数据科学的基础；以及高性能计算与未来计算的基础。这些领域支撑着先进通信网络与安全信息系统、量子信息科学与未来计算，以及聚变能、先进制造和太空系统所依赖的建模、仿真与验证。</li>
+<li id="p-annex-fy2028-25-zh">工程科学。各机构应优先支持工程科学的基础研究，包括微电子、光子、量子与微系统器件工程及早期制造；电磁、射频与推进科学；热学、流体与力学科学，包括固体力学与材料力学；复杂系统的动力学、估计与控制，包括航天动力学、制导与导航；以及磁体、超导与电力系统工程。这些领域支撑着半导体与先进通信网络、先进制造、太空系统、机器人，以及裂变与聚变能。</li>
+<li id="p-annex-fy2028-26-zh">生物科学。承担通用、覆盖面广的生命科学研究使命的机构，应优先支持生物科学的基础研究，包括分子、细胞与结构生物学；生物化学与化学生物学；遗传学、基因组学以及合成与工程生物学；神经科学以及认知与行为的神经基础；以及微生物学与定量生物学。这些领域支撑着生物技术与生物制造、神经科学与脑机接口，以及人类健康与治疗。</li>
+</ul></div>
+</div>
+```
+
+### 推进国家科学技术使命
+
+```{=html}
+<div class="en h-en"><p>Advance National Science and Technology Missions</p></div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-28-en"><p>From the Manhattan Project to the Apollo Program, some of America’s greatest scientific achievements have come from focused national missions that united the Nation’s brightest minds behind an ambitious common goal. This Administration has revived that mission-driven model for a new era of global competition, launching a set of national science and technology efforts targeting the technologies that will define the coming century. Federal R&amp;D is uniquely suited to drive these efforts forward by supporting them across every stage from foundational discovery to demonstration, sustaining the long-horizon and high-risk work the private sector cannot undertake alone, and convening the partnerships among government, industry, academia, and philanthropy through which national missions are ultimately achieved. Realizing them will demand a comparable concentration of national effort. Agencies should align their R&amp;D investments, where appropriate, with the Administration’s national missions, including:</p></div>
+<div class="zh" id="p-annex-fy2028-28-zh"><p>从曼哈顿计划到阿波罗计划，美国一些最伟大的科学成就来自聚焦的国家使命——它们把全国最杰出的人才团结在一个雄心勃勃的共同目标之下。本届政府为全球竞争的新时代复兴了这一使命驱动模式，启动了一系列面向将定义下个世纪的技术的国家科学技术努力。联邦研发特别适合推动这些努力向前：在从基础发现到演示验证的每个阶段予以支持，维系私营部门无法独自承担的长周期、高风险工作，并汇聚政府、产业界、学术界与慈善界之间的伙伴关系——国家使命最终正是通过这些伙伴关系得以实现。要实现这些使命，需要同等程度的全国性力量投入。各机构应酌情使其研发投资与政府的国家使命保持一致，这些使命包括：</p></div>
+</div>
+<div class="pair">
+<div class="en"><ul>
+<li id="p-annex-fy2028-29-en">AI: The Genesis Mission to harness AI to double the productivity and impact of America’s research enterprise within a decade, including agency-specific contributions across national S&amp;T challenges and compute and research infrastructure for the American Science and Security Platform, pursuant to Executive Order 14363;</li>
+<li id="p-annex-fy2028-30-en">Quantum: The Quantum Computer for Application Development and Discovery Science (QC-ADDS) effort to develop a quantum computer at a scale intended to initiate the era of quantum-enabled scientific discovery, pursuant to Executive Order 14413;</li>
+<li id="p-annex-fy2028-31-en">Fusion: Demonstration of commercial fusion power in the United States by the mid-2030s, following the Department of Energy’s Fusion Science &amp; Technology Roadmap;</li>
+<li id="p-annex-fy2028-32-en">Space: Return of Americans to the lunar surface by 2028, the construction of a lunar base, the National Initiative for American Space Nuclear Power, and the development of a responsive and adaptive national security space architecture, pursuant to Executive Order 14369;</li>
+<li id="p-annex-fy2028-33-en">Robotics: General-purpose autonomous systems capable of dexterous manipulation, mobility, and reliable operation in real-world environments, to initiate the era of physical AI-driven scientific discovery and American reindustrialization; and</li>
+<li id="p-annex-fy2028-34-en">Semiconductors: Next-generation semiconductor technologies, including EUV-and-beyond photolithography, 3D advanced packaging, and novel materials for future semiconductor devices and technology nodes.</li>
+</ul></div>
+<div class="zh"><ul>
+<li id="p-annex-fy2028-29-zh">AI：Genesis Mission（「创世纪使命」），旨在驾驭 AI，在十年内使美国研究事业的生产率与影响力翻倍，包括各机构针对国家 S&amp;T 挑战的具体贡献，以及依据第 14363 号行政命令为「美国科学与安全平台」提供算力与研究基础设施；</li>
+<li id="p-annex-fy2028-30-zh">量子：面向应用开发与发现科学的量子计算机（QC-ADDS）工作，旨在开发一台规模足以开启量子赋能的科学发现时代的量子计算机，依据第 14413 号行政命令；</li>
+<li id="p-annex-fy2028-31-zh">聚变：依照能源部的《聚变科学与技术路线图》，在 2030 年代中期前在美国实现商业聚变发电的示范；</li>
+<li id="p-annex-fy2028-32-zh">太空：在 2028 年前让美国人重返月球表面、建造月球基地、实施「美国太空核动力国家倡议」，并依据第 14369 号行政命令发展反应迅速、适应力强的国家安全太空架构；</li>
+<li id="p-annex-fy2028-33-zh">机器人：具备灵巧操作、移动能力并能在真实环境中可靠运行的通用自主系统，以开启物理 AI 驱动的科学发现与美国再工业化的时代；以及</li>
+<li id="p-annex-fy2028-34-zh">半导体：下一代半导体技术，包括 EUV 及更先进的光刻、3D 先进封装，以及面向未来半导体器件与技术节点的新型材料。</li>
+</ul></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-35-en"><p>Agencies should support these missions through the full range of R&amp;D policy instruments available to them. Each agency should identify, through the FY 2028 Budget process and other established budget review channels how its mission-specific research priorities and programs can support these national goals, consistent with statutory authorities, agency missions, and available resources. In their FY 2028 budget submissions, agencies should consider how to prioritize their R&amp;D infrastructure, including user facilities, testbeds, and high-performance computing assets, toward mission needs and expand access for university and industry partners. Agencies should also propose investments that employ the full set of talent and incentive mechanisms at their disposal, including graduate and postdoctoral fellowships to build the skilled workforce these missions require, and prizes, grand challenges, and competitions to mobilize the broadest possible range of innovators toward the hardest problems.</p></div>
+<div class="zh" id="p-annex-fy2028-35-zh"><p>各机构应利用其掌握的全部研发政策工具支持这些使命。每个机构都应通过 2028 财年预算流程以及其他既有的预算审查渠道，识别其特定使命的研究优先事项与项目如何在符合法定权限、机构使命和可用资源的前提下支持这些国家目标。在 2028 财年预算申报中，各机构应考虑如何使其研发基础设施——包括用户设施、试验台和高性能计算资产——优先服务于使命需求，并扩大大学与产业伙伴的使用机会。各机构还应提出投资建议，动用其可支配的全套人才与激励手段，包括培养这些使命所需技术人才的研究生与博士后奖学金，以及面向最难问题、动员尽可能广泛创新者的奖项、重大挑战和竞赛。</p></div>
+</div>
+```
+
+### 为科学发现的新时代奠定基础
+
+```{=html}
+<div class="en h-en"><p>Build the Foundation for a New Era of Scientific Discovery</p></div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-37-en"><p>AI and emerging technologies have immense potential to transform science by unlocking novel experimental and analytical capabilities, enabling new ways to organize the research enterprise, and prompting new fields of scientific inquiry. In November 2025, President Trump launched the Genesis Mission, a whole-of-government effort to harness the AI-driven computing revolution with the intent to double the productivity and impact of American science and engineering within a decade. Rather than crowding subfields of AI research where private capital is already abundant, the Genesis Mission is designed to ensure America’s scientific enterprise is first and fastest to harness these technologies for discovery across the scientific landscape.</p></div>
+<div class="zh" id="p-annex-fy2028-37-zh"><p>AI 与新兴技术拥有巨大潜力，可以变革科学：释放全新的实验与分析能力，开辟组织研究事业的新方式，并催生新的科学探究领域。2025 年 11 月，Trump 总统启动 Genesis Mission，这是一项全政府努力，旨在驾驭 AI 驱动的计算革命，目标是在十年内使美国科学与工程的生产率与影响力翻倍。Genesis Mission 的设计意图不是挤入私人资本本已充裕的 AI 研究子领域，而是确保美国的科学事业在整个科学版图上最先、最快地利用这些技术开展发现。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-38-en"><p>Agencies should identify opportunities to integrate AI and other emerging technologies into research as appropriate; prepare Federal scientific instrumentation, datasets, and compute for the AI-for-science transformation; and treat support for the Genesis Mission as a central R&amp;D priority. Proposed agency efforts in this area should be noted in FY 2028 Budget submissions. Agencies should prioritize funding for:</p></div>
+<div class="zh" id="p-annex-fy2028-38-zh"><p>各机构应识别机会，酌情把 AI 与其他新兴技术融入研究；为联邦科学仪器、数据集与算力做好迎接「AI for science」转型的准备；并把对 Genesis Mission 的支持视为核心研发优先事项。各机构在这一领域的拟议工作应在 2028 财年预算申报中予以说明。各机构应优先资助以下方向：</p></div>
+</div>
+<div class="pair">
+<div class="en"><ul>
+<li id="p-annex-fy2028-39-en">AI as an Instrument of Scientific Discovery. Agencies should fund research that uses AI as a new instrument of scientific discovery, not merely as a tool to augment existing capabilities. Agencies should seek out proposals that thoughtfully integrate AI into scientific workflows, rather than projects that apply AI for incremental gains or without clear justification for why the problem requires AI-specific methods. Agencies should align R&amp;D funding with the Genesis Mission’s National S&amp;T Challenge areas where appropriate and propose new or expanded challenges consistent with their own priorities. Given the scale of private sector investment in AI, agencies should prioritize work that industry is unlikely to pursue on its own, including pre-competitive research outputs and enabling platform technologies.</li>
+<li id="p-annex-fy2028-40-en">Scientific Foundation Model Development. Agencies should propose investments that support domain-specific scientific foundation models that enable high-fidelity simulations of natural phenomena and accelerate scientific discovery across Genesis Mission’s National S&amp;T Challenge areas, including advanced manufacturing, biotechnology, critical materials, nuclear fission and fusion, quantum information science, and semiconductors, and coordinate with other agencies as applicable. These models require curated scientific datasets and compute that no performer can assemble alone, making the Federal Government uniquely well-positioned to develop them as shared, pre-competitive assets for the research community.</li>
+<li id="p-annex-fy2028-41-en">Scientific Data Generation for AI. Agencies should propose efforts to make internal scientific datasets available for use and investments in the data infrastructure that makes them accessible for AI training and inference. Agencies should create incentives for researchers to curate and share valuable data that is routinely abandoned due to lack of dedicated funding or recognition, including experimental records, negative results, and operational data from laboratory procedures. Agencies should further support the creation, curation, and stewardship of ambitious new datasets that could open entirely new fields of inquiry or deliver exceptional value to the Nation’s S&amp;T enterprise. As laboratory automation matures, agencies should propose investments in infrastructure to capture data at an industrial scale, laying the groundwork for a future of rapid, autonomous scientific discovery.</li>
+<li id="p-annex-fy2028-42-en">Integration of AI with Scientific Instrumentation. Agencies should build on the Genesis Mission by proposing investments in robotics, automated laboratories, modernization of user facilities to operate within closed-loop AI scientific workflows, and autonomous control of large-scale experiments in which AI systems generate hypotheses, conduct experiments, interpret results, and iterate in real time. Agencies should leverage their purchasing power to build domestic supply chains for AI-ready scientific instrumentation and drive the redesign of these instruments with open interfaces, standardized data formats, and cross-vendor interoperability, making it easier for researchers to connect instruments and use the software tools best suited to their work.</li>
+</ul></div>
+<div class="zh"><ul>
+<li id="p-annex-fy2028-39-zh">把 AI 作为科学发现的手段。各机构应资助把 AI 用作科学发现新手段的研究，而不只是把它当作增强既有能力的工具。各机构应寻找那些把 AI 深思熟虑地融入科学工作流的提案，而不是那些仅以 AI 换取渐进收益、或未清楚说明该问题为何需要 AI 专用方法的项目。各机构应酌情使研发资助与 Genesis Mission 的「国家 S&amp;T 挑战」领域保持一致，并提出符合自身优先事项的新的或扩展的挑战。鉴于私营部门在 AI 上的投资规模，各机构应优先支持产业界不太可能自行开展的工作，包括竞争前的研究产出与使能平台技术。</li>
+<li id="p-annex-fy2028-40-zh">科学基础模型开发。各机构应提出投资建议，支持面向特定领域的科学基础模型，以实现对自然现象的高保真模拟，并加速 Genesis Mission「国家 S&amp;T 挑战」领域中的科学发现，这些领域包括先进制造、生物技术、关键材料、核裂变与聚变、量子信息科学与半导体；并酌情与其他机构协调。这类模型需要经过整理的科学数据集与算力，任何单一执行方都无法独自汇集，这使联邦政府处于独特有利的位置，可以把它们开发为研究共同体共享的竞争前资产。</li>
+<li id="p-annex-fy2028-41-zh">面向 AI 的科学数据生成。各机构应提出举措，使内部科学数据集可供使用，并投资于使这些数据可用于 AI 训练与推理的数据基础设施。各机构应建立激励，促使研究者整理并共享那些因缺乏专门经费或认可而经常被弃置的宝贵数据，包括实验记录、负面结果以及来自实验室操作的运行数据。各机构还应支持创建、整理和管护可能开辟全新探究领域、或为国家 S&amp;T 事业带来非凡价值的宏大新数据集。随着实验室自动化日益成熟，各机构应提出对基础设施的投资建议，以工业规模采集数据，为快速、自主的科学发现的未来奠定基础。</li>
+<li id="p-annex-fy2028-42-zh">AI 与科学仪器的整合。各机构应在 Genesis Mission 的基础上，提出对机器人、自动化实验室、用户设施现代化（以在闭环 AI 科学工作流中运行），以及大规模实验自主控制的投资建议——在这些实验中，AI 系统实时提出假设、开展实验、解读结果并迭代。各机构应利用其购买力，为面向 AI 的科学仪器建立国内供应链，并推动这些仪器以开放接口、标准化数据格式和跨厂商互操作性重新设计，使研究者更容易连接仪器，并使用最适合其工作的软件工具。</li>
+</ul></div>
+</div>
+```
+
+### 扩展世界一流研发基础设施以供广泛使用
+
+```{=html}
+<div class="en h-en"><p>Expand World-Class R&amp;D Infrastructure for Broad Use</p></div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-44-en"><p>The productivity of Federal R&amp;D depends on scientific infrastructure, including the physical platforms, user facilities, instrumentation, compute, and laboratory spaces through which research is conducted. These assets have long planning horizons, high fixed costs, and operating requirements that extend well beyond the grants they support, and are often out of reach for individual investigators and institutions. When broadly accessible, this infrastructure enables scientists to pursue cutting-edge research and focus on conducting their best science, rather than the time and capital required to build their own infrastructure and facilities.</p></div>
+<div class="zh" id="p-annex-fy2028-44-zh"><p>联邦研发的生产率取决于科学基础设施，包括研究赖以开展的实体平台、用户设施、仪器、算力与实验室空间。这些资产规划周期长、固定成本高，其运行需求远远超出它们所支持的单项资助，而且往往超出单个研究者和单个机构的能力范围。当这些基础设施可以广泛获取时，科学家就能从事前沿研究，把精力集中在做出最好的科学，而不是耗费在建造自有基础设施与设施所需的时间与资本上。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-45-en"><p>In their FY 2028 budget submissions to OMB, agencies should assess scientific infrastructure needs deliberately rather than treating them as a residual claim on research grants. In particular, agencies should propose investments in mid-scale instrumentation, fully funded within a fiscal year and aligned with Administration priorities, given it has historically been underfunded relative to its scientific importance; advanced compute; and sustained operating support for user facilities and shared platforms. Where agencies propose to significantly reduce or defer these investments, they should justify the proposal and explain how they will address the resulting gaps and sustain operation of existing facilities. To expand the reach of investments in scientific infrastructure, agencies should prioritize funding for:</p></div>
+<div class="zh" id="p-annex-fy2028-45-zh"><p>在向 OMB 提交 2028 财年预算时，各机构应审慎评估科学基础设施需求，而不是把它们当作研究资助的剩余支出项。特别是，各机构应提出对以下方面的投资建议：中等规模仪器——鉴于其相对于科学重要性历来资金不足，应在一个财年内全额拨款并与政府优先事项保持一致；先进算力；以及对用户设施与共享平台的持续运行支持。凡拟大幅削减或推迟这些投资的机构，都应说明理由，并解释将如何弥补由此产生的缺口、维持现有设施的运行。为扩大科学基础设施投资的覆盖范围，各机构应优先资助以下方向：</p></div>
+</div>
+<div class="pair">
+<div class="en"><ul>
+<li id="p-annex-fy2028-46-en">User Facilities for the S&amp;T Ecosystem. Agencies should propose investments in cutting-edge R&amp;D infrastructure and instrumentation to enable researchers and innovators to validate new hypotheses, test prototypes, and scale new technologies, lowering barriers to frontier research. Proposed investments should be consistent with overarching Administration priorities to both maximize the use of existing infrastructure by addressing deferred maintenance and increase efficiency by reducing footprints and when necessary, include new infrastructure to achieve the greatest utilization by a broad community of researchers, including the private sector and other non-Federal researchers. Agencies should consider the resources needed to increase access to Federal R&amp;D facilities by adopting evaluation criteria that weigh innovative potential and commercial urgency alongside scientific merit, streamlining Cooperative Research and Development Agreements and licensing processes, and reducing administrative burdens on industry users. These arrangements should encourage facilities to leverage industry cost-share arrangements and user-fee revenue to expand capacity and fund next-generation instrumentation.</li>
+<li id="p-annex-fy2028-47-en">Advanced Compute for Federal R&amp;D. Compute is the foundation of AI-enabled science, and Federal infrastructure must keep pace with the scale and flexible access researchers now require. Agencies should propose investments that expand access to advanced compute infrastructure, including unified access portals, standardized applications, and common data and software environments that allow researchers to move work seamlessly across facilities. Application processes should lower the barrier to entry for students, individual investigators, and small teams, particularly for fast-turnaround projects. Federal compute investment should offer capabilities differentiated from the commercial market, such as highly secure data centers for sensitive research, access to unique Federal datasets, and specialized AI accelerators and computing architectures. Where commercial compute is cost-effective and meets researcher needs, agencies should pursue public-private partnerships or procure capacity through commercial providers to improve agility and time-to-science.</li>
+</ul></div>
+<div class="zh"><ul>
+<li id="p-annex-fy2028-46-zh">服务 S&amp;T 生态的用户设施。各机构应提出对前沿研发基础设施与仪器的投资建议，使研究者与创新者能够验证新假设、测试原型并规模化新技术，从而降低前沿研究的门槛。拟议投资应符合政府的总体优先事项：既通过解决延迟维护问题来最大化利用现有基础设施，也通过缩减占地来提高效率；必要时还应纳入新基础设施，以实现包括私营部门和其他非联邦研究者在内的广泛研究共同体的最大利用率。各机构应考虑为扩大联邦研发设施的使用机会所需的资源，采取的评价标准应把创新潜力与商业紧迫性同科学价值一并权衡，简化「合作研究与发展协议」与许可流程，并减轻产业用户的行政负担。这些安排应鼓励设施利用产业成本分担安排与用户费收入来扩展能力、资助下一代仪器。</li>
+<li id="p-annex-fy2028-47-zh">服务联邦研发的先进算力。算力是 AI 赋能科学的基础，联邦基础设施必须跟上研究者如今所需的规模与灵活获取方式。各机构应提出投资建议，扩大对先进算力基础设施的获取，包括统一访问门户、标准化应用，以及让研究者能够在不同设施之间无缝迁移工作的通用数据与软件环境。申请流程应降低学生、单个研究者和小型团队的准入门槛，尤其是对需要快速周转的项目。联邦算力投资应提供有别于商业市场的能力，例如用于敏感研究的高安全性数据中心、对联邦独有数据集的访问，以及专用的 AI 加速器与计算架构。凡商业算力具有成本效益并能满足研究者需求之处，各机构应寻求公私伙伴关系，或通过商业供应商采购算力，以提升灵活性并缩短从研究到科学成果的时间。</li>
+</ul></div>
+</div>
+```
+
+### 以研发强化区域制造业与产业
+
+```{=html}
+<div class="en h-en"><p>Leverage R&amp;D to Strengthen Regional Manufacturing and Industry</p></div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-49-en"><p>Federal R&amp;D investments can be leveraged to translate scientific discoveries into benefits for all Americans, securing broad-based prosperity and supporting the reindustrialization of our Nation. Achieving these objectives require Federal investments that pair foundational research with advanced manufacturing, strengthen regional ecosystems, build resilient supply chains, develop a skilled technical workforce, and catalyze non-Federal investment to the greatest extent possible.</p></div>
+<div class="zh" id="p-annex-fy2028-49-zh"><p>联邦研发投资可以被用来把科学发现转化为全体美国人的福祉，确保广泛繁荣并支持我国的再工业化。实现这些目标需要联邦投资把基础研究与先进制造配对，强化区域生态，建设有韧性的供应链，培养技能型技术劳动力，并尽可能催化非联邦投资。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-50-en"><p>Agencies should prioritize funding for manufacturing R&amp;D across strategic technologies with the goal of building domestic manufacturing capacity and supply chains to produce the next generation of semiconductors, advanced materials, biotechnology, nuclear technologies, and robotics. Manufacturing R&amp;D spans the full research spectrum: the manufacturing science underlying how things are made, including process science, materials science, metrology, automation, and the underlying physics, chemistry, and engineering; advanced engineering methods and production technologies; translational programs such as manufacturing innovation institutes, pilot lines, and demonstration facilities that bridge laboratory discovery and production; and supply chain analytics. Cost-share arrangements should generally be considered, and where appropriate, expected for later-stage manufacturing and demonstration activities, while earlier-stage manufacturing science should be supported on terms appropriate to foundational research.</p></div>
+<div class="zh" id="p-annex-fy2028-50-zh"><p>各机构应优先资助横跨战略技术的制造研发，目标是建设国内制造能力与供应链，以生产下一代半导体、先进材料、生物技术、核技术与机器人。制造研发覆盖整个研究谱系：支撑「事物如何被制造」的制造科学，包括工艺科学、材料科学、计量学、自动化，以及其背后的物理、化学与工程；先进工程方法与生产技术；连接实验室发现与生产的转化类项目，如制造创新研究所、中试线和示范设施；以及供应链分析。通常应考虑成本分担安排；对于后期制造与示范活动，在适当情况下应将其作为预期做法；而更早期阶段的制造科学则应按适合基础研究的条件予以支持。</p></div>
+</div>
+```
+
+## 研发优先实践
+
+```{=html}
+<div class="en h-en"><p>R&amp;D PRIORITY PRACTICES</p></div>
+```
+
+### 1. 开发支持前沿科学的新机制
+
+```{=html}
+<div class="en h-en"><p>1. Develop New Mechanisms to Support Frontier Science</p></div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-53-en"><p>America must continue to expand the repertoire of institutions and R&amp;D funding mechanisms it uses to conduct science, enabling our best researchers to tackle the most ambitious S&amp;T challenges that exist. These mechanisms should account for forces reshaping the scientific enterprise, including the rise of funding from industry and philanthropy, and the growing importance of genuinely integrated, multidisciplinary teams.</p></div>
+<div class="zh" id="p-annex-fy2028-53-zh"><p>美国必须继续扩展其开展科学所依托的机构与研发资助机制的组合，使我们最优秀的研究者能够攻克现存最宏大的 S&amp;T 挑战。这些机制应考虑到正在重塑科学事业的力量，包括来自产业界与慈善界资金的兴起，以及真正整合的多学科团队日益重要。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-54-en"><p>The Federal Government should incentivize new institutional models that complement conventional principal-investigator driven laboratories, industry laboratories, and Federal R&amp;D facilities. It should also supplement conventional, consensus-driven peer review, which excels at advancing established lines of inquiry, with new review mechanisms that are better suited to recognizing high-risk, high-reward research, early-career talent, or ideas that fall outside established disciplinary boundaries. Agencies should adopt a deliberate, portfolio-based approach that matches funding mechanisms to the S&amp;T challenges they seek to address, maximizing Federal return on investment through an explicit mix of modalities, risk profiles, and time horizons. A broader menu of institutional structures and funding mechanisms will enable new forms of scientific work, encourage scientists to pursue novel lines of inquiry, and attract higher-caliber reviewers empowered to make bold bets.</p></div>
+<div class="zh" id="p-annex-fy2028-54-zh"><p>联邦政府应激励新的机构模式，以补充传统的首席研究员主导的实验室、产业实验室与联邦研发设施。它还应在传统的共识驱动型同行评议——它擅长推进既有的研究路线——之外，补充新的评审机制，以更好地识别高风险高回报研究、早期职业人才，或落在既有学科边界之外的想法。各机构应采取审慎的、以组合为基础的方法，使资助机制与其要应对的 S&amp;T 挑战相匹配，通过明确搭配不同模式、风险特征与时间跨度，最大化联邦投资回报。更丰富的机构结构与资助机制菜单将催生新的科研工作形式，鼓励科学家探索新的研究路线，并吸引有权做出大胆押注的更高水平评审人。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-55-en"><p>Agencies are encouraged to review their existing institutional models and funding mechanisms, explore new ones to close gaps in areas critical for national priorities, and construct balanced Federal R&amp;D portfolios according to the following principles:</p></div>
+<div class="zh" id="p-annex-fy2028-55-zh"><p>鼓励各机构审视其现有的机构模式与资助机制，探索新的模式与机制以填补对国家优先事项至关重要的领域中的空白，并按照以下原则构建均衡的联邦研发组合：</p></div>
+</div>
+<div class="pair">
+<div class="en"><ul>
+<li id="p-annex-fy2028-56-en">Support a Diverse Portfolio of Institutions. The Federal Government should reflect a portfolio of institutions that collectively advance the core objectives of the Nation’s S&amp;T enterprise, including conducting a range of scientific work, training the next generation of scientists, and translating scientific discoveries into concrete benefits for Americans. Agencies should identify objectives that remain unaddressed because no existing institution is well-suited to pursue them. One notable gap is agile, mid-scale science: infrastructure-heavy, multidisciplinary basic research that requires coordinated teams of ten to a hundred people. Agencies have begun to address these gaps through new models like the U.S. National Science Foundation’s (NSF) X-Labs and certain Advanced Research Projects Agency programs. Agencies should consider these models and experiment with additional designs to enable new types of scientific pursuits.</li>
+<li id="p-annex-fy2028-57-en">Increase Grant Durations for Transformative Research. Agencies should expand the number of long-duration grants, ideally lasting five years or more, that give our best researchers the time and autonomy to pursue bold, ambitious projects whose most important results may take years to emerge. These awards should be fully-funded in year one, with all resources earmarked upfront, to minimize administrative burdens and reduce pressure for researchers to generate intermediate results to secure continued funding. This upfront commitment should be paired with clear performance metrics and periodic reviews, with the understanding that funding may be withdrawn and redirected if needed. Existing programs, such as the National Institute of Health (NIH) Director’s Pioneer Award and the DOW Vannevar Bush Faculty Fellowship, offer useful models for long-duration, investigator-centered support for creative basic research.</li>
+<li id="p-annex-fy2028-58-en">Expand Use of Fast Grants for Exploratory Projects. Agencies should consider establishing or expanding, where authorized and consistent with available resources, flexible, low-friction “fast grants” to support preliminary research, exploratory projects, and time-sensitive work. These programs should feature simplified applications requiring just a few pages of writing, rapid review timelines of under one month, and award sizes calibrated to proof-of-concept work. Agencies should encourage greater use of existing mechanisms and ensure that they meet their intended timelines, while developing additional fast-track pathways as needed.</li>
+<li id="p-annex-fy2028-59-en">Design Ambitious Prizes and Challenges. Well-designed prizes can spur cross-disciplinary collaboration, attract nontraditional entrants, mobilize substantial private capital, and catalyze entirely new industries with a relatively small amount of funding. Agencies should expand their use of prizes and challenges to advance national missions. To maximize participation from nontraditional teams, agencies should emphasize outcome-based goals rather than prescribing specific methods. Prizes should target at least a 3:1 leverage of private to Federal investment, and may be paired with complementary incentives such as advance procurement commitments, regulatory fast-tracking, and access to Federal testing facilities.</li>
+<li id="p-annex-fy2028-60-en">Experiment with Emerging Funding Mechanisms. Agencies should study, pilot, and evaluate whether there are existing models or additional designs for innovative funding mechanisms beyond those described above and in conjunction with OMB and OSTP. Mechanisms for consideration could include, as appropriate, “golden tickets” that let individual agency technical reviewers recommend unconventional proposals that may not pass consensus-driven review panels, which tend to skew toward funding more incremental advances; advance market commitments that signal demand for a scientific or technical capability before it exists, subject to available appropriations and demonstration of capabilities against clearly defined criteria; regranting models that delegate funding authority to working scientists to tap distributed expertise; and more speculative approaches such as quadratic funding or eigenfunding. Such models could surface valuable ideas too divisive for committees and attract higher-quality reviewers by empowering them to exercise independent scientific judgment. Such approaches will not be a one-size-fits-all solution to grantmaking, but should be appropriately explored for their potential role in the Federal R&amp;D portfolio as agencies look to more effectively support the American S&amp;T enterprise. Agencies should ensure that new funding mechanisms strictly adhere to agencies’ legal authorities and conflict of interest policies, and that funded proposals meet a level of scientific rigor appropriate for Gold Standard Science.</li>
+</ul></div>
+<div class="zh"><ul>
+<li id="p-annex-fy2028-56-zh">支持多样化的机构组合。联邦政府应体现一个机构组合，共同推进国家 S&amp;T 事业的核心目标，包括开展各类科学工作、培养下一代科学家，以及把科学发现转化为美国人的具体福祉。各机构应识别那些因没有任何现有机构适合承担而仍未得到回应的目标。一个显著的空白是敏捷的中等规模科学：基础设施密集、多学科的基础研究，需要十人到一百人的协同团队。各机构已开始通过新的模式来填补这些空白，例如美国国家科学基金会（NSF）的 X-Labs 以及某些高级研究计划局项目。各机构应考虑这些模式，并试验更多设计，以实现新型的科学探索。</li>
+<li id="p-annex-fy2028-57-zh">延长变革性研究的资助期限。各机构应扩大长期资助的数量，最好持续五年或更久，让我们最优秀的研究者有时间和自主权去从事大胆、雄心勃勃的项目，而这类项目最重要的成果可能需要数年才会显现。这些资助应在第一年就全额拨付，所有资源预先指定，以最大限度减少行政负担，并减轻研究者为获得持续资助而产出中间成果的压力。这种预先承诺应配以明确的绩效指标与定期评审，同时也应明确：必要时资金可能被撤回并转投他处。现有项目，例如国立卫生研究院（NIH）主任先锋奖和战争部（DOW）的 Vannevar Bush 教职奖学金，为创造性的基础研究提供了长周期、以研究者为中心支持的有益范本。</li>
+<li id="p-annex-fy2028-58-zh">扩大「快速资助」在探索性项目中的使用。各机构应在获得授权且与可用资源相符的前提下，考虑设立或扩大灵活、低摩擦的「快速资助」，以支持初步研究、探索性项目和有时效性的工作。这些项目应采用简化的申请流程，只需数页文字；评审周期迅速，不足一个月；资助额度按概念验证工作来校准。各机构应鼓励更多使用现有机制，确保其达到既定时间要求，并按需开发更多快速通道。</li>
+<li id="p-annex-fy2028-59-zh">设计宏大的奖项与挑战。设计良好的奖项可以激发跨学科协作，吸引非传统的参赛者，调动大量私人资本，并以相对少量的资金催生全新的产业。各机构应扩大使用奖项与挑战来推进国家使命。为最大限度吸引非传统团队参与，各机构应强调以结果为导向的目标，而不是规定具体方法。奖项应至少以 3:1 的比例撬动私人投资与联邦投资，并可配以互补激励，例如预先采购承诺、监管快速通道，以及使用联邦测试设施的机会。</li>
+<li id="p-annex-fy2028-60-zh">试验新兴资助机制。各机构应与 OMB 和 OSTP 协作，研究、试点并评估在上述机制之外是否存在创新资助机制的现有模型或更多设计。可考虑的机制酌情包括：「金色门票」，让单个机构的技术评审人推荐可能无法通过共识驱动型评审小组的非传统提案——这类小组往往倾向于资助更渐进式的进展；预先市场承诺，在某种科学或技术能力尚不存在时便发出需求信号，但须以可用拨款为限，并证明该能力符合明确定义的标准；再资助模式，把资助权限委托给在职科学家，以利用分散的专业知识；以及更具探索性的方法，如二次方资助或特征值资助。这类模式可以发掘出对委员会而言过于有争议的宝贵想法，并通过赋予评审人独立科学判断的权力来吸引更高质量的评审人。这些方法不会是资助工作的放之四海而皆准的解决方案，但随着各机构寻求更有效地支持美国 S&amp;T 事业，应就其可能在联邦研发组合中扮演的角色进行适当探索。各机构应确保新的资助机制严格遵守各机构的法定权限与利益冲突政策，并确保获得资助的提案达到适合「金标准科学」的科学严谨程度。</li>
+</ul></div>
+</div>
+```
+
+### 2. 识别并培养顶尖技术人才
+
+```{=html}
+<div class="en h-en"><p>2. Identify and Develop Top Technical Talent</p></div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-62-en"><p>The Federal Government should orient around the scientists, engineers, and technicians who serve our Nation, providing them with the support, freedom, and opportunities needed to do their best work. S&amp;T workforce programs should select the best and brightest Americans, recognizing that these individuals are distributed across the Nation, not isolated to major metropolitan areas. The programs should identify and invest early in high-potential students and early-career individuals, while cultivating their long-term commitment to America’s S&amp;T enterprise.</p></div>
+<div class="zh" id="p-annex-fy2028-62-zh"><p>联邦政府应围绕那些为国家服务的科学家、工程师和技术人员来定位自身，为他们提供做出最好工作所需的支持、自由与机会。S&amp;T 人才队伍项目应选拔最优秀的美国人，并认识到这些人才分布在全国各地，而非只集中在大都市区。这些项目应尽早识别并投资于高潜力学生与早期职业人才，同时培养他们对美国 S&amp;T 事业的长期投入。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-63-en"><p>Agencies with S&amp;T workforce development programs, including graduate fellowships; K-12 Science, Technology, Engineering, and Mathematics (STEM) education; and skilled technical workforce programs should review existing efforts and, where appropriate, propose modifications or new approaches through established budget and policy processes to:</p></div>
+<div class="zh" id="p-annex-fy2028-63-zh"><p>设有 S&amp;T 人才队伍发展项目的机构——包括研究生奖学金，K-12 科学、技术、工程与数学（STEM）教育，以及技能型技术劳动力项目——应审视现有工作，并酌情通过既定的预算与政策流程提出修改或新方法，以：</p></div>
+</div>
+<div class="pair">
+<div class="en"><ul>
+<li id="p-annex-fy2028-64-en">Identify Exceptional Talent Nationwide. S&amp;T workforce programs should identify and support all talented Americans across geographies, incomes, and demographics. Exceptional talent is defined by demonstrated technical ability, not background or identity. Agencies should therefore anchor selection processes in criteria predictive of STEM success, such as reasoning assessments, domain competitions, engineering portfolios, and technical work, rather than relying on self-selection, essays, institutional referrals, or polish and credentials. Agencies should leverage merit-based identification mechanisms that cover as many people as possible (e.g., SAT scores or other standardized quantitative assessments) to find overlooked talent.</li>
+<li id="p-annex-fy2028-65-en">Expand Advanced K-12 STEM Enrichment Opportunities. Targeted programs can accelerate the development of advanced K-12 STEM talent by increasing exposure to pathways into scientific careers and connecting students with expert mentors and similarly capable peers. Where appropriate, agencies should support K-12 STEM enrichment opportunities, such as residential math and science programs and Olympiad-style competitions, that immerse high-ability students in advanced S&amp;T environments and direct their ambitions to the hardest open questions.</li>
+<li id="p-annex-fy2028-66-en">Expand Hands-On Technical Learning. S&amp;T workforce programs should provide early and sustained exposure to real-world technical environments. Agencies should treat research placements in academic, industry, and Federal laboratories as standard components of high-quality S&amp;T talent development programs. Placements should be substantive, last at least one semester, and provide participants with meaningful access to advanced scientific instrumentation, datasets, and challenges not available in traditional academic settings. Agencies should expand opportunities for hands-on technical learning as early as high school through work-based learning, vocational training, makerspace access, and machine shop classes.</li>
+<li id="p-annex-fy2028-67-en">Support Early-Career Researchers. Agencies should strengthen support for graduate students, post-doctoral researchers, and early-career faculty, when research creativity is often highest but institutional support the weakest. Agencies should expand the use of fellowship programs and address conditions that limit the mobility of graduate students, post-doctoral researchers, and early-career researchers as they navigate opportunities in the S&amp;T enterprise. These programs can provide young scientists with resources and intellectual freedom during the most pivotal stage of their careers, encouraging them to remain in the Nation’s S&amp;T enterprise.</li>
+<li id="p-annex-fy2028-68-en">Support Individuals Agnostic of Institutional Affiliations. S&amp;T workforce programs should provide individuals flexibility to choose their research institutions, supervisors, and topics. Agencies should prioritize programs that distribute funding directly to students and researchers, similar to NSF’s Graduate Research Fellowship Program, so recipients can apply the grant to any qualifying institution that best supports their goals and retain it if they move, encouraging institutions to compete for early-career talent. Agencies should develop the capability to track supported individuals longitudinally across multi-year transitions, minimizing the need for individuals to re-discover and re-apply for support.</li>
+<li id="p-annex-fy2028-69-en">Build Flexible Cross-Sector Talent Pathways. The Nation’s top scientific talent should be encouraged to gain experience across research cultures and engineering environments throughout their careers. Agencies should expand opportunities for scientists, engineers, and skilled technical workers to move fluidly across academia, industry, and Federal R&amp;D facilities by increasing the flexibility of academic fellowships, establishing cross-institution placements like joint industry or Federal laboratory Ph.D. programs, and supporting alternative paths for skilled technical workers to participate in academic training and scientific discovery.</li>
+<li id="p-annex-fy2028-70-en">Encourage Broad Post-Fellowship Service. Federal investments in individuals should strengthen the Nation’s S&amp;T enterprise. Agencies should consider incorporating service requirements into fellowship programs while defining service broadly to capture the myriad ways individuals can leverage their training to advance that enterprise. Qualifying service could include academic research and training the next generation of American scientists, entrepreneurship, work in the defense industrial base, advisory roles that shape Federal S&amp;T priorities, or government and military service. Agencies should aim to make any service requirements flexible enough for recipients to pursue the highest-impact opportunities after their fellowship ends and to attract the strongest candidates.</li>
+</ul></div>
+<div class="zh"><ul>
+<li id="p-annex-fy2028-64-zh">在全国范围内识别杰出人才。S&amp;T 人才队伍项目应识别并支持所有有才华的美国人，不论其地域、收入与人口特征。杰出人才由展现出的技术能力来定义，而不是由背景或身份来定义。因此，各机构应把选拔流程锚定在能够预测 STEM 成功的标准上，例如推理能力测评、学科竞赛、工程项目集与技术工作，而不是依赖自我选择、申请文书、机构推荐，或光鲜的履历与资历。各机构应利用覆盖尽可能多人群的择优识别机制（例如 SAT 成绩或其他标准化定量测评），以发现被忽视的人才。</li>
+<li id="p-annex-fy2028-65-zh">扩大 K-12 阶段的进阶 STEM 拓展机会。有针对性的项目可以通过增加学生接触科学职业路径的机会，并把学生与专家导师及能力相当的同龄人连接起来，加速进阶 K-12 STEM 人才的培养。各机构应酌情支持 K-12 STEM 拓展机会，例如寄宿制数学与科学项目、奥林匹克式竞赛，让高能力学生沉浸于进阶 S&amp;T 环境，并把他们的志向引向最难的开放问题。</li>
+<li id="p-annex-fy2028-66-zh">扩大动手技术学习。S&amp;T 人才队伍项目应尽早并持续提供接触真实技术环境的机会。各机构应把在学术、产业与联邦实验室的研究实习视为高质量 S&amp;T 人才发展项目的标准组成部分。实习应有实质内容，至少持续一个学期，并让参与者切实接触传统学术环境无法提供的先进科学仪器、数据集与挑战。各机构应扩大最早从高中阶段开始的动手技术学习机会，途径包括基于工作的学习、职业培训、创客空间使用和机械加工课程。</li>
+<li id="p-annex-fy2028-67-zh">支持早期职业研究者。各机构应加强对研究生、博士后研究人员和早期职业教师的支持，因为这一时期研究创造力往往最高，而机构支持往往最弱。各机构应扩大奖学金项目的使用，并解决限制研究生、博士后研究人员和早期职业研究者在 S&amp;T 事业中寻找机会时流动性的条件。这些项目可以在职业生涯最关键阶段为年轻科学家提供资源与智识自由，鼓励他们留在国家的 S&amp;T 事业中。</li>
+<li id="p-annex-fy2028-68-zh">支持个人而不问其机构归属。S&amp;T 人才队伍项目应让个人能够灵活选择其研究机构、导师和课题。各机构应优先支持把资金直接分配给研究生与研究者的项目，类似 NSF 的研究生研究奖学金项目，使受资助者可以把资助用于任何最有助于实现其目标的合格机构，并在转换机构时保留资助，从而促使各机构争夺早期职业人才。各机构应建设对受资助个人进行纵向追踪的能力，覆盖其多年间的多次转换，尽量减少个人重新寻找并重新申请支持的需要。</li>
+<li id="p-annex-fy2028-69-zh">建立灵活的跨部门人才通道。应鼓励国家最顶尖的科学人才在职业生涯中积累跨研究文化与工程环境的经验。各机构应扩大科学家、工程师和熟练技术工人在学术界、产业界与联邦研发设施之间自由流动的机会，途径包括提高学术奖学金的灵活性、设立跨机构实习岗位（如产业或联邦实验室联合博士项目），以及支持熟练技术工人参与学术培训与科学发现的替代路径。</li>
+<li id="p-annex-fy2028-70-zh">鼓励奖学金结束后的广泛服务。联邦对个人的投资应强化国家的 S&amp;T 事业。各机构应考虑把服务要求纳入奖学金项目，同时对服务作宽泛界定，以涵盖个人利用其训练推进该事业的种种方式。合格的服务可以包括学术研究与培养下一代美国科学家、创业、在国防工业基础中工作、影响联邦 S&amp;T 优先事项的咨询角色，或政府与军队服务。各机构应努力使任何服务要求都足够灵活，让受资助者在奖学金结束后能够追求影响最大的机会，并吸引最优秀的候选人。</li>
+</ul></div>
+</div>
+```
+
+### 3. 建设自我改进的科学事业
+
+```{=html}
+<div class="en h-en"><p>3. Build a Self-Improving Scientific Enterprise</p></div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-72-en"><p>The Federal Government invests approximately two hundred billion dollars in R&amp;D each year, but allocates comparatively little to understanding which funding mechanisms, institutional models, workforce development programs, and research practices produce the strongest scientific outcomes. Agencies should treat the science of science-funding with the same rigor as the science they fund, and build the organizational capacity to learn, experiment, and improve continuously. Agencies should assess whether to establish metascience capabilities, where appropriate, following the guidance below:</p></div>
+<div class="zh" id="p-annex-fy2028-72-zh"><p>联邦政府每年在研发上投入约 2,000 亿美元，但用于理解哪些资助机制、机构模式、人才队伍发展项目和研究实践能产生最强科学成果的投入相对很少。各机构应以对待其所资助科学同样的严谨态度对待科学资助之学，并建设持续学习、试验和改进的组织能力。各机构应酌情评估是否建立元科学能力，遵循以下指导：</p></div>
+</div>
+<div class="pair">
+<div class="en"><ul>
+<li id="p-annex-fy2028-73-en">Establish Metascience Capabilities. Agencies should establish metascience capabilities that evaluate what programs actually work and drive organization-wide reforms. Core responsibilities should include conducting research on how factors such as funding mechanisms, peer review, and publication practices affect scientific outcomes; piloting novel funding mechanisms and institutional models; and evaluating pilots and informing agency-wide portfolio management. These functions should be established at a sufficiently high level within agencies to effect real, cross-agency change.</li>
+<li id="p-annex-fy2028-74-en">Develop Systematic Gap-Mapping Capacity. Agencies should develop the capacity to systematically compare their grantmaking portfolios against the landscape of unsolved scientific and technical challenges in their domains, rather than relying primarily on historical funding patterns. In collaboration with industry, academia, and philanthropy, agencies should maintain “gap maps” that identify unmet needs, duplicated efforts, and emerging opportunities. Gap maps should directly inform portfolio construction, helping agencies select appropriate funding mechanisms and institutional models to target the most important and neglected gaps.</li>
+<li id="p-annex-fy2028-75-en">Build Data Infrastructure for Metascience. Agencies should develop purpose-built data infrastructure for metascience, including systems that integrate application-level data, reviewer behavior and scoring, and links between awards and downstream outcomes. These systems should support longitudinal tracking for both awardees and near-miss applicants. Agencies should assess workforce and contracting operations for software engineers and data scientists with the skills to build and maintain these systems as a core institutional capability.</li>
+<li id="p-annex-fy2028-76-en">Elevate and Empower Agency Program Officers. The effectiveness of Federal R&amp;D funding depends heavily on agencies’ ability to recruit exceptional program officers and give them genuine discretion to define technical problems, build a research portfolio, and manage toward ambitious outcomes. Agencies should consider approaches for recruiting top scientists, engineers, entrepreneurs, and philanthropists into time-limited public service and raising their prestige, visibility, and authority. Agencies should also assess options for reducing barriers to hiring program officers from non-traditional backgrounds, expanding rotational mechanisms such as the Intergovernmental Personnel Act, and developing competitive compensation and career pathways that make program management a career-enhancing opportunity for top scientific talent. Agencies should also develop or enforce mechanisms to ensure that conflict of interest policies are strictly followed for all employees involved in funding recommendations and decisions.</li>
+<li id="p-annex-fy2028-77-en">Reduce Administrative Burdens. Agencies should reduce administrative burdens in the grantmaking and research process to maximize the impact of taxpayer-funded science. This includes clarifying requirements for the research community and eliminating overcompliance beyond what Federal regulations and statutes require. Agencies should consider proposals to coordinate to harmonize and standardize grant requirements, forms, and submission processes to the greatest extent possible, and carefully weigh any incremental gains in oversight from new requirements or regulations against the cumulative burden they impose on researchers. Agencies should also consider options for easing administrative and regulatory burdens on Federal technology transfer to increase private-sector investment in R&amp;D.</li>
+</ul></div>
+<div class="zh"><ul>
+<li id="p-annex-fy2028-73-zh">建立元科学能力。各机构应建立元科学能力，用以评估哪些项目真正有效，并推动全机构范围的改革。核心职责应包括：研究资助机制、同行评议、发表实践等因素如何影响科学成果；试点新的资助机制与机构模式；评估试点并为全机构组合管理提供依据。这些职能应在机构内设立在足够高的层级，以实现真正的跨机构变革。</li>
+<li id="p-annex-fy2028-74-zh">建设系统性的缺口勘测能力。各机构应建设能力，把自己资助组合与所在领域未解决的科学和技术挑战版图进行系统比较，而不是主要依赖历史上的资助模式。各机构应与产业界、学术界和慈善界协作，维护识别未满足需求、重复努力与新兴机会的「缺口图谱」。缺口图谱应直接为组合构建提供依据，帮助各机构选择合适的资助机制与机构模式，以针对最重要且被忽视的缺口。</li>
+<li id="p-annex-fy2028-75-zh">为元科学建设数据基础设施。各机构应为元科学开发专门的数据基础设施，包括整合申请层面数据、评审人行为与评分，以及资助与下游成果之间关联的系统。这些系统应支持对受资助者与「差之毫厘」的申请人的纵向追踪。各机构应评估具备建设和维护这些系统所需技能的软件工程师与数据科学家的队伍与合同运作，并将此作为一项核心机构能力。</li>
+<li id="p-annex-fy2028-76-zh">提升并赋权机构项目官员。联邦研发资助的成效在很大程度上取决于各机构能否招募杰出的项目官员，并赋予他们真正的裁量权去界定技术问题、构建研究组合，并以宏大成果为目标进行管理。各机构应考虑把顶尖科学家、工程师、创业者和慈善家招入限期公共服务并提升其声望、知名度与权限的方式。各机构还应评估各种选项，以降低从非传统背景招聘项目官员的障碍，扩大《政府间人员法》等轮岗机制，并建立有竞争力的薪酬与职业路径，使项目管理成为顶尖科学人才职业增值的机会。各机构还应建立或强化机制，确保所有参与资助建议与决策的雇员都严格遵守利益冲突政策。</li>
+<li id="p-annex-fy2028-77-zh">减轻行政负担。各机构应减轻资助与研究过程中的行政负担，以最大化纳税人资助科学的成效。这包括向研究共同体明确各项要求，并消除超出联邦法规与法律要求的过度合规。各机构应考虑提出建议，尽可能协调统一资助要求、表格与提交流程，并审慎权衡新要求或新法规在监督上带来的任何增量收益与其给研究者造成的累积负担。各机构还应考虑减轻联邦技术转移的行政与监管负担的选项，以增加私营部门对研发的投资。</li>
+</ul></div>
+</div>
+```
+
+### 4. 把联邦研发融入更广泛的 S&T 事业
+
+```{=html}
+<div class="en h-en"><p>4. Integrate Federal R&amp;D into Broader S&amp;T Enterprise</p></div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-79-en"><p>Federal R&amp;D is one part of a far larger national S&amp;T enterprise that spans private industry, academia, state and local governments, and the regional economies in which discovery is translated into production. To maximize the return on Federal investment, agencies should more deliberately integrate their R&amp;D with this broader enterprise. This means looking for opportunities to expand the use of non-Federal cost share, so that Federal dollars draw in and are amplified by private and other non-Federal investment rather than standing alone. It also means coordination between Federal R&amp;D and non-R&amp;D investments to support the growth of regional innovation ecosystems and domestic manufacturing hubs consistent with statutory purposes.</p></div>
+<div class="zh" id="p-annex-fy2028-79-zh"><p>联邦研发只是一个远为庞大的国家 S&amp;T 事业的一部分，后者横跨私营产业、学术界、州与地方政府，以及发现得以转化为生产的区域经济。为最大化联邦投资回报，各机构应更自觉地将其研发与这一更广泛的事业整合起来。这意味着寻找机会扩大非联邦成本分担的使用，使联邦资金吸引并放大私人及其他非联邦投资，而不是独自支撑。这也意味着在符合法定目的的前提下，协调联邦研发与非研发投资，以支持区域创新生态与国内制造中心的成长。</p></div>
+</div>
+<div class="pair">
+<div class="en"><ul>
+<li id="p-annex-fy2028-80-en">Drive Greater Integration of Foundational and Applied Research. In many frontier technologies, scientific discovery, engineering, and manufacturing R&amp;D are not sequential but iterative and tightly coupled. Where appropriate, agencies should propose funding consortia and partnerships that integrate basic research with manufacturing R&amp;D, reflecting the multidisciplinary, engineering-intensive way science is conducted today. Agency funding in this area should ensure the pursuit of long-term research agendas in partnership with industry, employment of career scientists, engineers, and technicians, publication of foundational discoveries as public goods while licensing specific process innovations, and co-locate with manufacturing facilities and testbeds. Agencies should explore how such institutions can provide durable infrastructure to anchor place-based innovation ecosystems aligned with a region’s economic strength.</li>
+<li id="p-annex-fy2028-81-en">Expand the Use of Non-Federal Cost Share. Federal R&amp;D funding is most effective when it catalyzes, rather than substitutes for, private and non-Federal investment. Agencies should structure funding opportunities, within existing resources, to prioritize support for initiatives that incorporate meaningful non-government cost share from industry, philanthropy, State and local governments, or international partners. Cost-share arrangements signal market validation, accelerate translation, distribute risk, and extend the impact of taxpayer-funded research. These arrangements should draw on the deep domain expertise external funders have built in particular sub-fields and leverage their networks to identify exceptional grant opportunities. Agencies should review existing authorities for cost-shared R&amp;D, including cooperative agreements, public-private partnerships, consortia models, and other transaction authorities where applicable, and propose expansions where statutory or regulatory barriers can be addressed.</li>
+<li id="p-annex-fy2028-82-en">Integrate Federal R&amp;D with Non-R&amp;D Investments to Support Regional Ecosystems. The impact of Federal R&amp;D depends critically on the surrounding ecosystem, including the workforce, infrastructure, capital, supply chains, and institutions that translate discovery into economic growth. Agencies should coordinate R&amp;D investments with Federal non-R&amp;D investments, including in workforce and education, economic development, infrastructure, small business support, manufacturing extension, and procurement, to strengthen regional innovation ecosystems and ensure that the benefits of Federal science are broadly distributed across American communities, particularly where doing so would accelerate industry-specific R&amp;D anchored in a region’s area of expertise. Agencies should coordinate across the Federal Government, including through OMB, the NSTC, and agency-to-agency agreements where helpful, to identify opportunities to co-locate, sequence, or jointly award R&amp;D and non-R&amp;D resources in support of place-based strategies and ensure complementary Federal investments in a given region.</li>
+<li id="p-annex-fy2028-83-en">Integrate Industry in Workforce Training. S&amp;T workforce programs should maximize collaboration with the private sector, which increasingly leads both basic and applied R&amp;D, holds unique scientific instrumentation, data, and computing resources, and can recruit the best science and engineering talent in ways no university can match. Where practicable, agencies should partner with industry to attract stronger applicants and amplify Federal investments, including through industry co-funding (e.g., tuition, stipends, and portable research funding), paid internship placements, access to research infrastructure, curriculum development, and expert mentorship.</li>
+</ul></div>
+<div class="zh"><ul>
+<li id="p-annex-fy2028-80-zh">推动基础研究与应用研究更深度整合。在许多前沿技术中，科学发现、工程与制造研发并非前后相继，而是反复迭代、紧密耦合。各机构应酌情提出资助联合体与伙伴关系，把基础研究与制造研发整合起来，反映当今科学开展方式的多学科、工程密集特征。该领域的机构资助应确保与产业界合作推进长期研究议程，雇用职业科学家、工程师和技术人员，把基础发现作为公共产品发表、同时对具体工艺创新进行许可，并与制造设施和试验台同址布局。各机构应探索这类机构如何提供持久的基础设施，以锚定与区域经济优势相契合的在地创新生态。</li>
+<li id="p-annex-fy2028-81-zh">扩大非联邦成本分担的使用。联邦研发资金在催化而非替代私人及非联邦投资时最为有效。各机构应在现有资源范围内设计资助机会，优先支持纳入来自产业界、慈善界、州与地方政府或国际伙伴的实质性非政府成本分担的倡议。成本分担安排释放市场验证信号，加速转化，分散风险，并扩大纳税人资助研究的影响。这些安排应借助外部资助方在特定子领域积累的深厚领域专长，并利用其网络来识别卓越的资助机会。各机构应审视成本分担研发的现有权限，包括合作协议、公私伙伴关系、联合体模式，以及在适用情况下的其他交易授权，并在可以消除法定或监管障碍之处提出扩展建议。</li>
+<li id="p-annex-fy2028-82-zh">把联邦研发与非研发投资整合起来以支持区域生态。联邦研发的影响关键取决于周边生态，包括把发现转化为经济增长的劳动力、基础设施、资本、供应链与机构。各机构应把研发投资与联邦非研发投资协调起来，包括在劳动力与教育、经济发展、基础设施、小企业支持、制造推广与采购方面的投资，以强化区域创新生态，并确保联邦科学的收益在美国各社区间广泛分布，尤其是在这样做能加速扎根于某地区专长领域的产业专属研发之时。各机构应在联邦政府内部协调，包括通过 OMB、NSTC 以及在有益时通过机构间协议，识别共同布局、排序或联合授予研发与非研发资源的机会，以支持在地战略，并确保对某一地区的联邦投资互为补充。</li>
+<li id="p-annex-fy2028-83-zh">让产业界参与人才队伍培训。S&amp;T 人才队伍项目应最大限度与私营部门协作，后者在基础与应用研发上日益领先，掌握独特的科学仪器、数据与计算资源，并能以任何大学都无法比拟的方式招募最优秀的科学与工程人才。在可行的情况下，各机构应与产业界合作，以吸引更强的申请者并放大联邦投资，途径包括产业共同出资（例如学费、津贴和可携带的研究经费）、带薪实习岗位、研究基础设施使用机会、课程开发与专家指导。</li>
+</ul></div>
+</div>
+```
+
+## 实施
+
+```{=html}
+<div class="en h-en"><p>IMPLEMENTATION</p></div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-85-en"><p>To address the budget formulation priorities set forth in the “FY 2028 R&amp;D Priority Areas” section of this memorandum, agencies should follow the standard process for FY2028 budget submission to OMB.</p></div>
+<div class="zh" id="p-annex-fy2028-85-zh"><p>为落实本备忘录「2028 财年研发优先领域」一节所载的预算编制优先事项，各机构应遵循向 OMB 提交 2028 财年预算的标准流程。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-annex-fy2028-86-en"><p>In addition, within 90 days of this memorandum, the head of each agency with $3 billion or more in FY 2026 budget authority for R&amp;D shall submit to the Assistant to the President for Science and Technology (APST) and Director of the Office of Management and Budget (OMB Director) an action plan describing how the agency intends to implement the program implementation guidance set forth in the “R&amp;D Priority Practices” section of this memorandum. Agency action plans should identify how program execution of their FY2026 and FY2027 budgets can support these priority practices. Budget formulation matters addressed by this memorandum are outside the scope of action plans and should instead be reflected in agency FY 2028 budget submissions to OMB. Each action plan shall identify specific actions to address each R&amp;D priority practice (e.g., new funding opportunities, program solicitations, pilot initiatives, statements to the research community, internal organizational changes), implementation timelines, and the offices responsible. OSTP and OMB will coordinate implementation of these action plans and issue supplementary guidance as appropriate.</p></div>
+<div class="zh" id="p-annex-fy2028-86-zh"><p>此外，在本备忘录发布后 90 天内，凡 2026 财年研发预算权限达到或超过 30 亿美元的机构，其首长须向总统科学技术助理（APST）和管理与预算办公室主任（OMB 主任）提交一份行动计划，说明该机构打算如何落实本备忘录「研发优先实践」一节所载的项目实施指导。机构行动计划应指明其 2026 财年与 2027 财年预算的项目执行如何支持这些优先实践。本备忘录涉及的预算编制事项不属于行动计划的范围，而应反映在各机构向 OMB 提交的 2028 财年预算中。每份行动计划均须列出针对每一项研发优先实践的具体行动（例如新的资助机会、项目征集公告、试点倡议、面向研究共同体的说明、内部组织调整）、实施时间表以及负责办公室。OSTP 与 OMB 将协调这些行动计划的实施，并酌情发布补充指导。</p></div>
+</div>
+```
+
+## 本章注释 · Notes（备忘录自身编号）
+
+```{=html}
+<div class="chapter-notes">
+<ol class="notes">
+<li id="fn-annex-fy2028-1" value="1">National Center for Science and Engineering Statistics, National Patterns of R&amp;D Resources (2023-24 edition). <a class="note-back" data-target="p-annex-fy2028-15" href="#p-annex-fy2028-15-en" title="返回正文">↩</a></li>
+<li id="fn-annex-fy2028-2" value="2">Ibid. Table 7. <a class="note-back" data-target="p-annex-fy2028-15" href="#p-annex-fy2028-15-en" title="返回正文">↩</a></li>
+<li id="fn-annex-fy2028-3" value="3">National Science Board. Science &amp; Engineering Indicators, Discovery: R&amp;D Activity and Research Publications (2025 edition). <a class="note-back" data-target="p-annex-fy2028-15" href="#p-annex-fy2028-15-en" title="返回正文">↩</a></li>
+<li id="fn-annex-fy2028-4" value="4">https://dx.doi.org/10.2139/ssrn.3822691. <a class="note-back" data-target="p-annex-fy2028-15" href="#p-annex-fy2028-15-en" title="返回正文">↩</a></li>
+<li id="fn-annex-fy2028-5" value="5">National Center for Science and Engineering Statistics. Survey of Federal Funds for Research and Development (2024-2025 edition). <a class="note-back" data-target="p-annex-fy2028-20" href="#p-annex-fy2028-20-en" title="返回正文">↩</a></li>
+</ol>
+</div>
+```

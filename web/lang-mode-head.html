@@ -1,0 +1,20 @@
+<!-- 在首屏渲染前套用语言模式（URL 参数 ?lang=zh|en|both 优先，其次 localStorage），
+     避免"中文"模式下先闪现英文。 -->
+<script>
+  (function () {
+    var mode = null;
+    try {
+      var asked = (window.location.search.match(/[?&]lang=(both|zh|en)(?:&|$)/) || [])[1];
+      if (asked) {
+        mode = asked;
+        window.localStorage.setItem("snga-lang-mode", asked);
+      } else {
+        var saved = window.localStorage.getItem("snga-lang-mode");
+        if (saved === "zh" || saved === "en" || saved === "both") mode = saved;
+      }
+    } catch (e) {
+      /* 隐私模式下 localStorage 不可用；默认双语 */
+    }
+    if (mode && mode !== "both") document.documentElement.setAttribute("data-lang-mode", mode);
+  })();
+</script>

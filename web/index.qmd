@@ -1,0 +1,48 @@
+---
+title: "科学：一个新的黄金时代"
+subtitle: "Science: A New Golden Age · 中英对照"
+---
+
+【白宫科学技术政策办公室（OSTP）报告 · 中文为非官方重译】 · 2026-07-21
+
+本书是白宫科学技术政策办公室（OSTP）2026 年 7 月 21 日提交总统的报告 *Science: A New Golden Age: A Report to the President* 的**中英对照**电子书。英文取自官方网页版并与官方 PDF 逐词核对；中文为人工重译，非官方译本。
+
+## 怎么读
+
+每一段先给英文原文，紧接中文译文。左侧栏搜索框下方的 **显示** 开关可以切换三种模式：
+
+| 模式 | 效果 |
+| --- | --- |
+| 双语 | 英文在上（淡色、左侧细线），中文在下，适合对照细读 |
+| 中文 | 只留中文，适合通读 |
+| English | 只留英文，适合核对原文 |
+
+快捷键：`Alt` + `1` / `2` / `3`；选择会记住。右侧「本页目录」可在本章内跳转，左上角搜索框检索全书（中英皆可），右上角可切换浅色／深色，点击图表可放大。带编号的上标是脚注，按**官方印刷版**编号（全书 1–185），点击跳到章末注释，注释末尾的 ↩ 回到原文。
+
+## 目录
+
+| 篇目 | 篇幅 |
+| --- | --- |
+| [前言：致函与报告摘要](front.qmd) | 54 段 |
+| [第一章 引言](chapter-01.qmd) | 60 段，脚注 25 条 |
+| [第二章 振兴美国科学技术事业](chapter-02.qmd) | 109 段，脚注 57 条 |
+| [第三章 确保美国在关键与新兴技术上的主导地位](chapter-03.qmd) | 72 段，脚注 38 条 |
+| [第四章 让科学技术改善所有美国人的生活](chapter-04.qmd) | 53 段，脚注 23 条 |
+| [第五章 一个新的黄金时代](chapter-05.qmd) | 87 段，脚注 42 条 |
+| [附录：2028 财年研发优先事项备忘录](annex-fy2028.qmd) | 57 段，脚注 5 条 |
+
+另有 [体例、来源与引用说明](99-colophon.qmd)。
+
+## 下载与原文
+
+| 文件 | 说明 |
+| --- | --- |
+| [中英对照 EPUB](https://github.com/cxy0714/Science-A-New-Golden-Age/raw/main/科学_一个新的黄金时代_中英对照.epub) | 适合 Apple Books、Calibre、Kobo 等阅读器离线阅读 |
+| [纯中文 EPUB](https://github.com/cxy0714/Science-A-New-Golden-Age/raw/main/科学_一个新的黄金时代_中文.epub) | 同一译文，去掉英文对照 |
+| [官方英文 PDF](https://www.whitehouse.gov/wp-content/uploads/2026/07/Science-A-New-Golden-Age.pdf) | 引用与核对请以官方原文为准 |
+| [官方网页版](https://www.whitehouse.gov/science/) | whitehouse.gov/science |
+| [项目仓库](https://github.com/cxy0714/Science-A-New-Golden-Age) | 生成脚本、中英对照 Markdown、校订记录 |
+
+## 说明
+
+中文译文为非官方译本，供阅读参考。政策措辞、数字、专有名词、脚注与引文请以英文原文（及官方 PDF）为准；引用报告时应引用原文，而不是本电子书。

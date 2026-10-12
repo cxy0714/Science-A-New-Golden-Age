@@ -1,0 +1,39 @@
+---
+title: "体例、来源与引用说明"
+subtitle: "Editorial Conventions, Sources and Citation"
+---
+
+本书的英文底本、中文译文与脚注编号都经过逐块校验：段数、块类型、章节编号、脚注编号四项中任何一项不一致，生成脚本即拒绝出书。以下说明体例。
+
+## 底本与来源
+
+| 内容 | 来源 |
+| --- | --- |
+| 英文正文 | 官方网页版 whitehouse.gov/science，逐词与官方 PDF 核对 |
+| 2028 财年备忘录 | 该备忘录自身的官方 PDF（单行本），另附其自身编号的 5 条注释 |
+| 中文译文 | 本项目人工重译，非官方译本 |
+| 图 1 至图 4 | 官方 PDF 的矢量原图渲染，非网页版位图 |
+
+## 体例
+
+- **人名保留原文**：`Vannevar Bush`、`Donald Stokes`、`Shannon`、`Pasteur`、`Trump` 等不音译；人名派生的术语保留原文并加通译提示（如 `Pasteur 象限`）。
+- **机构缩写保留原文**（NSF、NIH、DOE、DARPA、OMB、OSTP 等），首次出现给中文全称。
+- **参考文献保留英文**，不改动作者、题名、版本与 URL。
+- **脚注编号沿用官方印刷版**：全书 1 至 185 连续，按章列于章末。官方网页版正文的角标数字整体偏移 +1，且注释表漏排了印刷版第 13 条，本项目以网页列表锚点还原为印刷版编号。附录备忘录的注释为它自身编号的 1 至 5 条。
+- 中文引文用「」，书名用《》；中拉之间留一个空格。
+
+## 校订情况
+
+全书经过两轮：先逐块翻译，再由独立的校对代理逐章对照英文复核，只改真错（漏译、加译、数字与专名错误、术语不一致、翻译腔），改完必须重跑对齐校验。累计修正 190 余处，例如「城市规模的芯片交响乐团协同工作」改为「城市规模的芯片如同交响乐团般协同运作」，「最优秀的大脑」改为「最优秀的人才」。
+
+## 引用方式
+
+这是非官方译本，**请勿用它代替原文引用**。引用报告时请引用官方英文原文：
+
+> Office of Science and Technology Policy, *Science: A New Golden Age: A Report to the President* (Washington, DC: The White House, July 21, 2026).
+
+## 生成与版本
+
+本网页版由仓库中的 `tools/build_web.py` 生成（Quarto book），与 EPUB 同出一源：`sources/en`、`sources/zh` 与 `sources/report.json`。图表取自 `对照稿/images/`。全书英文约 3.6 万词，中文约 7.7 万字。
+
+仓库：[https://github.com/cxy0714/Science-A-New-Golden-Age](https://github.com/cxy0714/Science-A-New-Golden-Age) · 官方原文：[https://www.whitehouse.gov/science/](https://www.whitehouse.gov/science/)

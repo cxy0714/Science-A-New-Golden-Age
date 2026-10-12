@@ -6,12 +6,23 @@
 
 | 文件 | 说明 |
 | --- | --- |
+| [在线网页版](https://cxy0714.github.io/Science-A-New-Golden-Age/) | **在线阅读**：可切换「双语／仅中文／仅英文」，含全书搜索、页内目录、深浅色与图表放大 |
 | [科学_一个新的黄金时代_中英对照.epub](./科学_一个新的黄金时代_中英对照.epub) | **推荐**：双语对照，每段先英文原文（淡色引用块），后中文译文；脚注可点击跳转；含图 1–图 4 |
 | [科学_一个新的黄金时代_中文.epub](./科学_一个新的黄金时代_中文.epub) | 纯中文版（同一译文，去掉英文对照），适合通读 |
 | [科学_一个新的黄金时代_中英对照.md](./科学_一个新的黄金时代_中英对照.md) | 全书合并的中英对照 Markdown（图片在 `对照稿/images/`） |
 | [对照稿/](./对照稿) | 分篇对照稿（前言、第一至五章、2028 财年备忘录）与图表文件 |
 
 适用于 Apple Books、Calibre、Kobo、PocketBook 等支持 EPUB 3 的阅读器。
+
+## 网页版
+
+`https://cxy0714.github.io/Science-A-New-Golden-Age/`（GitHub Pages，源文件为 `docs/`，由 Quarto book 渲染）
+
+- **三种语言模式**：左侧栏搜索框下方的「显示」开关切换双语／中文／English，快捷键 `Alt`+`1`/`2`/`3`，选择会记住；也可用链接参数固定，如 `chapter-01.html?lang=zh`。
+- **双语排版**：每段英文原文在上（淡色、左侧细线），中文译文在下；切到「English」时原文按正文样式排。
+- **脚注**：上标沿用**官方印刷版编号**（全书 1–185），点击跳到章末注释，注释末尾 ↩ 回到原文（回到当前语言那一侧）。
+- 全书搜索（中英皆可）、页内目录、上一页/下一页、浅色/深色切换、点击图表放大。
+- 正文以原样 HTML 块生成，渲染器不会改写文本（`--`、`$`、`…` 等原样保留）；生成脚本逐块校验，段数/块类型/章节编号/脚注编号任一项不一致即拒绝出书。
 
 ## 书中内容
 
@@ -53,6 +64,8 @@ python tools/build_bilingual.py          # 逐块强制对齐校验 + 生成 对
 python tools/build_book_md.py            # 合并为全书 Markdown
 python tools/build_bilingual_epub.py     # 生成中英对照 EPUB 与纯中文 EPUB
 python tools/check_epub.py               # 校验 EPUB：XML、内链、图片、页码残留、中英配对
+python tools/build_web.py                # 生成网页版 Quarto 工程（web/）并渲染到 docs/
+python tools/check_web.py                # 校验网页版：逐块比对底本、脚注内链、图表、渲染改写
 python tools/verify_all.py               # 一次跑完全部校验（--fast 跳过 PDF 比对）
 ```
 
@@ -70,6 +83,8 @@ sources/zh/          中文译文（与英文逐块对应）；attic/ 存放分�
 sources/report.json  正文结构 + 185 条脚注文本
 sources/figures-web/ 官方网页版图表 PNG 原件（作为备选与比对依据）
 对照稿/              分篇中英对照 Markdown + images/（图 1–图 4 原图与 manifest.json）
+web/                 网页版 Quarto 工程；*.qmd 与 _quarto.yml 由脚本生成，styles.css 与语言开关为手写文件
+docs/                渲染出的静态站点（GitHub Pages 直接发布此目录）
 tools/               抓取、抽取、核对、排版、生成与校验脚本；_*.txt 为各次核对的原始记录
 ```
 

@@ -1,0 +1,59 @@
+# 由 tools/build_web.py 生成，请勿手工修改（改结构请改脚本里的 PARTS / LABELS）。
+project:
+  type: book
+  output-dir: ../docs
+  resources:
+    - images/*.png
+
+book:
+  title: "科学：一个新的黄金时代"
+  subtitle: "Science: A New Golden Age · 中英对照"
+  author: "白宫科学技术政策办公室（OSTP）报告 · 中文为非官方重译"
+  date: "2026-07-21"
+  repo-url: https://github.com/cxy0714/Science-A-New-Golden-Age
+  repo-branch: main
+  repo-subdir: web
+  repo-actions: [edit]
+  sharing: []
+  search:
+    location: sidebar
+    type: textbox
+    limit: 40
+  page-navigation: true
+  back-to-top-navigation: true
+  sidebar:
+    style: docked
+    collapse-level: 1
+    border: true
+  chapters:
+    - index.qmd
+    - front.qmd
+    - chapter-01.qmd
+    - chapter-02.qmd
+    - chapter-03.qmd
+    - chapter-04.qmd
+    - chapter-05.qmd
+    - annex-fy2028.qmd
+    - 99-colophon.qmd
+
+lang: zh
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    number-sections: false
+    toc: true
+    toc-depth: 2
+    toc-title: "本页目录"
+    anchor-sections: true
+    smooth-scroll: true
+    code-copy: false
+    fig-align: center
+    link-external-newwindow: false
+    footnotes-hover: false
+    citations-hover: false
+    include-in-header: lang-mode-head.html
+    include-after-body: lang-toggle.html

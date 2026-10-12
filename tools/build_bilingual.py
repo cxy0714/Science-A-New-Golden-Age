@@ -64,6 +64,7 @@ PARTS = [
         "zh": "2028 财年研发优先事项备忘录",
         "en": "Annex: FY2028 R&D Priorities Memo",
         "out": "06_2028财年研发优先事项备忘录.md",
+        "notes_label": "本章注释（备忘录自身编号）",
     },
 ]
 
@@ -72,6 +73,11 @@ HEADER = """> 中英对照稿 · 《科学：一个新的黄金时代》（*Scie
 > `[^n]` 沿用官方印刷版脚注编号。[^n] 定义见各章末尾，或全书合并稿的注释部分。
 """
 
+# Endnote definitions carried by a part's own source file, e.g. the standalone
+# FY2028 memo, whose five notes belong to the memo and not to the printed list
+# of 185 report notes.
+NOTE_DEF = re.compile(r"^\[\^(\d+)\]:\s*(.*)$")
+
 
 def parse_blocks(path: pathlib.Path) -> list[dict]:
     blocks: list[dict] = []
@@ -79,7 +85,10 @@ def parse_blocks(path: pathlib.Path) -> list[dict]:
         line = raw.strip()
         if not line or line.startswith("<!--"):
             continue
-        if line.startswith("#"):
+        definition = NOTE_DEF.match(line)
+        if definition:
+            blocks.append({"type": "notedef", "number": int(definition.group(1)), "text": definition.group(2).strip(), "line": number})
+        elif line.startswith("#"):
             blocks.append({"type": "heading", "level": len(line) - len(line.lstrip("#")), "text": line.lstrip("# ").strip(), "line": number})
         elif re.fullmatch(r"\*\*[^*]+\*\*", line):
             blocks.append({"type": "subhead", "text": line.strip("*").strip(), "line": number})
@@ -92,6 +101,32 @@ def parse_blocks(path: pathlib.Path) -> list[dict]:
         else:
             blocks.append({"type": "paragraph", "text": line, "line": number})
     return blocks
+
+
+def local_notes(blocks: list[dict]) -> dict[str, str]:
+    """Endnote texts defined inside the part itself, keyed by number."""
+    return {str(block["number"]): block["text"] for block in blocks if block["type"] == "notedef"}
+
+
+def merge_notes(blocks: list[dict], notes: dict[str, str]) -> dict[str, str]:
+    """Part-local definitions win over the shared printed-edition list."""
+    return {**notes, **local_notes(blocks)}
+
+
+# A part that carries its own endnote definitions ends its body with the heading
+# that introduces them ("### Notes" / "### 注释"); the notes section printed at the
+# end of the part already carries a heading, so the body copy is dropped.
+NOTE_HEADING = re.compile(r"^(?:notes?|注释|附注|注)$", re.I)
+
+
+def body_skip_indices(en_blocks: list[dict]) -> set[int]:
+    """Indices of blocks that belong to the notes apparatus, not the running text."""
+    skip = {index for index, block in enumerate(en_blocks) if block["type"] == "notedef"}
+    if skip:
+        for index, block in enumerate(en_blocks):
+            if block["type"] == "heading" and NOTE_HEADING.match(block["text"].strip()):
+                skip.add(index)
+    return skip
 
 
 def markers(text: str) -> list[str]:
@@ -120,6 +155,10 @@ def validate(slug: str, en_blocks: list[dict], zh_blocks: list[dict]) -> list[st
             zh_num = re.match(r"^[IVX]+\.\d+", zh["text"])
             if bool(en_num) != bool(zh_num) or (en_num and en_num.group(0) != zh_num.group(0)):
                 problems.append(f"{label}: section number mismatch (en={en['text'][:40]} zh={zh['text'][:40]})")
+            continue
+        if en["type"] == "notedef":
+            if en["number"] != zh["number"]:
+                problems.append(f"{label}: endnote definition number mismatch (en={en['number']} zh={zh['number']})")
             continue
         if markers(en["text"]) != markers(zh["text"]):
             problems.append(f"{label}: endnote markers differ\n    en={markers(en['text'])}\n    zh={markers(zh['text'])}")
@@ -161,13 +200,24 @@ def render(
     title_level: int = 1,
     notes_heading_level: int = 2,
 ) -> str:
+    local = local_notes(en_blocks)
+    notes = {**notes, **local}
     used = sorted({int(n) for block in en_blocks for n in markers(block["text"])})
+    missing = [n for n in used if str(n) not in notes]
+    if missing:
+        raise SystemExit(f"{part['slug']}: no endnote text for {missing}")
+    label = part.get("notes_label") or "本章脚注（沿用官方印刷版编号）"
+    skip = body_skip_indices(en_blocks)
     lines = [HEADER.rstrip(), "", f"{'#' * title_level} {part['zh']} · *{part['en']}*", ""]
     first_heading_seen = False
     index = 0
     while index < len(en_blocks):
         en, zh = en_blocks[index], zh_blocks[index]
         kind = en["type"]
+        # Endnote definitions move to the notes section at the end of the part.
+        if index in skip:
+            index += 1
+            continue
         # Markdown table rows are paragraph-typed blocks; they must stay on consecutive
         # lines or the renderer stops seeing a table.
         if kind == "paragraph" and en["text"].startswith("|"):
@@ -207,7 +257,7 @@ def render(
                 if origin:
                     lines += ["", f"<!-- 图源：{origin}。{note} -->", ""]
     if used:
-        lines += ["---", "", f"{'#' * notes_heading_level} 本章脚注（沿用官方印刷版编号）", ""]
+        lines += ["---", "", f"{'#' * notes_heading_level} {label}", ""]
         for number in used:
             lines += [f"[^{number}]: {notes[str(number)]}", ""]
     return "\n".join(lines).rstrip() + "\n"

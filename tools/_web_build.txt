@@ -1,0 +1,14 @@
+﻿generated 7 pages + index + colophon in web/
+  front           54 blocks
+  chapter-01      60 blocks, 25 notes (50 refs), images: figure-1a-performers.png, figure-1b-funders.png, figure-2-us-china-eu.png, figure-3-visa-doctorates.png
+  chapter-02     109 blocks, 57 notes (114 refs), images: figure-4-nih-investigator-age.png
+  chapter-03      72 blocks, 38 notes (76 refs)
+  chapter-04      53 blocks, 23 notes (46 refs)
+  chapter-05      87 blocks, 42 notes (84 refs)
+  annex-fy2028    57 blocks, 5 notes (10 refs)
+figures: 5 file(s) copied into web/images/
+
+$ quarto render (web/)
+
+docs/: 5 figure(s), 7 chapter page(s)
+site ready: docs/index.html

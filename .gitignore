@@ -11,3 +11,7 @@ sources/zh/attic/
 # Fetched web edition (tools/fetch_source.py regenerates it)
 # sources/whitehouse-science.html is committed on purpose: it pins the exact revision
 # of the web edition that sources/en/*.en.md was extracted from.
+
+# The web edition's figures are copied here from 对照稿/images/ by tools/build_web.py;
+# docs/images/ (the rendered site) is committed because GitHub Pages serves docs/.
+web/images/

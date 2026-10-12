@@ -1,0 +1,118 @@
+<!-- 中英对照显示开关：双语 / 中文 / English
+     放在左侧栏搜索框下方；找不到侧栏时退化为右下角浮层。
+     模式写在 <html data-lang-mode> 上，由 styles.css 决定显示 .en 还是 .zh。 -->
+<script>
+  (function () {
+    var KEY = "snga-lang-mode";
+    var MODES = [
+      ["both", "双语"],
+      ["zh", "中文"],
+      ["en", "English"]
+    ];
+
+    function applyMode(mode, save) {
+      if (mode !== "zh" && mode !== "en" && mode !== "both") mode = "both";
+      document.documentElement.setAttribute("data-lang-mode", mode);
+      var box = document.getElementById("lang-switch");
+      if (box) {
+        Array.prototype.forEach.call(box.querySelectorAll("button"), function (button) {
+          var on = button.getAttribute("data-mode") === mode;
+          button.classList.toggle("active", on);
+          button.setAttribute("aria-pressed", on ? "true" : "false");
+        });
+      }
+      if (save) {
+        try {
+          window.localStorage.setItem(KEY, mode);
+        } catch (e) {
+          /* ignore */
+        }
+      }
+    }
+
+    function buildSwitch() {
+      if (document.getElementById("lang-switch")) return;
+      var host = document.createElement("div");
+      host.className = "lang-switch-host";
+      var label = document.createElement("div");
+      label.className = "lang-switch-label";
+      label.textContent = "显示";
+      var box = document.createElement("div");
+      box.id = "lang-switch";
+      box.className = "btn-group btn-group-sm";
+      box.setAttribute("role", "group");
+      box.setAttribute("aria-label", "语言显示模式");
+      MODES.forEach(function (entry) {
+        var button = document.createElement("button");
+        button.type = "button";
+        button.className = "btn btn-outline-secondary";
+        button.setAttribute("data-mode", entry[0]);
+        button.textContent = entry[1];
+        button.addEventListener("click", function () {
+          applyMode(entry[0], true);
+        });
+        box.appendChild(button);
+      });
+      host.appendChild(label);
+      host.appendChild(box);
+      var menu = document.querySelector("#quarto-sidebar .sidebar-menu-container");
+      if (menu && menu.parentNode) {
+        menu.parentNode.insertBefore(host, menu);
+      } else {
+        host.classList.add("lang-switch-fixed");
+        document.body.appendChild(host);
+      }
+      return box;
+    }
+
+    function setupZoom() {
+      var overlay = document.createElement("div");
+      overlay.id = "img-zoom";
+      overlay.hidden = true;
+      var big = document.createElement("img");
+      big.alt = "";
+      overlay.appendChild(big);
+      document.body.appendChild(overlay);
+
+      function close() {
+        overlay.hidden = true;
+        big.removeAttribute("src");
+        document.body.classList.remove("zoom-open");
+      }
+
+      document.addEventListener("click", function (event) {
+        var target = event.target;
+        var inFigure = target && target.closest && target.closest(".figimg");
+        if (target && target.tagName === "IMG" && inFigure) {
+          big.src = target.currentSrc || target.src;
+          big.alt = target.alt || "";
+          overlay.hidden = false;
+          document.body.classList.add("zoom-open");
+          event.preventDefault();
+          return;
+        }
+        if (!overlay.hidden) close();
+      });
+      document.addEventListener("keydown", function (event) {
+        if (event.key === "Escape") close();
+        if (event.altKey && (event.key === "1" || event.key === "2" || event.key === "3")) {
+          applyMode(MODES[Number(event.key) - 1][0], true);
+          event.preventDefault();
+        }
+      });
+    }
+
+    function init() {
+      buildSwitch();
+      var current = document.documentElement.getAttribute("data-lang-mode") || "both";
+      applyMode(current, false);
+      setupZoom();
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", init);
+    } else {
+      init();
+    }
+  })();
+</script>

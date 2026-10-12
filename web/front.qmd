@@ -1,0 +1,268 @@
+---
+title: "前言：致函与报告摘要"
+subtitle: "Front Matter: Letters and Summary"
+---
+
+## 致总统函
+
+```{=html}
+<div class="en h-en"><p>Letter of Transmittal</p></div>
+<div class="pair">
+<div class="en" id="p-front-2-en"><p><strong>DEAR MR. PRESIDENT</strong>:</p></div>
+<div class="zh" id="p-front-2-zh"><p><strong>尊敬的总统先生</strong>：</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-3-en"><p>Eighty-one years ago, President Franklin D. Roosevelt wrote a letter to Vannevar Bush, tasking him with reorganizing America’s scientific enterprise after World War II. Bush’s response was a report, titled <em>Science: The Endless Frontier</em>. It established the Federal Government’s role in supporting basic science, led to the creation of the National Science Foundation, and shaped our nation’s science and technology strategy for decades afterward. That report was foundational to the American Century and to the technological world in which we live today.</p></div>
+<div class="zh" id="p-front-3-zh"><p>八十一年前，Franklin D. Roosevelt 总统致信 Vannevar Bush，委托他在第二次世界大战之后重组美国的科学事业。Bush 的回应是一份报告，题为《科学：无尽的前沿》（<em>Science: The Endless Frontier</em>）。它确立了联邦政府在支持基础科学中的角色，促成了国家科学基金会的成立，并在此后数十年间塑造了我国的科学技术战略。那份报告是「美国世纪」的基石，也是我们今天所生活的技术世界的基石。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-4-en"><p>Now, as we celebrate the United States’ 250th anniversary, we have the responsibility to renew our foundations once more. Never have science and technology been more central to our nation’s security and prosperity, and, although America continues to set the pace of scientific progress, global competitors are racing to challenge our leadership. This historical moment demands that we modernize our institutions to match the achievements of our past and the ambitions of our future.</p></div>
+<div class="zh" id="p-front-4-zh"><p>如今，在我们庆祝美国建国 250 周年之际，我们再次肩负起更新自身根基的责任。科学与技术从未像今天这样处于我国安全与繁荣的核心；尽管美国仍在引领科学进步的节奏，全球竞争者正在奋力挑战我们的领导地位。这一历史时刻要求我们实现制度现代化，使之与我们过去的成就和未来的雄心相匹配。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-5-en"><p>In your letter of March 26, 2025, on the occasion of my Senate confirmation as Director of the Office of Science and Technology Policy, you challenged me to reexamine America’s research and development ecosystem in light of changes brought on by the 21st century.</p></div>
+<div class="zh" id="p-front-5-zh"><p>在您 2025 年 3 月 26 日、也就是我经参议院确认出任白宫科学技术政策办公室主任之际给我的信中，您要求我结合 21 世纪带来的变化，重新审视美国的研发生态。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-6-en"><p>The report I present here diagnoses the obstacles American researchers face today, and the ways our scientific enterprise has fundamentally transformed since its basic organization was established in 1945. Though our investments in research have grown, scientific productivity has slowed. We have become dependent on a narrow set of legacy institutions. Our incentive structures reward conformity over bold inquiry. And the capacity that once turned American discoveries into American strength has eroded, undermined by decades of industrial offshoring.</p></div>
+<div class="zh" id="p-front-6-zh"><p>我在此提交的报告，诊断了美国研究者今天面临的障碍，以及自 1945 年确立基本组织架构以来我国科学事业发生的根本性转变。尽管我们的研究投入增加了，科学生产率却放缓了。我们变得依赖数量有限的既有机构。我们的激励机制奖励循规蹈矩，而不是大胆探索。曾经把美国发现转化为美国实力的那种能力已经遭到侵蚀，被数十年的产业外迁所削弱。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-7-en"><p>To address these and related challenges, this report puts forward recommendations for the entire scientific and technological ecosystem, across government, academia, philanthropy, and industry. Underlying all of these recommendations is a simple measure of success. A decade from now, American researchers should look back at our work and say: “The vital questions I could not pursue then, I am free to pursue now.” That purpose will be achieved if we make progress toward four overarching goals.</p></div>
+<div class="zh" id="p-front-7-zh"><p>为应对这些挑战及相关问题，本报告面向整个科学技术生态——涵盖政府、学术界、慈善界和产业界——提出建议。贯穿所有这些建议的，是一个简单的成功标准。十年之后，美国研究者回看我们的工作时应当说：「当年我无法探究的那些重大问题，如今我可以自由探究了。」如果我们朝四项总目标取得进展，这一目标就能实现。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-8-en"><p>First, the U.S. research system should prioritize the individual scientist over legacy institutions. If we are serious about expanding what our scientists can do, we must invest directly in American researchers and the bold ideas that drive them. Too much of our research enterprise has come to serve itself rather than the scientists within it. Federal funding agencies should support a broader range of performers, including a new generation of mission-driven research organizations, to expand our scientific horizons. And these agencies should organize themselves around the interdisciplinary frontiers of science today, rather than the academic silos of the last century.</p></div>
+<div class="zh" id="p-front-8-zh"><p>第一，美国科研体系应当把个人科学家置于既有机构之上。如果我们真心想扩大科学家能够做到的事，就必须直接投资于美国研究者以及驱动他们的大胆想法。我们的科研事业有太多部分变成了自我服务，而不是服务于其中的科学家。联邦资助机构应当支持更广泛的执行主体，包括新一代使命驱动型研究组织，以拓展我们的科学视野。这些机构还应当围绕当今科学的跨学科前沿来组织自身，而不是围绕上一个世纪的学科竖井。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-9-en"><p>Second, the Federal Government should fundamentally change <em>how</em> research dollars are allocated, distributed, and assessed. Instead of a one-size-fits-all approach, the government should fund more flexible types of grants, including fast-track grants, long-horizon grants, and new mechanisms that allow reviewers to champion radically unconventional proposals. Federal research agencies should evaluate their own performance as capital allocators, test new ways of making grants, and construct portfolios with the intentionality of a serious investor.</p></div>
+<div class="zh" id="p-front-9-zh"><p>第二，联邦政府应当从根本上改变研究经费<em>如何</em>配置、发放和考核。政府不应采取一刀切的做法，而应提供更灵活的资助形式，包括快速通道资助、长周期资助，以及允许评审人支持极为非常规提案的新机制。联邦研究机构应当作为资本配置者评估自身绩效、试验新的资助方式，并以严肃投资者那样的意识来构建资助组合。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-10-en"><p>Third, the Federal Government should set clear scientific goals and build the industrial muscle to translate scientific discovery into technological strength. The greatest technical achievements of the last century came about because leaders in government identified national priorities and marshaled the resources to accomplish them. As our competitors race us to capture the value chain of strategic technologies, including with tactics we would never countenance, we can no longer assume that the fruits of American science will accrue to our own people. Government must mobilize the full force of our enterprise around national challenges, clear the ground for American builders, and reunite the work of discovery and manufacturing across the country.</p></div>
+<div class="zh" id="p-front-10-zh"><p>第三，联邦政府应当设定清晰的科学目标，并建设把科学发现转化为技术实力的产业能力。上个世纪最重大的技术成就之所以实现，是因为政府领导人确定了国家优先事项并调动资源去完成它们。当竞争者与我们争夺战略技术的价值链时——其中还包括我们绝不会容忍的手段——我们再也不能假定美国科学的成果会归于我们自己的人民。政府必须围绕国家挑战调动整个事业的力量，为美国建设者扫清障碍，并在全国范围内重新把发现与制造接合起来。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-11-en"><p>Fourth, we must prepare our research enterprise for the AI revolution. AI will accelerate and radically transform the way we do science. But even the most capable AI models will be slowed down in the bottleneck of institutions and systems built for the last century. As we renew the infrastructure that powers American science, we must reengineer it for the AI age. And even as AI compresses the time from question to answer, we will still need human hands to build the instrument or prototype. We must build that capacity, too, investing in advanced manufacturing, the skilled trades, and the vast pools of talent and tacit knowledge outside the traditional academic pipeline.</p></div>
+<div class="zh" id="p-front-11-zh"><p>第四，我们必须让科研事业为 AI 革命做好准备。AI 将加速并彻底改变我们从事科学的方式。但即使是最强大的 AI 模型，也会受制于为上个世纪而建的制度与体系这一瓶颈。在更新驱动美国科学的基础设施时，我们必须按 AI 时代的要求重新设计它。而且，即便 AI 压缩了从问题到答案的时间，我们仍然需要人手去制造仪器或原型。我们也必须建设这种能力，投资先进制造、技术工种，以及传统学术通道之外庞大的人才与默会知识储备。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-12-en"><p>In preparing this report, I have consulted widely across the country’s scientific enterprise, from entrepreneurs driving world-changing breakthroughs in fusion technology, to researchers eager to pursue bold ideas in neuroscience at our universities, to venture capitalists funding revolutionary platforms for drug discovery. Their message is clear and inspiring: given the right conditions, American ingenuity will continue to achieve the impossible.</p></div>
+<div class="zh" id="p-front-12-zh"><p>在撰写本报告的过程中，我在全国科学事业范围内广泛征询意见：从在聚变技术领域推动改变世界突破的创业者，到渴望在我们大学里探索神经科学领域大胆想法的研究者，再到为革命性药物发现平台提供资金的风险投资人。他们传达的信息清晰而令人振奋：只要条件合适，美国的创造力将继续把不可能变为可能。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-13-en"><p>Throughout our history, Americans have shown remarkable courage in their willingness to reinvent our institutions when the challenges we faced demanded it, from establishing the land-grant university to creating the National Science Foundation to launching the Apollo Program. Each generation has seized its opportunity to expand the frontiers of knowledge and lay down the paving stones of progress. Now it is our time to build the scientific enterprise that will carry America forward and bring prosperity to Americans through the 21st century and beyond.</p></div>
+<div class="zh" id="p-front-13-zh"><p>纵观我们的历史，每当所面临的挑战提出要求时，美国人都会展现出重塑自身制度的非凡勇气——从建立赠地大学，到创建国家科学基金会，再到启动阿波罗计划。每一代人都抓住了扩展知识疆界、为进步铺就铺路石的机会。现在轮到我们，去建设能够承载美国前行、并在整个 21 世纪及其后为美国人带来繁荣的科学事业。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-14-en"><p>Mr. President, you have called for a Golden Age of American Innovation. This report is the map to that vision. Our nation cured polio, placed men on the Moon, decoded the human genome, and launched the digital revolution. With your leadership, we will extend our scientific and technological might into the Second American Century and continue to deliver the innovations and discoveries that define the modern world.</p></div>
+<div class="zh" id="p-front-14-zh"><p>总统先生，您呼吁开创美国创新的黄金时代。这份报告就是通往那一愿景的路线图。我们的国家曾攻克小儿麻痹症、把人送上月球、破译人类基因组，并开启了数字革命。在您的领导下，我们将把科学技术实力延伸至第二个美国世纪，并继续交付定义现代世界的创新与发现。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-15-en"><p>Respectfully submitted,</p></div>
+<div class="zh" id="p-front-15-zh"><p>谨此呈交，</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-16-en"><p>Michael Kratsios Assistant to the President for Science and Technology</p></div>
+<div class="zh" id="p-front-16-zh"><p>Michael Kratsios 总统科学技术助理</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-17-en"><p>Director, Office of Science and Technology Policy</p></div>
+<div class="zh" id="p-front-17-zh"><p>白宫科学技术政策办公室主任</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-18-en"><p>July 21, 2026</p></div>
+<div class="zh" id="p-front-18-zh"><p>2026 年 7 月 21 日</p></div>
+</div>
+```
+
+## Trump 总统的来信
+
+```{=html}
+<div class="en h-en"><p>President Trump's Letter</p></div>
+<div class="pair">
+<div class="en" id="p-front-20-en"><p>Dear Mr. Kratsios:</p></div>
+<div class="zh" id="p-front-20-zh"><p>尊敬的 Kratsios 先生：</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-21-en"><p>Scientific progress and technological innovation were the twin engines that powered the American century. The Manhattan Project fueled the atomic era. The Apollo Program won us the space race. The internet connected us to a digital future. Today, we will usher in the Golden Age of American Innovation. We will make America safer, healthier, and more prosperous than ever before. We will create a future of American greatness for every citizen, restoring the American Dream.</p></div>
+<div class="zh" id="p-front-21-zh"><p>科学进步与技术创新，是驱动美国世纪的两台引擎。曼哈顿计划点燃了原子时代。阿波罗计划让我们赢得太空竞赛。互联网把我们接入数字未来。今天，我们将开启美国创新的黄金时代。我们将使美国比以往任何时候都更安全、更健康、更繁荣。我们将为每一位公民创造伟大的美国未来，重振美国梦。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-22-en"><p>The triumphs of the last century did not happen by chance. As World War II drew towards a close, President Franklin D. Roosevelt wrote a letter like this one to his science and technology advisor, Vannevar Bush, charging him to explore new frontiers of the mind for the sake of national greatness and pioneer science in peacetime. Dr. Bush’s response laid the groundwork for the uniquely successful American partnership of Government, industry, and academia that built the greatest and most productive nation in human history.</p></div>
+<div class="zh" id="p-front-22-zh"><p>上个世纪的辉煌并非偶然。当第二次世界大战接近尾声时，Franklin D. Roosevelt 总统给其科技顾问 Vannevar Bush 写了一封与这封信类似的信，委托他为了国家的伟大而探索心智的新前沿，并在和平时期开创科学。Bush 博士的回应，为美国政府、产业界与学术界之间那种独特而成功的合作奠定了基础——正是这种合作造就了人类历史上最伟大、最高产的国家。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-23-en"><p>But today, rivals abroad seek to usurp America’s position as the world’s greatest maker of marvels and producer of knowledge. We must recapture the urgency which propelled us so far in the last century. The time has come to return to our roots and renew the American scientific enterprise for the century ahead. So, just as FDR tasked Vannevar Bush, I am tasking you with meeting the challenges below to deliver for the American people.</p></div>
+<div class="zh" id="p-front-23-zh"><p>但今天，海外对手试图篡夺美国作为世界最大奇迹创造者和知识生产者的地位。我们必须重拾上个世纪推动我们走到今天的紧迫感。现在是回归根本、为未来一个世纪更新美国科学事业的时候了。因此，正如 Roosevelt 总统当年委托 Vannevar Bush 那样，我委托您应对以下挑战，为美国人民交付成果。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-24-en"><p>First: How can the United States secure its position as the unrivaled world leader in critical and emerging technologies—such as artificial intelligence, quantum information science, and nuclear technology—maintaining our advantage over potential adversaries?</p></div>
+<div class="zh" id="p-front-24-zh"><p>第一：美国如何才能确保其在关键与新兴技术——如人工智能、量子信息科学和核技术——上无可争议的世界领导地位，保持对潜在对手的优势？</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-25-en"><p>We need to accelerate research and development, dismantle regulatory barriers, strengthen domestic supply chains and manufacturing, spur robust private sector investment, and advance American companies in global markets. Rival nations are pushing hard to overtake the United States, and we must blaze a bold path to maintain our technological supremacy.</p></div>
+<div class="zh" id="p-front-25-zh"><p>我们需要加快研发、拆除监管壁垒、强化本土供应链与制造能力、激发强劲的私营部门投资，并推动美国企业在全球市场上前进。竞争国家正在全力追赶美国，我们必须开辟一条大胆的道路，以维持我们的技术优势。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-26-en"><p>Second: How can we revitalize America’s science and technology enterprise—pursuing truth, reducing administrative burdens, and empowering researchers to achieve groundbreaking discoveries?</p></div>
+<div class="zh" id="p-front-26-zh"><p>第二：我们如何振兴美国的科学技术事业——追求真理、减轻行政负担，并让研究者能够取得突破性发现？</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-27-en"><p>We need new paradigms for the research enterprise, including innovative models for funding and sharing scientific research, redefining how America conducts the business of discovery. We must build an ecosystem that attracts top talent, celebrates merit, protects our intellectual edge, and enables scientists to focus on meaningful work rather than administrative box checking.</p></div>
+<div class="zh" id="p-front-27-zh"><p>我们需要科研事业的新范式，包括资助与共享科学研究的新模式，重新定义美国从事发现的方式。我们必须建立一个能够吸引顶尖人才、褒奖才能、保护我们的智力优势，并让科学家专注于有意义的工作而非行政打勾的生态。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-28-en"><p>Third: How can we ensure that scientific progress and technological innovation fuel economic growth and better the lives of all Americans?</p></div>
+<div class="zh" id="p-front-28-zh"><p>第三：我们如何确保科学进步与技术创新推动经济增长，并改善所有美国人的生活？</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-29-en"><p>During my first term, we made unprecedented advances in America’s scientific and technological leadership. We launched the American Artificial Intelligence Initiative, vaulting the United States to the front of the pack in the development and deployment of artificial intelligence. Our National Quantum Initiative established the foundation for national quantum supremacy. We created the United States Space Force and charted a new and daring course for America’s further exploration of space. All of this buttressed our security and bolstered our prosperity, and it reaffirmed America’s place as the world’s preeminent technological superpower.</p></div>
+<div class="zh" id="p-front-29-zh"><p>在我的第一个任期内，我们在美国科学技术领导力上取得了前所未有的进展。我们启动了「美国人工智能倡议」，把美国推上人工智能开发与部署的第一梯队。我们的「国家量子倡议」为国家量子霸权奠定了基础。我们创建了美国太空军，并为美国进一步探索太空规划了一条全新而大胆的路线。所有这些都巩固了我们的安全、增进了我们的繁荣，并再次确认了美国作为世界首要技术超级大国的地位。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-30-en"><p>Now, after four long years of weakness and complacency, we must set our sights even higher. I am calling upon you to blaze a trail to the next frontiers of science. We have the opportunity to cement America’s global technological leadership and usher in the Golden Age of American Innovation. We are not just competing with other nations; we are seeking, striving, fighting to make America greater than ever before.</p></div>
+<div class="zh" id="p-front-30-zh"><p>如今，在长达四年的软弱与自满之后，我们必须把目标定得更高。我呼吁您为科学的下一个前沿开辟道路。我们有机会巩固美国的全球技术领导地位，并开启美国创新的黄金时代。我们不仅仅是在与其他国家竞争；我们是在寻求、在努力、在奋斗，让美国比以往任何时候都更伟大。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-31-en"><p>Sincerely,</p></div>
+<div class="zh" id="p-front-31-zh"><p>诚挚地，</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-32-en"><p>Donald J. Trump</p></div>
+<div class="zh" id="p-front-32-zh"><p>Donald J. Trump</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-33-en"><p>President of the United States</p></div>
+<div class="zh" id="p-front-33-zh"><p>美利坚合众国总统</p></div>
+</div>
+```
+
+## 报告摘要
+
+```{=html}
+<div class="en h-en"><p>Summary of the Report</p></div>
+<div class="pair">
+<div class="en" id="p-front-35-en"><p>American scientific progress was the beating heart of the 20th century. It delivered victory on the battlefields of World War II, secured America’s triumph in the Cold War, and produced the most prosperous nation in human history. We developed the alchemy that taught sand how to think, conjuring the digital world from silicon chips. American science conquered polio, placed men on the Moon, and gave humanity general-purpose artificial intelligence (AI). This leadership has improved lives and defined the very structure of our modern world.</p></div>
+<div class="zh" id="p-front-35-zh"><p>美国的科学进步是 20 世纪跳动的心脏。它在第二次世界大战的战场上带来胜利，确保美国赢得冷战，并造就了人类历史上最繁荣的国家。我们发展出那种教沙子如何思考的炼金术，用硅芯片变出数字世界。美国科学攻克了小儿麻痹症、把人送上月球，并给予人类通用人工智能（AI）。这种领导地位改善了人们的生活，也定义了现代世界本身的结构。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-36-en"><p>The foundation of these profound advancements was laid in the years following World War II, thanks largely to the vision set out by Vannevar Bush, the chief science advisor to Presidents Roosevelt and Truman. In his canonical 1945 report, <em>Science: The Endless Frontier</em>, Bush made the prescient case for federal support of basic research, laying the groundwork for the modern scientific enterprise. That enterprise, however, was predominantly built around what became called the “linear model” of technical progress, flowing from basic research to applied research to development of technology and industry. A simplification even then, that model has grown increasingly inadequate as a description of progress eighty-one years later. Discovery today is most often an iterative loop between fundamental and applied work, with industry and engineering playing a vital part in spurring even basic research.</p></div>
+<div class="zh" id="p-front-36-zh"><p>这些深刻进步的基础，是在第二次世界大战之后的年代奠定的，主要归功于 Vannevar Bush——Roosevelt 总统和 Truman 总统的首席科学顾问——所提出的愿景。在他 1945 年那份经典报告《科学：无尽的前沿》（<em>Science: The Endless Frontier</em>）中，Bush 以前瞻性的论证主张联邦支持基础研究，为现代科学事业奠定了基础。然而，这一事业主要是围绕后来被称为「线性模型」的技术进步观念建立的：从基础研究到应用研究，再到技术与产业的开发。即便在当时，这也是一种简化；八十一年后的今天，这一模型作为对进步的描述已越来越不充分。今天的发现，最常见的是基础工作与应用工作之间的迭代循环，而产业界与工程在其中发挥着关键作用，甚至推动着基础研究。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-37-en"><p>Government funding of research and development, especially basic science in the academy and national labs, has rightly grown in the eight decades since Bush’s report. But private industry has become by far the largest source of research and development (R&amp;D) funding in the United States, with its share nearly doubling from the 1950s to today. American companies now deploy around $700 billion annually, more than triple the combined spending from government and higher education. This evolution has made the pie bigger for everybody and should be welcomed across the research ecosystem, but it demands a corresponding adjustment to the nature of the Federal Government’s contributions.</p></div>
+<div class="zh" id="p-front-37-zh"><p>自 Bush 的报告以来八十年间，政府对研发——尤其是学术界与国家实验室中的基础科学——的资助理所当然地增长了。但私营产业已成为美国研发（R&amp;D）资金遥遥领先的最大来源，其份额从 20 世纪 50 年代到今天几乎翻了一倍。美国企业现在每年投入约 7,000 亿美元，是政府与高等教育投入总和的三倍多。这一演变把蛋糕做得更大，理应受到整个研发生态的欢迎，但它要求联邦政府的贡献方式作出相应调整。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-38-en"><p>New challenges have arisen in recent decades. Despite massive increases in biomedical funding since the 1990s, the rate of significant breakthroughs appears to have slowed and drug approvals have flatlined. Researchers today often spend half their time on paperwork and administrative tasks, a burden worsened by expanding federal and university bureaucracies that further reduce funding available for actual science. A smaller proportion of American citizens now fill post-graduate spots in science, technology, engineering, and mathematics (STEM) fields. Our competitors are channeling unprecedented resources into science and engineering, taking a whole-of-society approach to seize the high ground in strategic technologies. The AI revolution, meanwhile, is transforming the conduct of science, and legacy scientific institutions and infrastructure are not ready to take full advantage of this transformation.</p></div>
+<div class="zh" id="p-front-38-zh"><p>近几十年来出现了新的挑战。尽管自 1990 年代以来生物医学经费大幅增加，重大突破的速率似乎放缓，药物批准数量也停滞不前。今天的研究者常常把一半时间花在文书和行政事务上；联邦与大学官僚体系的膨胀又加剧了这一负担，进一步减少了可用于真正科学研究的经费。如今，美国公民在科学、技术、工程和数学（STEM）领域研究生名额中占的比例更小。我们的竞争者正把前所未有的资源投入科学与工程，采取「全社会」路径去抢占战略技术的高地。与此同时，AI 革命正在改变科学的开展方式，而既有的科学机构与基础设施尚未准备好充分利用这一转变。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-39-en"><p>America has led the world in scientific progress because Americans have refused to stand still. We have adapted to changing conditions before by boldly reinventing how we structure science, and we must innovate again. Never has scientific and technological development been more essential to our national and economic security, and never has this progress been so deeply intertwined with our diplomatic relationships worldwide.</p></div>
+<div class="zh" id="p-front-39-zh"><p>美国之所以在科学进步上领先世界，是因为美国人拒绝原地不动。我们过去曾通过大胆重塑科学的组织方式来适应变化，现在必须再次创新。科学技术发展从未像今天这样对国家安全和经济安全如此关键，也从未像今天这样与我们的全球外交关系如此紧密交织。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-40-en"><p>President Trump has been very clear about his priorities, as he seeks to lay the foundations for a new Golden Age of American Innovation. He has asked this administration to revitalize the national science enterprise, to secure U.S. leadership in emerging technologies against foreign rivals, and to ensure that all of America’s citizens will benefit from new scientific breakthroughs and technological transformations. The President understands the American story as one of ambition, discovery, and invention, of pioneers who forever seek new frontiers for exploration, particularly now in science and technology.</p></div>
+<div class="zh" id="p-front-40-zh"><p>Trump 总统对其优先事项非常明确，他正在为美国创新的新黄金时代奠定基础。他要求本届政府振兴国家科学事业、在与外国对手的竞争中确保美国在新兴技术上的领导地位，并确保所有美国公民都能从新的科学突破与技术变革中受益。总统把美国的故事理解为一部关于雄心、发现和发明的故事，是永远寻找新探索前沿的先驱者的故事——尤其是在今天的科学与技术领域。</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-41-en"><p>The following chapters provide recommendations, insights, and guidance to the entire U.S. scientific enterprise, from the government to universities to the private sector and philanthropy.</p></div>
+<div class="zh" id="p-front-41-zh"><p>以下各章为整个美国科学事业——从政府到大学，再到私营部门和慈善界——提供建议、洞见与指引。</p></div>
+</div>
+<div class="pair subhead">
+<div class="en" id="p-front-42-en"><p>Chapter II: Revitalizing America’s Science and Technology Enterprise</p></div>
+<div class="zh" id="p-front-42-zh"><p>第二章：振兴美国科学技术事业</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-43-en"><p>To reverse stagnation and restore breakthrough momentum, the Federal Government must free American scientists to do their best work. Federal funding in academia remains anchored to mid-century assumptions, channeled through traditional disciplines and overly focused on short, project-based grants. Review panels often gatekeep proposals by consensus, disincentivizing transformative ideas. Agencies face little corrective pressure when portfolios underperform. We must strip away unnecessary burdens, realign funding toward excellence and risk-taking, and embed continuous, evidence-based improvement across an approximately $200 billion annual R&amp;D portfolio.</p></div>
+<div class="zh" id="p-front-43-zh"><p>为扭转停滞、恢复突破势头，联邦政府必须解放美国科学家，让他们做出最好的工作。学术界中的联邦资助仍然锚定在世纪中叶的假设上：通过传统学科分配，并过度集中于短期的项目制资助。评审小组往往以共识为门槛来把关提案，抑制变革性想法。当资助组合表现不佳时，各机构几乎感受不到纠偏压力。我们必须清除不必要的负担，把经费重新对准卓越与承担风险，并在规模约 2,000 亿美元的年度研发组合中嵌入持续、基于证据的改进。</p></div>
+</div>
+<div class="pair">
+<div class="en"><ul>
+<li id="p-front-44-en"><strong>Refocus on the Individual Scientist:</strong> Put the working researcher back at the center of America’s scientific enterprise. Free them from the growing administrative burdens that now weigh them down for nearly half their working hours. Bet on people, not just projects, by expanding portable graduate fellowships like the National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP), backing early-career independence, and scaling long-horizon grants for the best and brightest modeled on National Institutes of Health (NIH) Director’s Pioneer Award. Open alternative pathways beyond standard academia, and ensure that selection rests purely on merit, not the political fashions of the day.</li>
+<li id="p-front-45-en"><strong>Diversify Funding Mechanisms:</strong> Move beyond consensus-driven peer review by adopting a broader menu of selection mechanisms suited to different kinds of science. Examples include “golden tickets” that empower individual reviewers to champion ambitious proposals, fast grants that deliver rapid funding decisions, prize challenges and advanced market commitments that pay for results, and regranting models that delegate funding authority to scientists to draw on distributed expertise.</li>
+<li id="p-front-46-en"><strong>Create New Institutional Models:</strong> Many of today’s most important problems are too large for an academic lab, too cross-disciplinary for a single department, and too hard to commercialize for a private corporation. Federal funding should support a wider range of performers. The recently launched X-Labs can assemble agile, time-bound teams of professional scientists and engineers to break specific bottlenecks. Advanced Research Projects Agencies (ARPAs) can empower individual program managers to make bold bets and curate researchers to execute them. Curiosity-driven institutes can give our best minds the stability needed to pursue fundamental questions over long time horizons.</li>
+<li id="p-front-47-en"><strong>Reduce Bureaucratic Burdens:</strong> Requirements on federal grants have ballooned over the past decades. Some grants now take nearly two years from submission to award, almost as long as it took to design and produce the first Boeing 747. Compress review cycles, eliminate duplicative reporting, and rein in indirect cost recovery that supports administrative bloat, redirecting that money to real scientific infrastructure. Advance reforms that reduce grant-writing burdens, with relief directed specifically to early-career researchers.</li>
+<li id="p-front-48-en"><strong>Institutionalize Continuous Improvement:</strong> Funders should bring the same critical attention to their own performance that they are supposed to bring to the review of grant applications. Stand up an empowered metascience unit in federal science agencies, reporting directly to the director, with authority to run controlled experiments on review and funding mechanisms and to drive change across the organization. Elevate the prestige of program officers, grow their discretion in setting scientific direction, and support them as the architects of the fields they help shape.</li>
+</ul></div>
+<div class="zh"><ul>
+<li id="p-front-44-zh"><strong>聚焦个人科学家：</strong> 把一线研究者重新放回美国科学事业的中心。把他们从如今占用近一半工作时间、且不断加重的行政负担中解放出来。要押注于人，而不只是项目：扩大可携带的研究生奖学金（如国家科学基金会（NSF）研究生研究奖学金计划（GRFP）），支持早期职业独立，并参照国立卫生研究院（NIH）主任先锋奖，为最优秀者扩大长周期资助规模。开辟标准学术路径之外的替代通道，并确保遴选纯粹依据才能，而不是当下的政治风向。</li>
+<li id="p-front-45-zh"><strong>多元化资助机制：</strong> 超越共识驱动的同行评议，采用更适合不同类型科学的更丰富的遴选机制。例如：让单个评审人有权支持雄心勃勃提案的「金色门票」；能迅速作出资助决定的快速资助；按结果付费的奖金挑战与预先市场承诺；以及把资助权限下放给科学家、以调用分布式专长的再资助模式。</li>
+<li id="p-front-46-zh"><strong>创建新的机构模式：</strong> 今天许多最重要的问题，对学术实验室来说太大，对单一院系来说过于跨学科，对私营公司来说又难以商业化。联邦资助应当支持更广泛的执行主体。最近启动的 X-Labs 可以组建敏捷、有期限的职业科学家与工程师团队，去突破特定瓶颈。高级研究计划署（ARPA）类机构可以授权单个项目经理做出大胆押注，并汇聚研究者去执行。好奇心驱动型研究所则能给我们最优秀的人才提供追求长期根本问题所需的稳定性。</li>
+<li id="p-front-47-zh"><strong>减轻官僚负担：</strong> 过去几十年，联邦资助的要求不断膨胀。有些资助从提交到获批需要近两年，几乎与设计和生产第一架波音 747 所需的时间相当。压缩评审周期、取消重复报告、管住支撑行政膨胀的间接成本回收，把资金重新导向真正的科研基础设施。推进减轻写申请负担的改革，并把缓解措施专门面向早期职业研究者。</li>
+<li id="p-front-48-zh"><strong>把持续改进制度化：</strong> 资助方应当以它们本应对资助申请评审所抱持的那种批判性关注，来审视自身绩效。在联邦科学机构中设立有实权的元科学部门，直接向机构负责人汇报，有权对评审与资助机制开展对照实验，并推动整个组织的变革。提升项目官员的声望，扩大他们在确定科学方向上的自主权，并支持他们成为自己所助力塑造领域的设计师。</li>
+</ul></div>
+</div>
+<div class="pair subhead">
+<div class="en" id="p-front-49-en"><p>Chapter III: Securing U.S. Dominance in Critical and Emerging Technologies</p></div>
+<div class="zh" id="p-front-49-zh"><p>第三章：确保美国在关键与新兴技术上的主导地位</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-50-en"><p>America has the world’s most vibrant scientific enterprise and most dynamic private sector, which routinely turns novel ideas into new industries. But scientific leadership alone does not guarantee national strength or economic vitality. We must tightly couple our science and technology enterprises to ensure that groundbreaking ideas invented in the United States are rapidly prototyped, tested, manufactured, and scaled domestically.</p></div>
+<div class="zh" id="p-front-50-zh"><p>美国拥有世界上最活跃的科学事业和最具活力的私营部门，后者不断把新想法变成新产业。但仅靠科学领先并不能保证国家实力或经济活力。我们必须把科学事业与技术事业紧密耦合，确保在美国诞生的突破性想法能够迅速在本土完成原型、测试、制造和规模化。</p></div>
+</div>
+<div class="pair">
+<div class="en"><ul>
+<li id="p-front-51-en"><strong>Restore Permissionless Innovation:</strong> American regulators have grown skilled at weighing the risks of action, but blind to the costs of inaction. Developing good rules require real-world evidence, and building that evidence base only comes from letting innovators prototype and experiment. Extend the President’s reforms in nuclear, pharmaceuticals, and drones across other sectors. Weigh benefits alongside risks, streamline permitting, and use regulatory sandboxes to test new technologies under controlled conditions.</li>
+<li id="p-front-52-en"><strong>Open Federal Infrastructure to American Builders:</strong> The Federal Government has facilities and testbeds no startup can replicate on its own. Broaden industry access to America’s laboratory research infrastructure, including at Department of Energy (DOE) national laboratories, National Aeronautics and Space Administration (NASA) centers, and Department of War (DOW) facilities. Consider innovative potential alongside scientific merit in use approvals, streamline Cooperative Research and Development Agreements (CRADAs) and licensing, further leverage Other Transaction Authority (OTA) to enable private-sector engagement in co-designing research directions, and expand partnerships with the private sector to make joint investments into cutting-edge equipment.</li>
+<li id="p-front-53-en"><strong>Strengthen Public-Private Partnerships and Talent Flows:</strong> The university is no longer the only home of America’s most innovative scientific research. Expand agency-adjacent foundations, focus Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) programs to build strategic capabilities, and support joint centers among industry, academia, and federal facilities. Scale industry Ph.D. and postdoc fellowships that move talent fluidly between sectors, drawing on America’s private sector strengths to bring industry-scale resources to our academic researchers.</li>
+<li id="p-front-54-en"><strong>Organize Pre-Competitive Consortia and Grand Challenges:</strong> The Apollo Program and the Human Genome Project succeeded because the Federal Government marshaled scientific effort at a scale no single institution could match. Leverage grand challenges that pull breakthroughs forward, and create moonshot-scale missions for issues of national importance. Support industry consortia and use federal resources to break shared engineering bottlenecks in foundational areas, as Extreme Ultraviolet Limited Liability Company (EUV LLC) did for semiconductor lithography.</li>
+<li id="p-front-55-en"><strong>Use Counties and States as Laboratories:</strong> Federalism is one of America’s greatest assets. States can experiment with regulation, permitting, and economic incentives in ways the Federal Government cannot replicate. Support state-led experimentation, partner with the jurisdictions that move the fastest, and let localities compete to support regional innovation. Ensure that innovation strategies that work spread across the nation, advancing science and technology in every county and state.</li>
+</ul></div>
+<div class="zh"><ul>
+<li id="p-front-51-zh"><strong>恢复无需许可的创新：</strong> 美国监管者已擅长权衡行动的风险，却对不行动的代价视而不见。制定好的规则需要真实世界的证据，而建立证据基础只能靠让创新者去做原型和试验。把总统在核能、制药和无人机领域的改革推广到其他部门。在权衡风险的同时评估收益，简化许可流程，并利用监管沙盒在受控条件下测试新技术。</li>
+<li id="p-front-52-zh"><strong>向美国建设者开放联邦基础设施：</strong> 联邦政府拥有创业公司无法自行复制的设施与试验场。扩大产业界对美国实验室研究基础设施的使用，包括能源部（DOE）国家实验室、国家航空航天局（NASA）中心以及战争部（DOW，2025 年由国防部更名）的设施。在使用审批中，把创新潜力与科学价值一并考虑，简化合作研究与开发协议（CRADA）与许可流程，进一步运用其他交易授权（OTA）让私营部门参与共同设计研究方向，并扩大与私营部门的伙伴关系，对前沿设备进行联合投资。</li>
+<li id="p-front-53-zh"><strong>强化公私伙伴关系与人才流动：</strong> 大学不再是美国最具创新性科学研究的唯一家园。扩大附属于机构之外的基金会，把「小企业创新研究」（SBIR）和「小企业技术转移」（STTR）计划聚焦于建设战略能力，并支持产业界、学术界与联邦设施之间的联合中心。扩大产业界博士与博士后奖学金，让人才在部门之间自由流动，借助美国私营部门的优势，为我们的学术研究者带来产业规模的资源。</li>
+<li id="p-front-54-zh"><strong>组织竞争前联盟与重大挑战：</strong> 阿波罗计划和人类基因组计划之所以成功，是因为联邦政府以任何单一机构都无法比拟的规模调动了科学力量。善用能把突破拉向前方的重大挑战，为国家重要议题创建「登月级」任务。支持产业联盟，并用联邦资源去突破基础领域的共性工程瓶颈，正如极紫外有限责任公司（EUV LLC）在半导体光刻领域所做的那样。</li>
+<li id="p-front-55-zh"><strong>把县与州当作实验室：</strong> 联邦制是美国最大的资产之一。各州可以在监管、许可和经济激励上做联邦政府无法复制的试验。支持州主导的试验，与行动最快的辖区合作，让地方为支持区域创新而相互竞争。确保行之有效的创新战略在全国扩散，在每个县和州推进科学与技术。</li>
+</ul></div>
+</div>
+<div class="pair subhead">
+<div class="en" id="p-front-56-en"><p>Chapter IV: Ensuring That Science and Technology Better the Lives of All Americans</p></div>
+<div class="zh" id="p-front-56-zh"><p>第四章：让科学技术改善所有美国人的生活</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-57-en"><p>America’s scientific creativity and entrepreneurial culture position us to translate breakthroughs into technologies that enrich every American’s life. That enrichment should include the creation of manufacturing jobs, not just the development of consumer products. By rebuilding the link between science and hands-on craft, federal leadership can ensure that the economic returns of discovery, including the jobs, supplier networks, and process knowledge encoded in the hands of workers, accrue to Americans in every region of the country and every sector of the economy, sustaining our technological leadership for generations to come.</p></div>
+<div class="zh" id="p-front-57-zh"><p>美国的科学创造力与创业文化，使我们能够把突破转化为丰富每一位美国人生活的技术。这种丰富应当包括创造制造业就业，而不只是开发消费品。通过重建科学与动手技艺之间的联系，联邦领导层可以确保发现所带来的经济回报——包括就业、供应商网络，以及编码在工人双手中的工艺知识——归于全国每一个地区、每一个经济部门的美国人，从而在未来数代人中维持我们的技术领先。</p></div>
+</div>
+<div class="pair">
+<div class="en"><ul>
+<li id="p-front-58-en"><strong>Integrate Hands-On Training:</strong> Technology is encoded not just in papers and patents, but in the tacit knowledge passed from mentor to mentee. Require universities and community colleges to embed practical technical training and externships into STEM curricula. Let hands-on experience and industry credentials count toward degrees. Reform accreditation, admissions, and tenure to reward real-world technical work alongside academic publication.</li>
+<li id="p-front-59-en"><strong>Open Scientific Careers Beyond the Academic Ladder:</strong> Establish national fellowships for skilled craftspeople, practitioner-in-residence programs embedding machinists and technicians alongside Ph.D. researchers, and portable industry-recognized credentials in advanced manufacturing and lab techniques. Connect hobbyists and tinkerers in rural communities to formal research opportunities, and open up universities to technical training for local residents.</li>
+<li id="p-front-60-en"><strong>Modernize Apprenticeships and Career Pathways:</strong> Extend registered apprenticeships into science and technology fields. Adopt pay-for-performance funding models, scale Workforce Pell Grants, and back community colleges as regional hubs of scientific and technical talent. Integrate these hubs with industry sites and federally funded innovation and manufacturing centers.</li>
+<li id="p-front-61-en"><strong>Build Dense, Local Innovation Clusters Across the Nation:</strong> Technological leadership emerges from places where research and production sit close together. Expand regional innovation hubs, manufacturing institutes, and defense industrial base centers to anchor regional ecosystems. Drive coordinated efforts with local universities and national laboratories to build specializations and workforce pipelines. Pair these efforts with the reshoring of advanced manufacturing, and restore the feedback loops between researchers, engineers, and skilled technicians.</li>
+</ul></div>
+<div class="zh"><ul>
+<li id="p-front-58-zh"><strong>整合动手训练：</strong> 技术不仅编码在论文和专利里，也编码在师徒相传的默会知识中。要求大学与社区学院把实用技术训练与企业实习（externship）嵌入 STEM 课程。让动手实践经验与行业证书可以计入学位。改革认证、招生与终身教职制度，使现实世界的技术工作与学术发表同样受到奖励。</li>
+<li id="p-front-59-zh"><strong>在学术阶梯之外开辟科学职业：</strong> 为熟练技工设立国家奖学金，设立把机械师和技术员与博士研究者放在一起的「驻场实践者」计划，并在先进制造与实验室技术领域提供可携带、行业认可的证书。把农村社区的业余爱好者和修补匠与正式研究机会连接起来，并向本地居民开放大学的技术培训。</li>
+<li id="p-front-60-zh"><strong>现代化学徒制与职业通道：</strong> 把注册学徒制延伸到科学与技术领域。采用按绩效付费的资助模式，扩大「劳动力佩尔助学金」（Workforce Pell Grants），并支持社区学院成为区域科学与技术人才中心。把这些中心与产业现场以及联邦资助的创新与制造中心整合起来。</li>
+<li id="p-front-61-zh"><strong>在全国建设密集的本地创新集群：</strong> 技术领先产生于研究与生产彼此靠近的地方。扩大区域创新枢纽、制造业研究所和国防工业基地中心，以锚定区域生态。与本地大学和国家实验室协同努力，建设专业分工与人才通道。把这些努力与先进制造的回流配套推进，并恢复研究者、工程师与熟练技术员之间的反馈回路。</li>
+</ul></div>
+</div>
+<div class="pair subhead">
+<div class="en" id="p-front-62-en"><p>Chapter V: A New Golden Age</p></div>
+<div class="zh" id="p-front-62-zh"><p>第五章：一个新的黄金时代</p></div>
+</div>
+<div class="pair">
+<div class="en" id="p-front-63-en"><p>America stands at the cusp of a revolution in science, in which AI will accelerate discovery, multiply human cognitive capabilities, and unlock solutions to some of our greatest challenges. But “AI for science” will still find itself subject to the frictions and inefficiencies of human institutions. We can only fully harness AI and its associated productivity uplift by boldly reforming our scientific institutions, building national-scale infrastructure, and ensuring rigorous verification of the knowledge base from which AI will learn.</p></div>
+<div class="zh" id="p-front-63-zh"><p>美国正站在一场科学革命的门槛上：AI 将加速发现、倍增人类的认知能力，并为我们一些最艰巨的挑战找到解决方案。但「AI for science」仍将受制于人类制度的摩擦与低效。我们只有大胆改革科学制度、建设国家级基础设施，并确保 AI 所学习的知识基础得到严格验证，才能充分驾驭 AI 及其带来的生产率提升。</p></div>
+</div>
+<div class="pair">
+<div class="en"><ul>
+<li id="p-front-64-en"><strong>Launch and Scale the Genesis Mission:</strong> Fully fund and expand the Genesis Mission as America’s flagship AI for science initiative, integrating supercomputers, AI models, scientific instruments, and datasets across national laboratories to double the productivity and impact of U.S. science within a decade. Direct it at cross-cutting problems where breakthroughs unlock entire branches of downstream discovery and where AI can transform the practice of science itself.</li>
+<li id="p-front-65-en"><strong>Institutionalize Gold Standard Science:</strong> AI operating on a flawed knowledge base will only entrench bad science. Enforce reproducibility, transparency, data sharing, and falsifiability across all federally funded research through the Restoring Gold Standard Science Executive Order, creating a trusted foundation for AI-powered discovery.</li>
+<li id="p-front-66-en"><strong>Build Verification Infrastructure at Scale:</strong> While the cost of generation has decreased exponentially, the cost of verification has not. Invest in AI-enabled verification systems, open standards, and continuous replication mechanisms. Set standards to enable the development of machine-auditable replication packages, and reward those who replicate or disprove influential scientific results.</li>
+<li id="p-front-67-en"><strong>Accelerate Autonomous Experimentation:</strong> Closed-loop autonomous laboratories can collapse discovery timelines by orders of magnitude and enable science at a truly industrial scale. Focus investments in robotics and automated laboratories, leveraging industry demand and federal R&amp;D to ensure our scientific equipment industrial base is built on the world’s best hardware and software and leads the charge in the coming scientific revolution.</li>
+<li id="p-front-68-en"><strong>Experiment With AI-Native Scientific Institutions:</strong> Today’s funding structures, publication systems, and credit mechanisms were built for a world of human-paced discovery. Begin the transition to AI-native institutions, including through faster and more open forms of scientific publication, more granular credit attribution, and new market mechanisms that direct resources to problems where breakthroughs matter most.</li>
+</ul></div>
+<div class="zh"><ul>
+<li id="p-front-64-zh"><strong>启动并扩大 Genesis Mission：</strong> 为 Genesis Mission 提供充足资金并加以扩展，把它作为美国「AI for science」的旗舰计划，整合国家实验室的超级计算机、AI 模型、科学仪器和数据集，在十年内使美国科学的生产率与影响力翻倍。把它对准那些突破能解锁整条下游发现链、且 AI 能改变科学实践本身的交叉性问题。</li>
+<li id="p-front-65-zh"><strong>把「金标准科学」制度化：</strong> 在有缺陷的知识基础上运行的 AI 只会让坏科学更加固化。通过《恢复金标准科学》（<em>Restoring Gold Standard Science</em>）行政命令，在所有联邦资助研究中落实可重复性、透明度、数据共享和可证伪性，为 AI 驱动的发现建立可信基础。</li>
+<li id="p-front-66-zh"><strong>大规模建设验证基础设施：</strong> 生成的成本已呈指数下降，验证的成本却没有。投资于 AI 赋能的验证系统、开放标准和持续复现机制。制定标准，以支持开发机器可审计的复现包，并奖励那些复现或推翻有影响力科学结果的人。</li>
+<li id="p-front-67-zh"><strong>加速自主实验：</strong> 闭环自主实验室能把发现周期压缩若干个数量级，并使科学在真正的工业规模上运行。把投资集中于机器人与自动化实验室，借助产业需求和联邦研发，确保我们的科学仪器工业基础建立在世界上最好的硬件与软件之上，并在即将到来的科学革命中领跑。</li>
+<li id="p-front-68-zh"><strong>试验 AI 原生的科学机构：</strong> 今天的资助结构、出版体系和贡献认定机制，是为人类节奏的发现世界而建的。开始向 AI 原生机构过渡，包括更快速、更开放的科学出版形式，更细粒度的贡献归因，以及把资源导向「突破最要紧之处」的新市场机制。</li>
+</ul></div>
+</div>
+```
