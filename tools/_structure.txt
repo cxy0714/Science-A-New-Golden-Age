@@ -1,0 +1,94 @@
+== extracted parts ==
+
+--- annex-fy2028.en.md: captions=0 stat=0 table_lines=0 subheads=0
+
+--- chapter-01.en.md: captions=3 stat=1 table_lines=0 subheads=0
+  caption: *Figure 1: Private sector basic R&D has grown rapidly over the past two decades. It now rivals higher educatio
+  caption: *Figure 2: For the first time, the United States faces a peer-level competitor in R&D spending on a purchasing
+  caption: *Figure 3: The share of U.S. doctorates awarded to temporary visa holders with definite postgraduation commitm
+  stat: > $886B U.S. R&D investment, 2024
+
+--- chapter-02.en.md: captions=2 stat=1 table_lines=8 subheads=0
+  caption: *Figure 4: The average age of first-time NIH investigators has increased consistently over the past four decad
+  caption: *Table 1: Established institutional forms, such as universities, corporate laboratories, and federal laborator
+  stat: > 44% of researcher time spent on grant administration
+  table: | **Activity** | **University** | **Corporate Lab** | **Federal** Lab | **New Institutions** |
+  table: | Curiosity-driven, investigator-led research | ● | ○ | ◐ | By design |
+  table: | Larger-scale, engineering-intensive science | ○ | ◐ | ◐ | By design |
+  table: | Long-horizon platform and tool development | ○ | ◐ | ● | By design |
+  table: | Public-goods data and infrastructure development | ◐ | ○ | ◐ | By design |
+  table: | Mission-driven, public-good science | ◐ | ○ | ◐ | By design |
+
+--- chapter-03.en.md: captions=0 stat=0 table_lines=0 subheads=0
+
+--- chapter-04.en.md: captions=0 stat=1 table_lines=0 subheads=0
+  stat: > 1 in 3 Americans live in a county with no R&D employer
+
+--- chapter-05.en.md: captions=0 stat=1 table_lines=0 subheads=0
+  stat: > 2026 the beginning of a new American century in science
+
+--- front.en.md: captions=0 stat=0 table_lines=0 subheads=4
+
+--- references.en.md: captions=0 stat=0 table_lines=0 subheads=0
+
+== <img> in web edition ==
+  src=https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/whitehouse-47-logo.png alt='' class=None width=868 height=367
+     parent: <div class=wp-block-whitehouse-header__center> text=''
+  src=https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/whitehouse-47-logo-blue.png alt='' class=None width=868 height=367
+     parent: <div class=wp-block-whitehouse-header__center> text=''
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/04/WH-Mobile-App.png?w=1022 alt='' class=['attachment-large', 'size-large'] width=1022 height=1146
+     parent: <div class=wp-block-whitehouse-header__menu-features-content> text='Featured Featured Official White House App 365 Days of Wins About President Trump About Vice President Vance 3'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/01/54986761298_15680bb214_o.jpg?w=419 alt='' class=['attachment-large', 'size-large'] width=419 height=464
+     parent: <div class=wp-block-whitehouse-header__menu-features-content> text='Featured Featured Official White House App 365 Days of Wins About President Trump About Vice President Vance 3'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/01/President-Donald-Trump-Official-Presidential-Portrait.png-1-1.jpg?w=756 alt='' class=['attachment-large', 'size-large'] width=756 height=839
+     parent: <div class=wp-block-whitehouse-header__menu-features-content> text='Featured Featured Official White House App 365 Days of Wins About President Trump About Vice President Vance 3'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/01/Vice-President-J.D.-Vance.jpg-1.jpg?w=580 alt='' class=['attachment-large', 'size-large'] width=580 height=644
+     parent: <div class=wp-block-whitehouse-header__menu-features-content> text='Featured Featured Official White House App 365 Days of Wins About President Trump About Vice President Vance 3'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/01/54986761568_b5b3e6aa96_o-1.jpg?w=580 alt='' class=['attachment-large', 'size-large'] width=580 height=644
+     parent: <div class=wp-block-whitehouse-header__menu-features-content> text='Featured Featured Official White House App 365 Days of Wins About President Trump About Vice President Vance 3'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/04/WH-Mobile-App.png?w=1022 alt='' class=['attachment-large', 'size-large'] width=1022 height=1146
+     parent: <div class=wp-block-whitehouse-header__menu-features-content> text='Featured Featured Official White House App 365 Days of Wins About President Trump About Vice President Vance 3'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/01/Screenshot-2026-01-21-at-10.13.23-AM-3.jpg?w=580 alt='' class=['attachment-large', 'size-large'] width=580 height=644
+     parent: <div class=wp-block-whitehouse-header__menu-features-content> text='Featured Featured Official White House App 365 Days of Wins About President Trump About Vice President Vance 3'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/01/Screenshot-2026-01-21-at-10.36.30-AM-2.jpg?w=580 alt='' class=['attachment-large', 'size-large'] width=580 height=644
+     parent: <div class=wp-block-whitehouse-header__menu-features-content> text='Featured Featured Official White House App 365 Days of Wins About President Trump About Vice President Vance 3'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/01/Group-633658.jpg?w=580 alt='' class=['attachment-large', 'size-large'] width=580 height=644
+     parent: <div class=wp-block-whitehouse-header__menu-features-content> text='Featured Featured Official White House App 365 Days of Wins About President Trump About Vice President Vance 3'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/01/Screenshot-2026-01-21-at-10.39.15-AM-1.jpg?w=580 alt='' class=['attachment-large', 'size-large'] width=580 height=644
+     parent: <div class=wp-block-whitehouse-header__menu-features-content> text='Featured Featured Official White House App 365 Days of Wins About President Trump About Vice President Vance 3'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/01/Screenshot-2025-04-10-at-11.52.53-AM-7-1.jpg?w=797 alt='' class=['attachment-large', 'size-large'] width=797 height=688
+     parent: <div class=wp-block-whitehouse-header__menu-features-content> text='Featured Featured Official White House App 365 Days of Wins About President Trump About Vice President Vance 3'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/01/White-House-State-Ballroom-Interior-View-Looking-South-Up.jpeg-1.jpg?w=580 alt='' class=['attachment-large', 'size-large'] width=580 height=644
+     parent: <div class=wp-block-whitehouse-header__menu-features-content> text='Featured Featured Official White House App 365 Days of Wins About President Trump About Vice President Vance 3'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/01/54648004748_bac25b6b3f_o-1.jpg?w=541 alt='' class=['attachment-large', 'size-large'] width=541 height=600
+     parent: <div class=wp-block-whitehouse-header__menu-features-content> text='Featured Featured Official White House App 365 Days of Wins About President Trump About Vice President Vance 3'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/01/Screenshot-2025-12-15-at-4.39.17-PM-1-4.jpg?w=908 alt='' class=['attachment-large', 'size-large'] width=908 height=898
+     parent: <div class=wp-block-whitehouse-header__menu-features-content> text='Featured Featured Official White House App 365 Days of Wins About President Trump About Vice President Vance 3'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/07/sunburst.png alt='' class=None width=None height=None
+     parent: <div class=hero-sunburst> text=''
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/07/seal.png alt='Seal of the President of the United States' class=None width=None height=None
+     parent: <div class=hero-seal> text=''
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/07/graph-1-1.png alt='' class=None width=None height=None
+     parent: <div class=reading-column> text='One particularly visible shift in the scientific machine is who funds and performs research. When Bush penned '
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/07/graph-1-2.png alt='' class=None width=None height=None
+     parent: <div class=reading-column> text='One particularly visible shift in the scientific machine is who funds and performs research. When Bush penned '
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/07/graph-1-3.png alt='' class=None width=None height=None
+     parent: <div class=reading-column> text='On the global stage, America no longer stands alone as the unchallenged leader in science and technology. The '
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/07/graph-1-4.png alt='' class=None width=None height=None
+     parent: <div class=reading-column> text='Beyond strengthening science, we also have a duty to ensure that its downstream benefits accrue to the America'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/07/graph-2-1.png alt='' class=None width=None height=None
+     parent: <div class=reading-column> text='The academy is a long and difficult road, leading to few stable positions. We should encourage early-career sc'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/08/apple.png alt='' class=None width=None height=None
+     parent: <div class=wp-block-whitehouse-footer__cta-buttons> text='Available On The App Store Get It On Google Play'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/08/play.png alt='' class=None width=None height=None
+     parent: <div class=wp-block-whitehouse-footer__cta-buttons> text='Available On The App Store Get It On Google Play'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/08/chrome.png alt='' class=['wp-block-whitehouse-footer__browser-badge'] width=None height=None
+     parent: <div class=wp-block-whitehouse-footer__browser-badges> text='Available On'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/08/safari.png alt='' class=['wp-block-whitehouse-footer__browser-badge'] width=None height=None
+     parent: <div class=wp-block-whitehouse-footer__browser-badges> text='Available On'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/08/firefox.png alt='' class=['wp-block-whitehouse-footer__browser-badge'] width=None height=None
+     parent: <div class=wp-block-whitehouse-footer__browser-badges> text='Available On'
+  src=https://www.whitehouse.gov/wp-content/uploads/2026/08/exten.png alt='' class=None width=None height=None
+     parent: <div class=wp-block-whitehouse-footer__cta-buttons> text='Download Browser Extension Enable Desktop Notifications'
+
+== <figure>/<figcaption> in web edition ==

@@ -1,0 +1,6 @@
+chapter-02: markers in web text vs printed PDF
+  [^26] context not found: …'regardless of its mechanical skill.*'
+  [^39] context not found: …'today**,** across all degree types.'
+  [^56] context not found: …'into a large-scale, university-affiliated center.'
+
+markers checked: 57  agreed with printed PDF: 54

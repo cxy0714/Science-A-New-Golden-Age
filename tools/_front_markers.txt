@@ -1,0 +1,33 @@
+--- page 4 (body size 10.0) ---
+  superscript digits: []
+--- page 5 (body size 10.0) ---
+  superscript digits: []
+--- page 6 (body size 10.0) ---
+  superscript digits: []
+--- page 7 (body size 10.0) ---
+  superscript digits: []
+--- page 8 (body size 10.0) ---
+  superscript digits: []
+--- page 9 (body size 10.0) ---
+  superscript digits: []
+--- page 10 (body size 10.0) ---
+  superscript digits: []
+--- page 11 (body size 10.0) ---
+  superscript digits: []
+--- page 12 (body size 10.0) ---
+  superscript digits: []
+--- page 13 (body size 10.0) ---
+  superscript digits: []
+--- page 14 (body size 10.0) ---
+  superscript digits: []
+--- page 15 (body size 10.0) ---
+  superscript digits: []
+--- page 16 (body size 10.0) ---
+  superscript digits: []
+--- page 17 (body size 10.0) ---
+  superscript digits: []
+--- page 18 (body size 10.0) ---
+  superscript digits: []
+--- page 19 (body size 10.0) ---
+  superscript digits: ['1']
+    1: 1

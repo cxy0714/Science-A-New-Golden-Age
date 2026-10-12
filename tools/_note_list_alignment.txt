@@ -1,0 +1,370 @@
+pdf list entries: 105  first=73 last=99
+web list entries: 185 first=1 last=186
+offset +0: 10/105 entries match
+offset -1: 4/105 entries match
+offset +1: 71/105 entries match
+
+MISMATCH pdf 73: 
+         web 73: Pierre Azoulay et al., “Incentives and Creativity: Evidence from the Academic Life Sciences.”
+
+MISMATCH pdf 3: U.S. Department of Agriculture, “A Look at Agricultural Productivity Growth in the United States, 1948-2017,” USDA Blog, March 5, 2020, https://www.us
+         web 3: U.S. Department of Agriculture, “A Look at Agricultural Productivity Growth in the United States, 1948-2017,” USDA Blog, March 5, 2020, https://www.us
+
+MISMATCH pdf 12: Semiconductor Industry Association, 2025 SIA Factbook, https://www.semiconductors.org/ wp-content/uploads/2025/05/2025-SIA-Factbook-FINAL-1.pdf.
+         web 12: Semiconductor Industry Association, 2025 SIA Factbook, https://www.semiconductors.org/wp-content/uploads/2025/05/2025-SIA-Factbook-FINAL-1.pdf.
+
+MISMATCH pdf 13: National Center for Science and Engineering Statistics, National Patterns of R&D Resources: 2023-24 Data Update, NSF 26-313 (National Science Foundati
+         web 13: <missing>
+         best web match: 14 (0.94)
+
+MISMATCH pdf 14: National Center for Science and Engineering Statistics, National Patterns of R&D Resources.
+         web 14: National Center for Science and Engineering Statistics, National Patterns of R&D Resources: 2023-24 Data Update, NSF 26-313 (National Science Foundati
+         best web match: 15 (1.00)
+
+MISMATCH pdf 15: Bush, Science, the Endless Frontier, 17–21.
+         web 15: National Center for Science and Engineering Statistics, National Patterns of R&D Resources.
+         best web match: 16 (1.00)
+
+MISMATCH pdf 16: Donald E. Stokes, Pasteur’s Quadrant: Basic Science and Technological Innovation (Brookings Institution Press, 1997).
+         web 16: Bush, Science, the Endless Frontier, 17–21.
+         best web match: 17 (1.00)
+
+MISMATCH pdf 17: Sandra L. Schneider et al., 2018 Faculty Workload Survey: Primary Report (Federal Demonstra- tion Partnership, 2020), https://thefdp.org/wp-content/up
+         web 17: Donald E. Stokes, Pasteur’s Quadrant: Basic Science and Technological Innovation (Brookings Institution Press, 1997).
+         best web match: 18 (0.91)
+
+MISMATCH pdf 74: End Notes
+         web 74: Francis S. Collins et al., “NIH Roadmap/Common Fund at 10 Years,” Science 345, no. 6194 (2014): 274–276, https://doi.org/10.1126/science.1255860.
+
+MISMATCH pdf 18: Pierre Azoulay et al., “Indirect Cost Recovery in U.S. Innovation Policy: History, Evidence, and Avenues for Reform” (NBER Working Paper No. 33627, Na
+         web 18: Sandra L. Schneider et al., 2018 Faculty Workload Survey: Primary Report (Federal Demonstration Partnership, 2020), https://thefdp.org/wp-content/uplo
+         best web match: 19 (1.00)
+
+MISMATCH pdf 19: National Institutes of Health, “Supplemental Guidance to the 2024 NIH Grants Policy State- ment: Indirect Cost Rates,” NOT-OD-25-068, February 7, 2025
+         web 19: Pierre Azoulay et al., “Indirect Cost Recovery in U.S. Innovation Policy: History, Evidence, and Avenues for Reform” (NBER Working Paper No. 33627, Na
+         best web match: 20 (0.88)
+
+MISMATCH pdf 20: National Science Board, Discovery: R&D Activity and Research Publications, NSB-2025-7 (National Science Foundation, National Center for Science and En
+         web 20: National Institutes of Health, “Supplemental Guidance to the 2024 NIH Grants Policy Statement: Indirect Cost Rates,” NOT-OD-25-068, February 7, 2025, 
+         best web match: 21 (1.00)
+
+MISMATCH pdf 21: National Science Board, Discovery: R&D Activity and Research Publications; Organisation for Eco- nomic Co-operation and Development, Main Science and 
+         web 21: National Science Board, Discovery: R&D Activity and Research Publications, NSB-2025-7 (National Science Foundation, National Center for Science and En
+         best web match: 22 (1.00)
+
+MISMATCH pdf 22: National Center for Science and Engineering Statistics, Doctorate Recipients from U.S. Universi- ties: 2023, NSF 25-300 (National Science Foundation, 
+         web 22: National Science Board, Discovery: R&D Activity and Research Publications; Organisation for Economic Co-operation and Development, Main Science and Te
+         best web match: 23 (0.94)
+
+MISMATCH pdf 23: Donald Trump, National Security Presidential Memorandum 33: United States Government Sup- ported Research and Development National Security Policy, Ja
+         web 23: National Center for Science and Engineering Statistics, Doctorate Recipients from U.S. Universities: 2023, NSF 25-300 (National Science Foundation, De
+         best web match: 24 (0.99)
+
+MISMATCH pdf 24: Chuck Gwyn and Stefan Wurm, “EUV LLC: An Historical Perspective,” in EUV Lithography, ed. Vivek Bakshi (SPIE Press, December 10, 2008), https://doi.or
+         web 24: Donald Trump, National Security Presidential Memorandum 33: United States GovernmentSupported Research and Development National Security Policy, Janua
+         best web match: 25 (1.00)
+
+MISMATCH pdf 25: National Center for Science and Engineering Statistics, “Table 6-3: Temporary Visa Holder Research Doctorate Recipients with Definite Postgraduation C
+         web 25: Chuck Gwyn and Stefan Wurm, “EUV LLC: An Historical Perspective,” in EUV Lithography, ed. Vivek Bakshi (SPIE Press, December 10, 2008), https://doi.or
+         best web match: 26 (1.00)
+
+MISMATCH pdf 26: Bush, Science, the Endless Frontier, 17.
+         web 26: National Center for Science and Engineering Statistics, “Table 6-3: Temporary Visa Holder Research Doctorate Recipients with Definite Postgraduation C
+         best web match: 27 (1.00)
+
+MISMATCH pdf 27: Andrew Fieldhouse and Karel Mertens, “The Returns to Government R&D: Evidence from U.S. Appropriations Shocks,” Working Paper No. 2305 (Federal Reserv
+         web 27: Bush, Science, the Endless Frontier, 17.
+         best web match: 28 (1.00)
+
+MISMATCH pdf 28: Nicholas Bloom et al., “Are Ideas Getting Harder to Find?” American Economic Review 110, no. 4 (2020): 1104–44; Michael Park et al., “Papers and Paten
+         web 28: Andrew Fieldhouse and Karel Mertens, “The Returns to Government R&D: Evidence from U.S. Appropriations Shocks,” Working Paper No. 2305 (Federal Reserv
+         best web match: 29 (1.00)
+
+MISMATCH pdf 29: Jack W. Scannell et al., “Diagnosing the Decline in Pharmaceutical R&D Efficiency,” Nature Re- views Drug Discovery 11, no. 3 (2012): 191–200, https:/
+         web 29: Nicholas Bloom et al., “Are Ideas Getting Harder to Find?” American Economic Review 110, no. 4 (2020): 1104–44, https://doi.org/10.1257/aer.20180338; 
+         best web match: 30 (1.00)
+
+MISMATCH pdf 30: The NIH budget doubled from $13.6 billion in 1998 to $27.1 billion in 2003. See: Bruce Alberts et al., “Rescuing US Biomedical Research from Its Syste
+         web 30: Jack W. Scannell et al., “Diagnosing the Decline in Pharmaceutical R&D Efficiency,” Nature Reviews Drug Discovery 11, no. 3 (2012): 191–200, https://d
+         best web match: 31 (1.00)
+
+MISMATCH pdf 31: Bloom, “Are Ideas Getting Harder to Find?”
+         web 31: The NIH budget doubled from $13.6 billion in 1998 to $27.1 billion in 2003. See: Bruce Alberts et al., “Rescuing US Biomedical Research from Its Syste
+         best web match: 32 (1.00)
+
+MISMATCH pdf 32: Adam Mastroianni, “Ideas Aren’t Getting Harder to Find and Anyone Who Tells You Otherwise Is a Coward and I Will Fight Them,” Experimental History (bl
+         web 32: Bloom, “Are Ideas Getting Harder to Find?”
+
+MISMATCH pdf 33: Paul Starr, The Social Transformation of American Medicine: The Rise of a Sovereign Profession and the Making of a Vast Industry, updated ed. (Basic B
+         web 33: Adam Mastroianni, “Ideas Aren’t Getting Harder to Find and Anyone Who Tells You Otherwise Is a Coward and I Will Fight Them,” Experimental History (bl
+         best web match: 34 (1.00)
+
+MISMATCH pdf 34: National Institute of Allergy and Infectious Diseases, “Timeline for Funding Decisions,” National Institutes of Health, last reviewed September 30, 20
+         web 34: Paul Starr, The Social Transformation of American Medicine: The Rise of a Sovereign Profession and the Making of a Vast Industry, updated ed. (Basic B
+         best web match: 35 (0.89)
+
+MISMATCH pdf 75: End Notes
+         web 75: NSF Graduate Research Fellowship Program, “About GRFP,” https://www.nsfgrfp.org/about.html.
+
+MISMATCH pdf 35: Joe Sutter and Jay Spenser, 747: Creating the World’s First Jumbo Jet and Other Adventures from a Life in Aviation (Smithsonian Books, 2006).
+         web 35: National Institute of Allergy and Infectious Diseases, “Timeline for Funding Decisions,” National Institutes of Health, last reviewed September 30, 20
+         best web match: 36 (1.00)
+
+MISMATCH pdf 36: Council on Governmental Relations, “Changes in Federal Research Requirements Since 1991,” January 2025, https://www.cogr.edu/sites/default/files/RegCh
+         web 36: Joe Sutter and Jay Spenser, 747: Creating the World's First Jumbo Jet and Other Adventures from a Life in Aviation (Smithsonian Books, 2006).
+         best web match: 37 (1.00)
+
+MISMATCH pdf 37: Pierre Azoulay et al., “Indirect Cost Recovery and American Innovation: Context and Ideas for Reform,” Institute for Progress, July 24, 2025, https://
+         web 37: Council on Governmental Relations, “Changes in Federal Research Requirements Since 1991,” January 2025, https://www.cogr.edu/sites/default/files/RegCh
+         best web match: 38 (0.93)
+
+MISMATCH pdf 38: Kristin R. W. Matthews et al., “The Aging of Biomedical Research in the United States,” PLOS One 6, no. 12 (2011): e29738, https://doi.org/10.1371/jou
+         web 38: Pierre Azoulay et al., “Indirect Cost Recovery and American Innovation: Context and Ideas for Reform,” Institute for Progress, July 24, 2025, https://
+         best web match: 39 (1.00)
+
+MISMATCH pdf 39: National Institutes of Health, “Average Age and Degree of NIH R01-Equivalent First-Time Awardees 1980–2016,” Early Stage Investigator Related Data, NI
+         web 39: Kristin R. W. Matthews et al., “The Aging of Biomedical Research in the United States,” PLOS One 6, no. 12 (2011): e29738, https://doi.org/10.1371/jou
+         best web match: 40 (0.91)
+
+MISMATCH pdf 40: Max Planck, Scientific Autobiography and Other Papers, translated by Frank Gaynor (Williams & Norgate Ltd., 1950), 33–34.
+         web 40: National Institutes of Health, “Average Age and Degree of NIH R01-Equivalent First-Time Awardees 1980 – 2016,” Early Stage Investigator Related Data, 
+         best web match: 41 (1.00)
+
+MISMATCH pdf 41: Pierre Azoulay et al., “Does Science Advance One Funeral at a Time?” American Economic Re- view 109, no. 8 (2019): 2889–2920, https://doi.org/10.1257/
+         web 41: Max Planck, Scientific Autobiography and Other Papers, translated by Frank Gaynor (Williams & Norgate Ltd., 1950), 33–34.
+         best web match: 42 (1.00)
+
+MISMATCH pdf 42: Johan S. G. Chu and James A. Evans, “Slowed Canonical Progress in Large Fields of Science,” Proceedings of the National Academy of Sciences 118, no. 4
+         web 42: Pierre Azoulay et al., “Does Science Advance One Funeral at a Time?” American Economic Review 109, no. 8 (2019): 2889–2920, https://doi.org/10.1257/ae
+         best web match: 43 (0.92)
+
+MISMATCH pdf 43: Ted Cruz, D.E.I.: Division, Extremism, Ideology: How the Biden-Harris NSF Politicized Science (U.S. Senate Committee on Commerce, Science, and Transpo
+         web 43: Johan S. G. Chu and James A. Evans, “Slowed Canonical Progress in Large Fields of Science,” Proceedings of the National Academy of Sciences 118, no. 4
+
+MISMATCH pdf 44: Igor R. Efimov et al., “Politicizing Science Funding Undermines Public Trust in Science, Aca- demic Freedom, and the Unbiased Generation of Knowledge,
+         web 44: Ted Cruz, D.E.I.: Division, Extremism, Ideology: How the Biden-Harris NSF Politicized Science (U.S. Senate Committee on Commerce, Science, and Transpo
+         best web match: 45 (1.00)
+
+MISMATCH pdf 45: Jerome Karabel, The Chosen: The Hidden History of Admission and Exclusion at Harvard, Yale, and Princeton (Houghton Mifflin, 2005).
+         web 45: Igor R. Efimov et al., “Politicizing Science Funding Undermines Public Trust in Science, Academic Freedom, and the Unbiased Generation of Knowledge,” 
+         best web match: 46 (1.00)
+
+MISMATCH pdf 46: Pierre Azoulay et al., “Incentives and Creativity: Evidence from the Academic Life Sciences,” RAND Journal of Economics 42, no. 3 (September 12, 2011)
+         web 46: Jerome Karabel, The Chosen: The Hidden History of Admission and Exclusion at Harvard, Yale, and Princeton (Houghton Mifflin, 2005).
+         best web match: 47 (0.92)
+
+MISMATCH pdf 47: Michael Park et al., “Papers and Patents Are Becoming Less Disruptive over Time.”
+         web 47: Pierre Azoulay et al., “Incentives and Creativity: Evidence from the Academic Life Sciences,” RAND Journal of Economics 42, no. 3 (September 12, 2011)
+         best web match: 48 (1.00)
+
+MISMATCH pdf 48: Open Science Collaboration, “Estimating the Reproducibility of Psychological Science,” Science 349, no. 6251 (2015): aac4716, https://doi.org/10.1126/
+         web 48: Michael Park et al., “Papers and Patents Are Becoming Less Disruptive over Time.”
+         best web match: 49 (1.00)
+
+MISMATCH pdf 49: Anatoly Nikolaev et al., “Retracted Article: APP Binds DR6 to Trigger Axon Pruning and Neuron Death via Distinct Caspases,” Nature 457 (2009): 981–989
+         web 49: Open Science Collaboration, “Estimating the Reproducibility of Psychological Science,” Science 349, no. 6251 (2015): aac4716, https://doi.org/10.1126/
+         best web match: 50 (1.00)
+         best web match: 52 (0.87)
+
+MISMATCH pdf 50: Genentech, “Findings of 2023 Genentech Review of 2009 Nature Paper and Related Research,” April 6, 2023, https://www.gene.com/media/statements/ps_0406
+         web 50: Anatoly Nikolaev et al., “Retracted Article: APP Binds DR6 to Trigger Axon Pruning and Neuron Death via Distinct Caspases,” Nature 457 (2009): 981–989
+         best web match: 51 (1.00)
+
+MISMATCH pdf 51: Nikolaev et al., “Retracted Article: APP Binds DR6 to Trigger Axon Pruning and Neuron Death via Distinct Caspases.”
+         web 51: Genentech, “Findings of 2023 Genentech Review of 2009 Nature Paper and Related Research,” April 6, 2023, https://www.gene.com/media/statements/ps_0406
+         best web match: 50 (0.87)
+         best web match: 52 (1.00)
+
+MISMATCH pdf 52: Theo Baker, “Stanford President’s Research Under Investigation for Scientific Misconduct, University Admits ‘Mistakes’,” The Stanford Daily, November 
+         web 52: Nikolaev et al., “Retracted Article: APP Binds DR6 to Trigger Axon Pruning and Neuron Death via Distinct Caspases.”
+
+MISMATCH pdf 76: End Notes
+         web 76: Patrick Collison et al., “What We Learned Doing Fast Grants,” Future, June 2, 2022, https://future.com/what-we-learned-doing-fast-grants; Heidi Willia
+
+MISMATCH pdf 53: Dalmeet Singh Chawla, “‘Golden Tickets’ on the Cards for NSF Grant Reviewers,” Nature 614 (2023): 604–605, https://doi.org/10.1038/d41586-023-00579-z;
+         web 53: Theo Baker, “Stanford President's Research Under Investigation for Scientific Misconduct, University Admits ‘Mistakes’,” The Stanford Daily, November 
+         best web match: 54 (1.00)
+
+MISMATCH pdf 54: R.D. Anderson, “Germany and the Humboldtian Model,” in European Universities from the Enlightenment to 1914 (Oxford University Press, 2004), https://d
+         web 54: Dalmeet Singh Chawla, “‘Golden Tickets’ on the Cards for NSF Grant Reviewers,” Nature 614 (2023): 604–605, https://doi.org/10.1038/d41586-023-00579-z;
+         best web match: 55 (0.91)
+
+MISMATCH pdf 55: Nobel Prize Outreach, “The Nobel Prize in Chemistry 2024,” press release, October 9, 2024, https://www.nobelprize.org/prizes/chemistry/2024/press-rele
+         web 55: R.D. Anderson, “Germany and the Humboldtian Model,” in European Universities from the Enlightenment to 1914 (Oxford University Press, 2004), https://d
+         best web match: 56 (1.00)
+
+MISMATCH pdf 56: “The Audacious Project: Launching the Protein Design Revolution,” UW Medicine, April 17, 2019, https://give.uwmedicine.org/ipd-audacious.
+         web 56: Nobel Prize Outreach, “The Nobel Prize in Chemistry 2024,” press release, October 9, 2024, https://www.nobelprize.org/prizes/chemistry/2024/press-rele
+         best web match: 57 (1.00)
+
+MISMATCH pdf 57: John Moult et al., “A Large-Scale Experiment to Assess Protein Structure Prediction Methods,” Proteins: Structure, Function, and Bioinformatics 23, no
+         web 57: “The Audacious Project: Launching the Protein Design Revolution,” UW Medicine, April 17, 2019, https://give.uwmedicine.org/ipd-audacious.
+         best web match: 58 (0.95)
+
+MISMATCH pdf 58: Michael Nielsen and Kanjun Qiu, “A Vision of Metascience: An Engine of Improvement for the Social Processes of Science,” October 18, 2022, https://sci
+         web 58: John Moult et al., “A Large-Scale Experiment to Assess Protein Structure Prediction Methods,” Proteins: Structure, Function, and Bioinformatics 23, no
+         best web match: 59 (1.00)
+
+MISMATCH pdf 59: Ben Southwood, “The Rise and Fall of the Industrial R&D Lab,” Works in Progress, August 28, 2020, https://worksinprogress.co/issue/the-rise-and-fall-o
+         web 59: Michael Nielsen and Kanjun Qiu, “A Vision of Metascience: An Engine of Improvement for the Social Processes of Science,” October 18, 2022, https://sci
+         best web match: 60 (1.00)
+
+MISMATCH pdf 60: Sam Rodriques and Adam Marblestone, “Focused Research Organizations to Accelerate Science, Technology, and Medicine,” Federation of American Scientist
+         web 60: Ben Southwood, “The Rise and Fall of the Industrial R&D Lab,” Works in Progress, August 28, 2020, https://worksinprogress.co/issue/the-rise-and-fall-o
+         best web match: 61 (0.95)
+
+MISMATCH pdf 61: Ben Reinhardt, “Unbundling the University,” Speculative Technologies, February 2025, https:// www.unbundle-the-university.com.
+         web 61: Sam Rodriques and Adam Marblestone, “Focused Research Organizations to Accelerate Science, Technology, and Medicine,” Federation of American Scientist
+
+MISMATCH pdf 62: Caleb Watney, “Launching X-Labs for Transformative Science Funding,” in The Techno-Industrial Policy Playbook (The Foundation for American Innovation;
+         web 62: Ben Reinhardt, “Unbundling the University,” Speculative Technologies, February 2025, https://www.unbundle-the-university.com.
+         best web match: 63 (0.89)
+
+MISMATCH pdf 63: Adam Marblestone et al., “Unblock Research Bottlenecks with Non-Profit Start-Ups,” Nature 601, no. 7892 (January 11, 2022): 188–190, https://doi.org/1
+         web 63: Caleb Watney, “Launching X-Labs for Transformative Science Funding,” in The Techno-Industrial Policy Playbook (The Foundation for American Innovation;
+         best web match: 64 (1.00)
+
+MISMATCH pdf 64: Caleb Watney, “Launching X-Labs for Transformative Science Funding.”
+         web 64: Adam Marblestone et al., “Unblock Research Bottlenecks with Non-Profit Start-Ups,” Nature 601, no. 7892 (January 11, 2022): 188–190, https://doi.org/1
+         best web match: 65 (1.00)
+
+MISMATCH pdf 65: Stuart Buck, “A Taxonomy of R&D Orgs: What Is New, What Is Missing?” Good Science Project, forthcoming.
+         web 65: Caleb Watney, “Launching X-Labs for Transformative Science Funding.”
+         best web match: 66 (1.00)
+
+MISMATCH pdf 66: Adam Marblestone and Andrew Payne, “Mapping the Brain for Alignment,” Institute for Prog- ress, August 11, 2025, https://ifp.org/mapping-the-brain-for
+         web 66: Stuart Buck, “A Taxonomy of R&D Orgs: What Is New, What Is Missing?” Good Science Project, forthcoming.
+         best web match: 67 (1.00)
+
+MISMATCH pdf 67: Heidi Williams, “Building a Better NIH,” Institute for Progress, May 17, 2023, https://ifp.org/ building-a-better-nih.
+         web 67: Adam Marblestone and Andrew Payne, “Mapping the Brain for Alignment,” Institute for Progress, August 11, 2025, https://ifp.org/mapping-the-brain-for-a
+         best web match: 68 (0.87)
+
+MISMATCH pdf 68: Chawla, “‘Golden Tickets’ on the Cards for NSF Grant Reviewers.”
+         web 68: Heidi Williams, “Building a Better NIH,” Institute for Progress, May 17, 2023, https://ifp.org/building-a-better-nih.
+         best web match: 69 (1.00)
+         best web match: 71 (1.00)
+
+MISMATCH pdf 69: Ishan Sharma et al., “Piloting and Evaluating NSF Science Lottery Grants: A Roadmap to Improv- ing Research Funding Efficiencies and Proposal Diversit
+         web 69: Chawla, “‘Golden Tickets’ on the Cards for NSF Grant Reviewers.”
+         best web match: 70 (1.00)
+
+MISMATCH pdf 70: Chawla, “‘Golden Tickets’ on the Cards for NSF Grant Reviewers.”
+         web 70: Ishan Sharma et al., “Piloting and Evaluating NSF Science Lottery Grants: A Roadmap to Improving Research Funding Efficiencies and Proposal Diversity,
+         best web match: 69 (1.00)
+         best web match: 71 (1.00)
+
+MISMATCH pdf 71: Howard Hughes Medical Institute, “Mid-Career & Senior Faculty Program,” https://www.hhmi. org/programs/investigators.
+         web 71: Chawla, “‘Golden Tickets’ on the Cards for NSF Grant Reviewers.”
+
+MISMATCH pdf 72: Pierre Azoulay et al., “Incentives and Creativity: Evidence from the Academic Life Sciences.”
+         web 72: Howard Hughes Medical Institute, “Mid-Career & Senior Faculty Program,” https://www.hhmi.org/programs/investigators.
+         best web match: 73 (1.00)
+
+MISMATCH pdf 77: End Notes
+         web 77: Defense Advanced Research Projects Agency, “The DARPA Grand Challenge: Ten Years Later,” DARPA News, March 13, 2014, https://www.darpa.mil/news/2014/g
+
+MISMATCH pdf 73: Francis S. Collins et al., “NIH Roadmap/Common Fund at 10 Years,” Science 345, no. 6194 (2014): 274–276, https://doi.org/10.1126/science.1255860.
+         web 73: Pierre Azoulay et al., “Incentives and Creativity: Evidence from the Academic Life Sciences.”
+         best web match: 74 (1.00)
+
+MISMATCH pdf 74: NSF Graduate Research Fellowship Program, “About GRFP,” https://www.nsfgrfp.org/about. html.
+         web 74: Francis S. Collins et al., “NIH Roadmap/Common Fund at 10 Years,” Science 345, no. 6194 (2014): 274–276, https://doi.org/10.1126/science.1255860.
+         best web match: 75 (0.95)
+
+MISMATCH pdf 75: Patrick Collison et al., “What We Learned Doing Fast Grants,” Future, June 2, 2022, https:// future.com/what-we-learned-doing-fast-grants; Heidi Willi
+         web 75: NSF Graduate Research Fellowship Program, “About GRFP,” https://www.nsfgrfp.org/about.html.
+
+MISMATCH pdf 76: Defense Advanced Research Projects Agency, “The DARPA Grand Challenge: Ten Years Later,” DARPA News, March 13, 2014, https://www.darpa.mil/news/2014/g
+         web 76: Patrick Collison et al., “What We Learned Doing Fast Grants,” Future, June 2, 2022, https://future.com/what-we-learned-doing-fast-grants; Heidi Willia
+         best web match: 77 (0.97)
+
+MISMATCH pdf 77: XPRIZE Foundation, “Mojave Aerospace Ventures Wins That Competition That Started It All,” https://www.xprize.org/news/mojave-aerospace-ventures-wins-t
+         web 77: Defense Advanced Research Projects Agency, “The DARPA Grand Challenge: Ten Years Later,” DARPA News, March 13, 2014, https://www.darpa.mil/news/2014/g
+         best web match: 78 (1.00)
+
+MISMATCH pdf 78: Vesuvius Challenge, “Vesuvius Challenge 2023 Grand Prize Awarded: We Can Read the Scrolls!” February 4, 2024, https://scrollprize.org/grandprize.
+         web 78: XPRIZE Foundation, “Mojave Aerospace Ventures Wins That Competition That Started It All,” https://www.xprize.org/news/mojave-aerospace-ventures-wins-t
+         best web match: 79 (1.00)
+
+MISMATCH pdf 79: Vitalik Buterin et al., “A Flexible Design for Funding Public Goods,” Management Science 65, no. 11 (July 2, 2019): 5171–5187, https://doi.org/10.1287
+         web 79: Vesuvius Challenge, “Vesuvius Challenge 2023 Grand Prize Awarded: We Can Read the Scrolls!” February 4, 2024, https://scrollprize.org/grandprize.
+         best web match: 80 (1.00)
+
+MISMATCH pdf 80: Adam Marblestone et al., “Introducing the Convergent Research Gap Map,” Essential Technol- ogy (blog), April 15, 2025, https://www.essentialtechnology
+         web 80: Vitalik Buterin et al., “A Flexible Design for Funding Public Goods,” Management Science 65, no. 11 (July 2, 2019): 5171–5187, https://doi.org/10.1287
+         best web match: 81 (0.93)
+
+MISMATCH pdf 81: “Heilmeier Catechism,” Defense Advanced Research Projects Agency (DARPA), https://www. darpa.mil/about/heilmeier-catechism.
+         web 81: Adam Marblestone et al., “Introducing the Convergent Research Gap Map,” Essential Technology (blog), April 15, 2025, https://www.essentialtechnology.b
+
+MISMATCH pdf 82: UK Metascience Unit, A Year in Metascience (2025), (Department for Science, Innovation and Technology and UK Research and Innovation, June 30, 2025), 
+         web 82: “Heilmeier Catechism,” Defense Advanced Research Projects Agency (DARPA), https://www.darpa.mil/about/heilmeier-catechism.
+         best web match: 83 (0.87)
+
+MISMATCH pdf 83: The White House, National Security Strategy of the United States of America (November 2025), https://www.whitehouse.gov/wp-content/uploads/2025/12/202
+         web 83: UK Metascience Unit, A Year in Metascience (2025), (Department for Science, Innovation and Technology and UK Research and Innovation, June 30, 2025), 
+         best web match: 84 (1.00)
+
+MISMATCH pdf 84: Allan Dafoe, “On Technological Determinism: A Typology, Scope Conditions, and a Mechanism,” Science, Technology, & Human Values 40, no. 6 (2015): 1047
+         web 84: The White House, National Security Strategy of the United States of America (November 2025), https://www.whitehouse.gov/wp-content/uploads/2025/12/202
+         best web match: 85 (0.94)
+
+MISMATCH pdf 85: W. Brian Arthur, Increasing Returns and Path Dependence in the Economy (University of Michi- gan Press, 1994).
+         web 85: Allan Dafoe, “On Technological Determinism: A Typology, Scope Conditions, and a Mechanism,” Science, Technology, & Human Values 40, no. 6 (2015): 1047
+         best web match: 86 (1.00)
+
+MISMATCH pdf 86: National Science Board, Discovery: R&D Activity and Research Publications.
+         web 86: W. Brian Arthur, Increasing Returns and Path Dependence in the Economy (University of Michigan Press, 1994).
+         best web match: 87 (1.00)
+
+MISMATCH pdf 87: KPMG Private Enterprise, “2024 Global VC Investment Rises to $368 Billion as Investor Inter- est in AI Soars While IPO Optimism Grows For 2025 Accordi
+         web 87: National Science Board, Discovery: R&D Activity and Research Publications.
+
+MISMATCH pdf 88: U.S. Nuclear Regulatory Commission, “Pre-application Process,” last reviewed or updated May 13, 2026, https://www.nrc.gov/reactors/new-reactors/advanc
+         web 88: KPMG Private Enterprise, “2024 Global VC Investment Rises to $368 Billion as Investor Interest in AI Soars While IPO Optimism Grows For 2025 According
+
+MISMATCH pdf 89: Nuclear Energy Innovation and Modernization Act, Pub. L. No. 115–439, 132 Stat. 5565 (2019).
+         web 89: U.S. Nuclear Regulatory Commission, “Pre-application Process,” last reviewed or updated May 13, 2026, https://www.nrc.gov/reactors/new-reactors/advanc
+         best web match: 90 (1.00)
+
+MISMATCH pdf 78: End Notes
+         web 78: XPRIZE Foundation, “Mojave Aerospace Ventures Wins That Competition That Started It All,” https://www.xprize.org/news/mojave-aerospace-ventures-wins-t
+
+MISMATCH pdf 90: Erik Cothron, “Fact Sheet: President Trump’s Nuclear Energy Executive Orders,” Nuclear Innovation Alliance, May 29, 2025, https://nuclearinnovationall
+         web 90: Nuclear Energy Innovation and Modernization Act, Pub. L. No. 115–439, 132 Stat. 5565 (2019).
+
+MISMATCH pdf 91: “PRIMA Visual Prosthesis,” Science Corporation, https://science.xyz/technologies/prima.
+         web 91: Erik Cothron, “Fact Sheet: President Trump’s Nuclear Energy Executive Orders,” Nuclear Innovation Alliance, May 29, 2025, https://nuclearinnovationall
+         best web match: 92 (1.00)
+
+MISMATCH pdf 92: Aylin Sertkaya et al., U.S. Department of Health and Human Services, Office of the Assistant Secretary for Planning and Evaluation, Examination of Cli
+         web 92: “PRIMA Visual Prosthesis,” Science Corporation, https://science.xyz/technologies/prima.
+         best web match: 93 (0.95)
+
+MISMATCH pdf 93: U.S. Food and Drug Administration, “FDA Eliminates Major Barrier to Using Real-World Evidence in Drug and Device Application Reviews,” press announcem
+         web 93: Aylin Sertkaya et al., U.S. Department of Health and Human Services, Office of the Assistant Secretary for Planning and Evaluation, Examination of Cli
+
+MISMATCH pdf 94: Vinay Prasad and Martin A. Makary, “One Pivotal Trial, the New Default Option for FDA Ap- proval—Ending the Two-Trial Dogma,” New England Journal of M
+         web 94: U.S. Food and Drug Administration, “FDA Eliminates Major Barrier to Using Real-World Evidence in Drug and Device Application Reviews,” press announcem
+         best web match: 95 (1.00)
+
+MISMATCH pdf 95: National Institutes of Health, “Highlighted Topics,” NIH Grants & Funding, last updated Dec­ ember 10, 2025, https://grants.nih.gov/funding/find-a-fit
+         web 95: Vinay Prasad and Martin A. Makary, “One Pivotal Trial, the New Default Option for FDA Approval—Ending the Two-Trial Dogma,” New England Journal of Med
+         best web match: 96 (0.98)
+
+MISMATCH pdf 96: U.S. Food and Drug Administration, “Commissioner’s National Priority Voucher (CNPV) Pilot Program,” last modified April 28, 2026, https://www.fda.gov/
+         web 96: National Institutes of Health, “Highlighted Topics,” NIH Grants & Funding, last updated December 10, 2025, https://grants.nih.gov/funding/find-a-fit-f
+         best web match: 97 (0.86)
+
+MISMATCH pdf 97: Kim Stringfellow, “Peace, Love and Rockets: Amateur Rocketry in the Mojave,” PBS SoCal, Au- gust 31, 2017, https://www.pbssocal.org/shows/artbound/pea
+         web 97: U.S. Food and Drug Administration, “Commissioner’s National Priority Voucher (CNPV) Pilot Program,” last modified April 28, 2026, https://www.fda.gov/
+         best web match: 98 (0.93)
+
+MISMATCH pdf 98: Mojave Air and Space Port, “America’s First Inland Space Port,” https://mojaveairport.com/ about-us/page/americas-first-inland-space-port.
+         web 98: Kim Stringfellow, “Peace, Love and Rockets: Amateur Rocketry in the Mojave,” PBS SoCal, August 31, 2017, https://www.pbssocal.org/shows/artbound/peace
+
+MISMATCH pdf 99: NASA, “NASA and X Prize Announce Winners of Lunar Lander Challenge,” press release, June 6, 2013, https://www.nasa.gov/news-release/nasa-and-x-prize-a
+         web 99: Mojave Air and Space Port, “America’s First Inland Space Port,” https://mojaveairport.com/about-us/page/americas-first-inland-space-port.
+
+identity-offset mismatches: 95

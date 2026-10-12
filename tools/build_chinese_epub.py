@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
-"""Build a Chinese machine-translation EPUB from the White House PDF."""
+"""Build a Chinese machine-translation EPUB from the White House PDF.
+
+DEPRECATED — this is the old pipeline, kept only as a record of how the first
+edition was produced. It reads the PDF text layer line by line, which lets page
+numbers, running heads and endnote digits into the body and cuts sentences at
+arbitrary points. Use tools/build_bilingual_epub.py (web edition + block-level
+alignment) instead; see sources/README.md for the forensics.
+"""
 
 from __future__ import annotations
 

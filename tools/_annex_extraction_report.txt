@@ -1,0 +1,110 @@
+FY 2028 R&D Priorities Memorandum - extraction and verification report
+
+generated: 2026-10-12 by tools/extract_annex.py
+
+1. Sources
+
+primary     : sources/White-House-Fiscal-Year-2028-RD-Priorities-Memorandum.pdf
+              https://www.whitehouse.gov/wp-content/uploads/2026/07/White-House-Fiscal-Year-2028-RD-Priorities-Memorandum.pdf
+              1880339 bytes, sha256 27e3f16f41c83dfff983887283ec2e6309134022c963d9c92bc19fd011f4de7a
+              14 pages (p.1 = scan + OCR layer, p.2-14 = digital text layer)
+cross-check : Science-A-New-Golden-Age.pdf, PDF pages 102-121
+              = printed pages 85-104 (reprint titled "Annex: FY 2028 R&D Priorities Memo")
+
+2. Method
+
+Text is rebuilt from the standalone PDF's block structure: PyMuPDF blocks
+are already paragraph-, heading- and bullet-aligned, so paragraphs are the
+unit of reconstruction (no line-per-visual-line output). Within a block,
+visual lines are joined; blocks are sorted by (y, x); small-font digit runs
+(<=9 pt) become [^n] call-outs. Page numbers (lone digits near the bottom
+centre) are dropped. Paragraphs split by a page break are rejoined when the
+new page opens without a heading or a bullet and the previous block is a
+bullet or ends without terminal punctuation. Heading level 1 = all-caps
+all-bold block, level 2 = all-bold block. Bullets become markdown list
+items. Fields taken from the annex reprint instead of the OCR first page:
+the FROM block (names/titles) and the document number NSTM-5 / M-26-16.
+
+3. OCR repairs on the scanned first page
+
+  '(Al)' -> '(AI)'   (OCR read "AI" as "Al" (lower-case L); annex p.85 has "(AI)".)
+  'build. To. usher' -> 'build. To usher'   (stray OCR period; annex p.85 has "To usher".)
+  'the modem American' -> 'the modern American'   (OCR read "modern" as "modem"; annex p.85 has "modern".)
+  'Patterns ofR&D' -> 'Patterns of R&D'   (OCR dropped the space; footnote 1.)
+  'WASHINGTON , D.C.' -> 'WASHINGTON, D.C.'   (OCR space before comma; letterhead.)
+  'half century,2 and yet' -> 'half century,[^2] and yet'   (the footnote-2 call-out was OCR'd into the body at full size instead of as a small digit; annex p.86 reads "half century,and" with the call-out removed.)
+  '10.2139/ssm.3822691' -> '10.2139/ssrn.3822691'   (OCR dropped the r of the SSRN DOI prefix in footnote 4.)
+  FROM block (MICHAEL J. KRATSIOS / ASSISTANT TO THE PRESIDENT / DIRECTOR, OFFICE OF ... / RUSSELL T. VOUGHT) taken verbatim from the annex reprint, whose text layer is clean.
+
+4. Output
+
+  file            : sources/en/annex-fy2028.en.md
+  words (file)    : 6192
+  words (body)    : 5929
+  words (notes)   : 50 in 5 footnote(s)
+  headings        : 3 x '### ' + 9 x '#### '
+  paragraphs      : 23
+  list items      : 38
+
+5. Quantitative verification (difflib.SequenceMatcher, token level)
+
+  comparison unit : one token = one word, lower-cased, punctuation stripped,
+                    hyphens and soft hyphens deleted so that the two PDFs'
+                    different line-breaking/hyphenation cannot create noise
+  annex tokens    : 6019
+  output tokens   : 6010  (the 5 footnote call-outs
+                    [^1]-[^5], absent from the annex reprint, are excluded;
+                    the annex reprint's own memo block is excluded too)
+  token delta     : 9 = exactly the words of the
+                    one divergent phrase in cluster [1] below
+  similarity ratio: 0.999252
+  difference clusters: 1
+
+  clusters (annex -> output):
+
+   [1] delete
+       annex : ...scientific pursuits increase grant durations for transformative research agencies should develop proposals for the fy 2028 budget that would expand the number of longduration grants ideally lasting five years...
+       output: ...scientific pursuits increase grant durations for transformative research agencies should expand the number of longduration grants ideally lasting five years...
+
+6. Residual differences, ambiguities, decisions
+
+  1. Page ranges
+     The annex reprint runs over printed pages 85-104 (PDF pages 102-121 of Science-A-New-Golden-Age.pdf, 20 pages), not 85-95 as briefed: printed p.104 still carries the running head "Annex: FY 2028 R&D Priorities Memo" and holds the IMPLEMENTATION section, and PDF page 122 (printed 105) is blank. PDF page 101 is the "Annex" divider, page 100 ends the report's End Notes.
+
+  2. Footnotes
+     The standalone memo carries five footnotes (four on its page 1, one on page 2); the report's annex reprint drops them entirely (their numbers leave residue in the report text such as "century,and yet"). They are kept here as inline [^1]-[^5] markers plus a Notes section, because they are part of the memo and appear nowhere else in the repo.
+
+  3. Textual divergence between the two PDFs
+     One substantive wording difference could not be reconciled: the "Increase Grant Durations for Transformative Research" bullet reads "Agencies should expand the number of long-duration grants" in the standalone memo (p.8) but "Agencies should develop proposals for the FY 2028 Budget that would expand the number of long-duration grants" in the report annex (printed p.96). The preferred standalone wording is used; a translator should be aware the report prints the longer variant.
+
+  4. Verbatim oddities kept
+     "the DOW Vannevar Bush Faculty Fellowship" and "the National Institute of Health (NIH) Director's Pioneer Award" are spelled that way in BOTH PDFs, so they are reproduced verbatim (the intended bodies are almost certainly DoD and the National Institutes of Health).
+
+  5. Scanned first page
+     The standalone memo's first page is a 600-dpi scan (5100x6600 px on a 612x792 pt page) whose OCR text layer is overprinted by the signature image; six OCR defects were repaired (see fixes above) and the FROM block was taken from the annex reprint. The rest of the standalone PDF (pages 2-14) has a digital text layer with no mid-word line breaks.
+
+  6. Letterhead
+     The letterhead lines (EXECUTIVE OFFICE OF THE PRESIDENT / WASHINGTON, D.C. 20502) come from the OCR layer only; the report's annex reprint does not reproduce the letterhead, so there is no second source to confirm them, though they are the standard EOP memo letterhead.
+
+  7. DOI in footnote 4
+     The scan's footnote 4 reads "https://dx.doi.org/10.2139/ssm.3822691". "ssm" is not a real SSRN DOI prefix: 10.2139/ssm.3822691 returns 404, while 10.2139/ssrn.3822691 resolves to ssrn.com/abstract=3822691. The printed URL is therefore "ssrn" and the OCR dropped the r.
+
+  8. Tables
+     The memo contains no tables or charts; every visual block is a paragraph or a bulleted list item, so nothing had to be linearised.
+
+  9. Why the standalone PDF is the base text
+     The annex reprint's text layer breaks words across lines with plain hyphens (142 line-final hyphens, only 20 of them soft hyphens) and offers no reliable way to tell 'discov-/ery' (glue) from 'mid-/scale' (keep the hyphen), so it cannot be dehyphenated mechanically. The standalone memo's digital pages have zero mid-word breaks (its 11 line-final hyphens are all real compounds), which makes it the only safe base; the annex is then used as the independent check.
+
+7. Non-goals
+
+  No other file in the repo was modified. The 185 endnote definitions that
+  previously sat in sources/en/annex-fy2028.en.md are the report's own
+  endnotes (they are also present in sources/en/references.en.md and in
+  sources/report.json); they are not part of the memo and were dropped
+  when the file was replaced with the memo text.
+
+8. Reproduce
+
+  python tools/extract_annex.py            # rewrites the memo + this report
+  python tools/extract_annex.py --debug    # dumps block classification/diff
+

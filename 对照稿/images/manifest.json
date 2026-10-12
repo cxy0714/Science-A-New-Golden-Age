@@ -1,0 +1,216 @@
+[
+  {
+    "figure": "Figure 1 (left panel)",
+    "file": "figure-1a-performers.png",
+    "source": "pdf",
+    "url_or_page": "Science-A-New-Golden-Age.pdf physical page 24 (vector artwork, rendered at 432 dpi)",
+    "width": 2394,
+    "height": 1668,
+    "bytes": 85056,
+    "caption_en": "Figure 1: Private sector basic R&D has grown rapidly over the past two decades. It now rivals higher education among performers (left) and the Federal Government among funders (right) of basic research in the United States.",
+    "slug": "chapter-01",
+    "section": "I.5",
+    "section_id": "chapter-1-growing-private-sector-randd",
+    "section_title": "Growing Private Sector R&D",
+    "web_alternative": [
+      {
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/07/graph-1-1.png",
+        "width": 624,
+        "height": 407,
+        "bytes": 24450
+      },
+      {
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/07/graph-1-2.png",
+        "width": 1155,
+        "height": 49,
+        "bytes": 21297
+      }
+    ],
+    "composition": "panel crop + the full shared legend row pasted underneath at its native scale (no rescaling); Figure 1 is one printed figure whose two panels share one y axis and one legend row, split at x=306 pt",
+    "caption_location": "italic caption, PDF p.24 y=498.5-531.9 (excluded from the crop)",
+    "chart": {
+      "panel_title": "BASIC ANNUAL R&D SPEND BY PERFORMER",
+      "x_axis": "years 1957-2023 (labels rotated 90 deg, every 6th year: 1957, 1963 ... 2023)",
+      "y_axis": "R&D Spend (Billions, 2017 Dollars), 0-60, ticks every 10",
+      "legend": "shared with the right panel: Higher Education (solid), Business (dotted), Federal (long dashes), Nonprofits (short dashes)",
+      "series": [
+        "Higher Education - solid line; calibrated value range ~0 to ~53 bn, the highest curve of the panel",
+        "Business - dotted; ~0 to ~38 bn, flat and low for the first decades then the steepest rise of the four (the 'grown rapidly over the past two decades' series)",
+        "Federal - dashed; stays low, ~0 to ~13 bn",
+        "Nonprofits - dotted/sparse; stays low, ~0 to ~11 bn"
+      ]
+    },
+    "render_dpi": 432,
+    "legible_at_800px": {
+      "chart_type_px": 16.0,
+      "note": "8 pt chart type of the printed page renders at 16 px when the image is shown 800 px wide"
+    }
+  },
+  {
+    "figure": "Figure 1 (right panel)",
+    "file": "figure-1b-funders.png",
+    "source": "pdf",
+    "url_or_page": "Science-A-New-Golden-Age.pdf physical page 24 (vector artwork, rendered at 432 dpi)",
+    "width": 2394,
+    "height": 1668,
+    "bytes": 69820,
+    "caption_en": "Figure 1: Private sector basic R&D has grown rapidly over the past two decades. It now rivals higher education among performers (left) and the Federal Government among funders (right) of basic research in the United States.",
+    "slug": "chapter-01",
+    "section": "I.5",
+    "section_id": "chapter-1-growing-private-sector-randd",
+    "section_title": "Growing Private Sector R&D",
+    "web_alternative": [
+      {
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/07/graph-1-1.png",
+        "width": 624,
+        "height": 407,
+        "bytes": 24450
+      },
+      {
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/07/graph-1-2.png",
+        "width": 1155,
+        "height": 49,
+        "bytes": 21297
+      }
+    ],
+    "composition": "panel crop + the full shared legend row pasted underneath at its native scale (no rescaling); Figure 1 is one printed figure whose two panels share one y axis and one legend row, split at x=306 pt",
+    "caption_location": "italic caption, PDF p.24 y=498.5-531.9 (excluded from the crop)",
+    "chart": {
+      "panel_title": "BASIC ANNUAL R&D SPEND BY SOURCE",
+      "x_axis": "years 1957-2023 (labels rotated 90 deg, every 6th year)",
+      "y_axis": "shared with the left panel: 0-60 bn (2017 dollars); the printed figure labels the scale on the left panel only",
+      "legend": "same shared legend row as the left panel",
+      "series": [
+        "Federal - dashed; calibrated value range ~1 to ~46 bn, the highest curve of the panel (the Federal Government funds far more basic research than it performs)",
+        "Business - dotted; ~0 to ~40 bn, catching up to Federal - exactly the 'rivals the Federal Government among funders' claim in the caption",
+        "Higher Education - solid; ~0 to ~14 bn - as a funder it is far lower than as a performer (left panel), which cross-checks the series-to-category mapping",
+        "Nonprofits - dotted/sparse; ~0 to ~11 bn"
+      ]
+    },
+    "render_dpi": 432,
+    "legible_at_800px": {
+      "chart_type_px": 16.0,
+      "note": "8 pt chart type of the printed page renders at 16 px when the image is shown 800 px wide"
+    }
+  },
+  {
+    "figure": "Figure 2",
+    "file": "figure-2-us-china-eu.png",
+    "source": "pdf",
+    "url_or_page": "Science-A-New-Golden-Age.pdf physical page 27 (vector artwork, rendered at 432 dpi)",
+    "width": 2454,
+    "height": 1650,
+    "bytes": 81330,
+    "caption_en": "Figure 2: For the first time, the United States faces a peer-level competitor in R&D spending on a purchasing power parity (PPP)-adjusted basis.",
+    "slug": "chapter-01",
+    "section": "I.8",
+    "section_id": "chapter-1-at-a-time-of-urgent-scientific-need",
+    "section_title": "At a Time of Urgent Scientific Need",
+    "web_alternative": [
+      {
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/07/graph-1-3.png",
+        "width": 1659,
+        "height": 1221,
+        "bytes": 47742
+      }
+    ],
+    "composition": "single chart crop from the printed page",
+    "caption_location": "italic caption, PDF p.27 y=572.7-584.4 (excluded from the crop)",
+    "chart": {
+      "panel_title": "GROSS DOMESTIC EXPENDITURE ON R&D",
+      "x_axis": "years 2000-2024, ticks every 2 years",
+      "y_axis": "Billions of Current PPP Dollars, 0-1,200, ticks every 200",
+      "legend": "United States (solid), EU 27 (dotted), China (long dashes)",
+      "series": [
+        "United States - solid; calibrated value range ~250 to ~1,056 bn",
+        "EU 27 - dotted; ~132 to ~609 bn",
+        "China - long dashes; ~9 to ~1,059 bn - starts negligible and ends level with the US, which is exactly the 'peer-level competitor' claim in the caption"
+      ]
+    },
+    "render_dpi": 432,
+    "legible_at_800px": {
+      "chart_type_px": 15.6,
+      "note": "8 pt chart type of the printed page renders at 16 px when the image is shown 800 px wide"
+    }
+  },
+  {
+    "figure": "Figure 3",
+    "file": "figure-3-visa-doctorates.png",
+    "source": "pdf",
+    "url_or_page": "Science-A-New-Golden-Age.pdf physical page 29 (vector artwork, rendered at 432 dpi)",
+    "width": 2454,
+    "height": 1692,
+    "bytes": 79766,
+    "caption_en": "Figure 3: The share of U.S. doctorates awarded to temporary visa holders with definite postgraduation commitments has doubled over four decades, rising from roughly 20% to 40% in natural sciences and engineering, and from 10% to 20% in social, behavioral, and health sciences.",
+    "slug": "chapter-01",
+    "section": "I.9",
+    "section_id": "chapter-1-regaining-leadership",
+    "section_title": "Regaining Leadership",
+    "web_alternative": [
+      {
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/07/graph-1-4.png",
+        "width": 1611,
+        "height": 1356,
+        "bytes": 52317
+      }
+    ],
+    "composition": "single chart crop from the printed page",
+    "caption_location": "italic caption, PDF p.29 y=530.5-539.9 (excluded from the crop)",
+    "chart": {
+      "panel_title": "PROPORTION OF DOCTORATES AWARDED TO TEMPORARY VISA HOLDERS",
+      "x_axis": "years 1980-2024, ticks every 4 years",
+      "y_axis": "Proportion of Temporary Visa Holders, 0%-50%, ticks every 10%",
+      "legend": "Natural Sciences & Engineering (solid), Social and Applied Life Sciences (long dashes)",
+      "series": [
+        "Natural Sciences & Engineering - solid; calibrated value range ~18% to ~48%, while the caption rounds the trend to 'roughly 20% to 40%'",
+        "Social and Applied Life Sciences - long dashes; ~12% to ~27%, caption '10% to 20%'"
+      ]
+    },
+    "render_dpi": 432,
+    "legible_at_800px": {
+      "chart_type_px": 15.6,
+      "note": "8 pt chart type of the printed page renders at 16 px when the image is shown 800 px wide"
+    }
+  },
+  {
+    "figure": "Figure 4",
+    "file": "figure-4-nih-investigator-age.png",
+    "source": "pdf",
+    "url_or_page": "Science-A-New-Golden-Age.pdf physical page 34 (vector artwork, rendered at 432 dpi)",
+    "width": 2454,
+    "height": 1668,
+    "bytes": 91446,
+    "caption_en": "Figure 4: The average age of first-time NIH investigators has increased consistently over the past four decades, from mid-thirties in 1980 to the early forties today, across all degree types.",
+    "slug": "chapter-02",
+    "section": "II.3",
+    "section_id": "chapter-2-the-incumbency-tax",
+    "section_title": "The Incumbency Tax",
+    "web_alternative": [
+      {
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/07/graph-2-1.png",
+        "width": 1685,
+        "height": 1221,
+        "bytes": 44848
+      }
+    ],
+    "composition": "single chart crop from the printed page",
+    "caption_location": "italic caption, PDF p.34 y=514.5-523.9 (excluded from the crop)",
+    "chart": {
+      "panel_title": "AVERAGE AGE OF R01-EQUIVELENT FIRST-TIME INVESTIGATORS",
+      "panel_title_note": "the printed artwork really does spell EQUIVELENT (typo in the original)",
+      "x_axis": "years 1980-2016, ticks every 4 years",
+      "y_axis": "Average Age, 34-46, ticks every 2 years",
+      "legend": "MD-PhD (solid), PhD only (dotted), MD only (long dashes)",
+      "series": [
+        "MD-PhD - solid; calibrated value range ~36 to ~45 years",
+        "PhD only - dotted; ~35 to ~43 years",
+        "MD only - long dashes; ~37 to ~46 years (the steepest of the three)"
+      ]
+    },
+    "render_dpi": 432,
+    "legible_at_800px": {
+      "chart_type_px": 15.6,
+      "note": "8 pt chart type of the printed page renders at 16 px when the image is shown 800 px wide"
+    }
+  }
+]

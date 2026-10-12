@@ -1,0 +1,6 @@
+chapter-05: markers in web text vs printed PDF
+  [^144] context not found: …'to remember, as they appear.*'
+  [^145] context not found: …'intimate supplement to his memory.*'
+  [^168] PDF shows ? …'lock researchers into vendor ecosystems.'' Scientists attempti'
+
+markers checked: 42  agreed with printed PDF: 39

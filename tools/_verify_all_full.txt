@@ -1,0 +1,23 @@
+﻿
+=== verification summary ===
+PDF?web  front         PASS  difference clusters: 32
+markers  front         PASS  front: no numbered endnotes expected; markers in the text: 0
+PDF?web  chapter-01    PASS  difference clusters: 14
+markers  chapter-01    PASS  checked 25, agreed 25
+PDF?web  chapter-02    PASS  difference clusters: 19
+markers  chapter-02    PASS  checked 57, agreed 54
+PDF?web  chapter-03    PASS  difference clusters: 4
+markers  chapter-03    PASS  checked 38, agreed 38
+PDF?web  chapter-04    PASS  difference clusters: 9
+markers  chapter-04    PASS  checked 23, agreed 23
+PDF?web  chapter-05    PASS  difference clusters: 5
+markers  chapter-05    PASS  checked 42, agreed 39
+PDF?web  annex-fy2028  PASS  difference clusters: 54
+markers  annex-fy2028  PASS  checked 5, agreed 5
+zh lint                PASS  clean
+alignment              PASS  built 7 part(s), 0 failure(s)
+combined markdown      PASS  annex-fy2028    93 blocks  images: ��
+epub build             PASS  wrote ��ѧ_һ���µĻƽ�ʱ��_����.epub (509 KB, 7 parts, 5 images)
+epub check             PASS  OK: well-formed, links and images resolve, no page furniture detected
+
+19/19 passed
