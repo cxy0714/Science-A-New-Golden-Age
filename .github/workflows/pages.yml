@@ -1,0 +1,39 @@
+name: Deploy web edition
+
+# 发布 docs/ 中已经渲染好的静态站点（网页版电子书）。
+# docs/ 由 tools/build_web.py 在本地生成并提交，因此这里只上传产物，不需要在 CI 里装 Quarto。
+# 首次运行会用 enablement: true 创建 Pages 站点（仓库设置里的 Source 会变成 "GitHub Actions"）。
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "docs/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v4
